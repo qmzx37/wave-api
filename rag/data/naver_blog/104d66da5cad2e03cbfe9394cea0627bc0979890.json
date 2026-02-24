@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_104d66da5cad2e03cbfe9394cea0627bc0979890",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/orsky460/222868655046",
+    "title": "02-2 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "02-2 문자열 자료형\n- 요약: 입력한 그대로 출력이 된다. 작은따옴표 3개 연속( ''' ) 로 둘러싸기 ''' Life is too short... # 위 예에서 볼 수 있듯이 a[번호]는 문자열 안의 특정한 값을 뽑아내는 역할을 한다....\n- 링크: https://blog.naver.com/orsky460/222868655046\n- 키워드: <위 문자열 그대로>"
+}

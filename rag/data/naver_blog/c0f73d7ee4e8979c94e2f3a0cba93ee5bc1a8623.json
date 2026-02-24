@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c0f73d7ee4e8979c94e2f3a0cba93ee5bc1a8623",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/leb8081/222396482218",
+    "title": "print, 문자열 자료형, 숫자형 자료형 복습",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "print, 문자열 자료형, 숫자형 자료형 복습\n- 요약: 두번째, 문자열 자료형은 말 그대로 문자로 이루어진 자료형이다. 문자열 자료형은 작은 따옴표 사이 혹은 큰따옴표 사이의 값이 출력된다. print(&quot;문자열 자료&quot;) 혹은 print('문자열 자료') 로...\n- 링크: https://blog.naver.com/leb8081/222396482218\n- 키워드: <위 문자열 그대로>"
+}

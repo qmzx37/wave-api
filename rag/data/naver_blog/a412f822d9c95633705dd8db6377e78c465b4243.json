@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a412f822d9c95633705dd8db6377e78c465b4243",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221563901268",
+    "title": "문자열을 매개 변수로 가지는 API 함수의 진짜 이름에 대하여!",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "문자열을 매개 변수로 가지는 API 함수의 진짜 이름에 대하여!\n- 요약: 변환하고 FindWindow 함수를 호출해도 됩니다. 하지만 문자열 형식을 변환하지 않고 아래의 코드처럼 FindWindowA 함수를 호출해서 ASCII 형식의 문자열을 그대로 사용해도 된다는 뜻입니다. &quot;&quot;\n- 링크: https://blog.naver.com/tipsware/221563901268\n- 키워드: <위 문자열 그대로>"
+}

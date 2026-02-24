@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7e224b15ad0673971c908dee1de0e4da1e7630d5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hansb1023/222195736392",
+    "title": "문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:17",
+    "ok": true
+  },
+  "text": "문자열\n- 요약: (123 * 5 = 615) 하지만, 타입변환은 그 순간 뿐이므로 이후의 msg 타입은 그대로 str이다. (문자열과 정수의 덧셈은 불가능) 문자열간의 비교연산자 아스키코드 값으로 비교 (소문자...\n- 링크: https://blog.naver.com/hansb1023/222195736392\n- 키워드: <위 문자열 그대로>"
+}

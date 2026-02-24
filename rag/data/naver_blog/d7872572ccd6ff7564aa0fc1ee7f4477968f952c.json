@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d7872572ccd6ff7564aa0fc1ee7f4477968f952c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sweet_briize/223362393814",
+    "title": "[파이썬] 자료형_문자열 자료형01",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "[파이썬] 자료형_문자열 자료형01\n- 요약: 코드 설명 \\n 문자열 내에서 줄바꿈 할 때 \\t 문자열 사이에 탭 간격을 줄 때 \\\\ \\을 그대로 표현할 때 \\' 작은따옴표( ' )를 그대로 표현할 때 \\&quot; 큰따옴표( &quot; )를 그대로 표현할 때 \\r 캐리지 리턴(줄바꿈...\n- 링크: https://blog.naver.com/sweet_briize/223362393814\n- 키워드: <위 문자열 그대로>"
+}

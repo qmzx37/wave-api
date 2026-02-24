@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1fd6805926a75cc8ba10fb15055efb729d9bd6fc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tjdals970221/222744413036",
+    "title": "Python 3 / 정수형,실수,문자열과 인덱싱",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "Python 3 / 정수형,실수,문자열과 인덱싱\n- 요약: 1 ------------------------------------ 문자열은 str &quot;&quot;와 ''를 꼭 활용해야합니다. a = &quot;파이썬 어렵다&quot;or... 말그대로 \\을 실제로 사용할때 a= &quot;파이썬\\\\어렵다&quot; print(a) &gt;&gt;&gt; 파이썬\\어렵다 \\'은 작은따옴표를...\n- 링크: https://blog.naver.com/tjdals970221/222744413036\n- 키워드: <위 문자열 그대로>"
+}

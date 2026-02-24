@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b37442f2f59badc2045ad256d6f4b8dc73e212c7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/coding_with_min/223324361356",
+    "title": "[D+65] C(2024.01.16)_문자열과 포인터",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "[D+65] C(2024.01.16)_문자열과 포인터\n- 요약: 이 때, 버퍼에는 개행문자가 그대로 들어가지만 배열에는 널 문자로 바뀌어 저장된다. 결국 gets... &quot;&quot; 위 세가지 방법 중에서 하나를 쓰면 이름을 제대로 입력받아서 출력할 것이다. 7. 문자열을...\n- 링크: https://blog.naver.com/coding_with_min/223324361356\n- 키워드: <위 문자열 그대로>"
+}

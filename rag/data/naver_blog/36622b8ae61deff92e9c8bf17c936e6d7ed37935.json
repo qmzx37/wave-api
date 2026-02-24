@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_36622b8ae61deff92e9c8bf17c936e6d7ed37935",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yongyos/221765047729",
+    "title": "Programmers/프로그래머스 : [2020카카오공채] 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "Programmers/프로그래머스 : [2020카카오공채] 문자열...\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여...\n- 링크: https://blog.naver.com/yongyos/221765047729\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1b71295f74ed5c39b6cd6dd455fa41a15302c71c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nn45926/223883971035",
+    "title": "[C언어] 문자열 배열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "[C언어] 문자열 배열\n- 요약: 그런데 위 문장에서, 우리가 지정한 문자열은 공백문자 포함 13자인데 배열의 길이는 14로 지정되어... scanf 함수와 null &lt;&gt; &quot; &quot; &quot;&quot; &quot; &quot; &quot; &quot; &quot; &quot; 문자열을 입력받고, 입력받은 문자열을 그대로 출력한 뒤, 각 문자...\n- 링크: https://blog.naver.com/nn45926/223883971035\n- 키워드: <위 문자열 그대로>"
+}

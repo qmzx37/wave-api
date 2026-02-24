@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c270b7a0804515fb5dbd1ccf5728cea3ceba10ab",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cunae_/221878267698",
+    "title": "카카오톡 봇 만들기 5. 문자열 가지고 놀기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "카카오톡 봇 만들기 5. 문자열 가지고 놀기\n- 요약: 문자열의 길이를 잴 때는 length를 사용합니다. 영어 그대로의 의미예요. var words = 'this is my design.... 문자열을 다루는 더 다양한 방법이 궁금하시다면 위 링크를 참조해주세요. 초급 강의에서는 이...\n- 링크: https://blog.naver.com/cunae_/221878267698\n- 키워드: <위 문자열 그대로>"
+}

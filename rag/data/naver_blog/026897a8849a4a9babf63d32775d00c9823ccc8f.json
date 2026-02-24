@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_026897a8849a4a9babf63d32775d00c9823ccc8f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dudwo567890/130155978584",
+    "title": "Linux, 문자열 검색 및 편집처리 (grep명령어)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "Linux, 문자열 검색 및 편집처리 (grep명령어)\n- 요약: fgrep은 파일내의 특정문자를 고정된 문자열로만 인식하여 검색한다. &quot;fgrep&quot; 은 &quot;grep... 문자그대로 인식(특수문자를 그대로 표현할때 사용함) /&lt; : 단어의 시작 위치를...\n- 링크: https://blog.naver.com/dudwo567890/130155978584\n- 키워드: <위 문자열 그대로>"
+}

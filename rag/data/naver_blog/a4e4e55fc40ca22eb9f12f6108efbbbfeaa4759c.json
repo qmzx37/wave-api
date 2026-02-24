@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a4e4e55fc40ca22eb9f12f6108efbbbfeaa4759c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/codegihans321/221435126067",
+    "title": "C언어 [문자와 문자열]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "C언어 [문자와 문자열]\n- 요약: 그대로 남습니다. strcpy와 마찬가지로 중간에 NULL 문자가 있으면 종료합니다. 반환하는 값은 받는 배열입니다. strcat(목적 배열, 복사할 배열) 목적 배열에 복사할 배열을 이어 붙입니다. (문자열의...\n- 링크: https://blog.naver.com/codegihans321/221435126067\n- 키워드: <위 문자열 그대로>"
+}

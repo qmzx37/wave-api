@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_33eb538ac2cd673355a938c51ba5a7fe2d9235a4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/piyoro/221795979647",
+    "title": "자바 바이트 배열 -&gt; HEX문자열 변환 풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "자바 바이트 배열 -&gt; HEX문자열 변환 풀이\n- 요약: HEX 문자열은 16진수 2자리로 이루어진 문자열이다. 0xFF 를 최대값으로 갖기 때문에 25510를... 이미 공부한 부분이니 부호화 값을 유지해주기 위해 비트 AND 연산 0xff 그대로 적용해줘야겠다....\n- 링크: https://blog.naver.com/piyoro/221795979647\n- 키워드: <위 문자열 그대로>"
+}

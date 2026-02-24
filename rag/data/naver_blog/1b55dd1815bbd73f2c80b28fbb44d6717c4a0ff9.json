@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1b55dd1815bbd73f2c80b28fbb44d6717c4a0ff9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rasede/150077771835",
+    "title": "[나만의 C언어 예제] 문자열함수05! - 0044",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "[나만의 C언어 예제] 문자열함수05! - 0044\n- 요약: 이건뭐 문자열 함수 첫번째때 했던거 그대로 옮겨 와야겠다. if(strcmp(arr, arr2)==0) { printf(&quot;두 문장은 회문입니다.\\n&quot;); } else { printf(&quot;회문이 아닙니다.\\n&quot;); } 여기에 쓰였었는데....\n- 링크: https://blog.naver.com/rasede/150077771835\n- 키워드: <위 문자열 그대로>"
+}

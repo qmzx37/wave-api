@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_921ddab3f6c2fa566d32063435b16f6734a83cf5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/duddnswnd1/221406557977",
+    "title": "문자열을 치환해주는 함수 - str_replace",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "문자열을 치환해주는 함수 - str_replace\n- 요약: str_replace(치환할 문자열, 치환될 문자열, 해당문자열) 공백을 다른 특수분자로 바꿀수도 있고, 특수문자를 없애버릴 수도 있다. (말그대로 치환하는거니까) 작업 결과는 위에서 작성했던...\n- 링크: https://blog.naver.com/duddnswnd1/221406557977\n- 키워드: <위 문자열 그대로>"
+}

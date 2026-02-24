@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_15f97bec5b5d69d8b4090f67c4551de8297be580",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/heavencoding/222976561085",
+    "title": "C언어 독학(24) - 문자열 (string)과 %s",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "C언어 독학(24) - 문자열 (string)과 %s\n- 요약: c언어 문자열 이란? 제일먼저 개념에 대해서 알아보겠습니다. 말 그대로 문자 하나하나가 모인... 그것이 바로 c언어 문자열이 되는 것이죠! 이건 string이라고 부르기도 합니다. 위 코드처럼 단순히 char를...\n- 링크: https://blog.naver.com/heavencoding/222976561085\n- 키워드: <위 문자열 그대로>"
+}

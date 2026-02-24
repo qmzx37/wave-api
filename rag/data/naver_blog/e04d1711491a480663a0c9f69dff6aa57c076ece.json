@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e04d1711491a480663a0c9f69dff6aa57c076ece",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hweetae/220850128998",
+    "title": "[C] 18-5 - 문자열(5) - 문자열 함수 - strcpy(), strncpy...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "[C] 18-5 - 문자열(5) - 문자열 함수 - strcpy(), strncpy...\n- 요약: 이라고 쓴 점을 주의하시기 바랍니다) 이렇듯 strcpy()함수는 주로 초기화하지 않은 문자열에 대해 이미 정해진 어떠한 문자열을 그대로 대입할 때 쓰면 용이합니다. 하지만 몇...\n- 링크: https://blog.naver.com/hweetae/220850128998\n- 키워드: <위 문자열 그대로>"
+}

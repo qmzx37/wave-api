@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ac782216187d1a9dad7d2b0f839e7cb5c53f93c0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://kimtaehyun98.tistory.com/24",
+    "title": "문자열 - 맨버 마이어스 알고리즘",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "문자열 - 맨버 마이어스 알고리즘\n- 요약: 먼저 접미사 배열은 말 그대로 한 문자열의 모든 접미사들을 사전 순으로 배열에 저장해 놓은 것을 말한다. 이때 접미사들을 그대로 저장하면 문자열의 길이의 제곱에 비례하는...\n- 링크: https://kimtaehyun98.tistory.com/24\n- 키워드: <위 문자열 그대로>"
+}

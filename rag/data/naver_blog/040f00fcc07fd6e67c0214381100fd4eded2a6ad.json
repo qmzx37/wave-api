@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_040f00fcc07fd6e67c0214381100fd4eded2a6ad",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/python_math/221214871615",
+    "title": "Python 명령어 모음 - isX 문자열 메서드 - 문자열의 형식을...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "Python 명령어 모음 - isX 문자열 메서드 - 문자열의 형식을...\n- 요약: 위의 명령어를 사용할 때 주의할 것은 문자열은 반드시 말 그대로 문자열이어야 한다. &gt;&gt;&gt; '3'.isdecimal() True &gt;&gt;&gt; a = 3 &gt;&gt;&gt; a.isdecimal() Traceback (most recent call last): File &quot;&lt;input&gt;&quot;, line 1, in &lt;module...\n- 링크: https://blog.naver.com/python_math/221214871615\n- 키워드: <위 문자열 그대로>"
+}

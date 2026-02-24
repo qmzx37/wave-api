@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0a4b738565601134d9994b8e2ec3c7ccf1eee2d6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rangedayo/224158416630",
+    "title": "앙상블 기법) Boosting",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "앙상블 기법) Boosting\n- 요약: 문자열 그대로 입력하면 내부에서 자동 인코딩해주고, 트리 학습까지 한 번에 해준다. 다만... ▶ 트리 모델은 새롭게 만든 feature를 보고 위 예시처럼 하나하나 yes, no 질문을 달아서 진행한다. 그럼...\n- 링크: https://blog.naver.com/rangedayo/224158416630\n- 키워드: <위 문자열 그대로>"
+}

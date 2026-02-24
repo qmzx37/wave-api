@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0bff86441512d2827e725707a8192053d440c6f6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://jakpentest.tistory.com/261",
+    "title": "[Programmers] JadenCase 문자열 만들기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "[Programmers] JadenCase 문자열 만들기\n- 요약: 그런데 위 코드는 정답이 아니다. 위 코드로 실패하여 머리가 복잡했는데 짜놓은... 시작 문자가 알파벳이 아닌 경우, 시작 문자는 그대로 두고 나머지 문자열을 소문자로...\n- 링크: https://jakpentest.tistory.com/261\n- 키워드: <위 문자열 그대로>"
+}

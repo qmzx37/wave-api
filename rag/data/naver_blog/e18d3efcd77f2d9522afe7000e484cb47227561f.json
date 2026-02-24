@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e18d3efcd77f2d9522afe7000e484cb47227561f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youka_1118/223104021537",
+    "title": "문자열 정리",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "문자열 정리\n- 요약: &quot;&quot; &quot; &amp;&quot; &quot;&quot; 위 코드를 실행해보면 따옴표로 감싸진 문자열은 어떤 문자든 문자 자체를 그대로 출력합니다. 모든 경우에 해당하는 것은 아닙니다. 따옴표로 감싸진 문자열에서 문자가 특별하게 인식되는 경우는...\n- 링크: https://blog.naver.com/youka_1118/223104021537\n- 키워드: <위 문자열 그대로>"
+}

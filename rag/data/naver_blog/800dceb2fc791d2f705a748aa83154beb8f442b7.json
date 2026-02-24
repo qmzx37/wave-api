@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_800dceb2fc791d2f705a748aa83154beb8f442b7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dev_y/223294976583",
+    "title": "[004] C++ 입문 - 조건문 / 반복문 / 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "[004] C++ 입문 - 조건문 / 반복문 / 문자열\n- 요약: switch문에서 break는 말그대로 switch문 탈출을 뜻함 (break가 없다면 탈출을 못함) 이런 break의 특징에... 때 문자열 (번외 지식) 갑자기 문자열을 배운다고 의아할 수도 있지만, 이유는 반복문에 적용할...\n- 링크: https://blog.naver.com/dev_y/223294976583\n- 키워드: <위 문자열 그대로>"
+}

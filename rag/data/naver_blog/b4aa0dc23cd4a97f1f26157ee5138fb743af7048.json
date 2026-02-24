@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b4aa0dc23cd4a97f1f26157ee5138fb743af7048",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/lottogamja/221820199049",
+    "title": "문자열 관련 문법(개행, 그대로 출력, 여러줄 출력)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "문자열 관련 문법(개행, 그대로 출력, 여러줄 출력)\n- 요약: #파이썬 #문법 #독학 #블로그 #idle #python #개행 &gt;&gt;&gt; \\n 을이용하여 문자열 개행을 할 수 있다. &gt;&gt;&gt; &quot;&quot; &gt;&gt;&gt; &quot;&quot; 문자열 앞에 r 을 삽입하여 rawstring로 사용할 수 있다. 위의 예시 참조 참조 : 인프런 - 입문자를 위한...\n- 링크: https://blog.naver.com/lottogamja/221820199049\n- 키워드: <위 문자열 그대로>"
+}

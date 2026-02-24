@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_da0385b2029b2381ca6f22ce51693590f06e87c3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hsgytjr/222902443308",
+    "title": "문자열 String",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "문자열 String\n- 요약: 하지만 위 두가지 방법 중 1번은 가능한 사용하지 않는것이 좋다. 주소를 0으로 초기화 시켜야만... for문의 조건, 증감문은 그대로 쓰고 dest(주소)를 srcLen1 + i 로 저장된 문자열의 길이 + i 부터...\n- 링크: https://blog.naver.com/hsgytjr/222902443308\n- 키워드: <위 문자열 그대로>"
+}

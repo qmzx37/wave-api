@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_deaac7da203681358b5d9cd033d8d8348fe5e066",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/readlibrary85/222272829818",
+    "title": "[Python]05.파이썬의 기초용어 자료형 (2)문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "[Python]05.파이썬의 기초용어 자료형 (2)문자열 자료형\n- 요약: 위 케이스처럼 '를 포함하는 문자열을 만들기 위해 &quot; 을 사용 동일한 모양의 따옴표를 쓰더라도... raw string (r): 위와 같은 이스케이프 코드를 적용할 일도 있겠지만 적용하지 않고 그대로 보여줄 때도...\n- 링크: https://blog.naver.com/readlibrary85/222272829818\n- 키워드: <위 문자열 그대로>"
+}

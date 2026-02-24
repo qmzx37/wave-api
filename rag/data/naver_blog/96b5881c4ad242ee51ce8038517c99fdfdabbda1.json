@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_96b5881c4ad242ee51ce8038517c99fdfdabbda1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tomash6883/222935803608",
+    "title": "Python에서 sys.stdout을 통해 유니코드 문자열 작성",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "Python에서 sys.stdout을 통해 유니코드 문자열 작성\n- 요약: 이제 유니코드 문자열이 sys.stdout 으로 제대로 전송되어 터미널에 제대로 인쇄됩니다( sys.stdout 이... 인코더를 만들고 사용하되 sys.stdout 은 그대로 두십시오. 인코딩된 바이트열을 sys.stdout 에 직접...\n- 링크: https://blog.naver.com/tomash6883/222935803608\n- 키워드: <위 문자열 그대로>"
+}

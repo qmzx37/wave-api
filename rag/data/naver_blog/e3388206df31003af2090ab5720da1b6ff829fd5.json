@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e3388206df31003af2090ab5720da1b6ff829fd5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://lotuslee.tistory.com/147",
+    "title": "[문자열 탐색] KMP 알고리즘",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "[문자열 탐색] KMP 알고리즘\n- 요약: 말 그대로 문자열 T의 문자 하나하나 전부 비교하여서 문자열 P가 존재하는지 찾는 것이다. 바깥쪽 for문은 T의 길이만큼 반복하고, 안쪽 for문은 P의 길이만큼 반복하므로, 시간복잡도는 O...\n- 링크: https://lotuslee.tistory.com/147\n- 키워드: <위 문자열 그대로>"
+}

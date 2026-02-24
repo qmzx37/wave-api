@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_23ca76a56511b9c05684cbf061a2a56055133d73",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/letsreadbook27/222639335642",
+    "title": "문자열 출력하기 / printf문 / C언어 기초",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "문자열 출력하기 / printf문 / C언어 기초\n- 요약: 괄호 안의 문자열을 그대로 인쇄해서 보여주는 것입니다. 그럼 괄호 안의 내용을 바꾸면 어떻게 될까요? #include &lt;stdio.h&gt; int main() { printf(&quot;%d&quot;, 1); return 0; } 이번에는 printf 문의 내부를 위와 같이...\n- 링크: https://blog.naver.com/letsreadbook27/222639335642\n- 키워드: <위 문자열 그대로>"
+}

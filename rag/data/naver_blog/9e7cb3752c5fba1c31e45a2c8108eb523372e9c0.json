@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9e7cb3752c5fba1c31e45a2c8108eb523372e9c0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/26da_/222772713270",
+    "title": "변수와 문자 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "변수와 문자 문자열\n- 요약: 위 코드처럼 변수를 선언합니다. double 8byte char 1byte 앞 자료형은 그냥 넘어가고 우린 변수를... 이럴 경우 문자로 대입했기에 그 값 그대로 A로 뜹니다. 문자와 문자열에 대해 설명합니다. 문자는...\n- 링크: https://blog.naver.com/26da_/222772713270\n- 키워드: <위 문자열 그대로>"
+}

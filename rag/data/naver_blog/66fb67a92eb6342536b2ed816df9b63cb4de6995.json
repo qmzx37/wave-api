@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_66fb67a92eb6342536b2ed816df9b63cb4de6995",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221242721220",
+    "title": "문자열 상수를 char *에 대입하면 오류 발생!",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "문자열 상수를 char *에 대입하면 오류 발생!\n- 요약: // 문자열 상수의 주소를 포인터 p에 저장! return 0;} 위 예제를 컴파일하면 아래와 같은 오류가... 문제를 그대로 방치할 수 없어서 문자열 상수를 char *에 대입하는 것을 허용하지 않도록 수정된...\n- 링크: https://blog.naver.com/tipsware/221242721220\n- 키워드: <위 문자열 그대로>"
+}

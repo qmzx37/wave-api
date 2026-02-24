@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a8319b8bb349290ef04b71c69b926d9a69112a8e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sw4r/221242004171",
+    "title": "[파이썬(Python)] 문자열 - 디버깅하기!",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:34",
+    "ok": true
+  },
+  "text": "[파이썬(Python)] 문자열 - 디버깅하기!\n- 요약: if문으로 문자열에 적어도 하나의 문자가 있는 경우만 두 번째 논리 표현식이 평가되도록 코드를 작성한다. 위와 같이 전체 line 의 길이가 0 보다 크지 않으면 그대로 print 할 것이므로, 빈 칸을 그대로 print...\n- 링크: https://blog.naver.com/sw4r/221242004171\n- 키워드: <위 문자열 그대로>"
+}

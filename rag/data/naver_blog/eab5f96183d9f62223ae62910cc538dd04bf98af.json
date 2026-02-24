@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_eab5f96183d9f62223ae62910cc538dd04bf98af",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bomgi-/224138247923",
+    "title": "✅ TIL 10일차 — 파이썬 기초(입출력/변수/문자열) + 보강세션...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "✅ TIL 10일차 — 파이썬 기초(입출력/변수/문자열) + 보강세션...\n- 요약: 예시를 그대로 복사하듯 맞추기 변수(Variable) 초보일수록 중간값은 변수로 분리하면 실수가 줄어든다 단위가 바뀌면 변수도 바꾸기 (예: 키_cm → 키_m) 문자열(String) 문자열은 “계산”이 아니라...\n- 링크: https://blog.naver.com/bomgi-/224138247923\n- 키워드: <위 문자열 그대로>"
+}

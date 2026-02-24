@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_536cd292ad71982f29226116368fe754fc46dd63",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/eklee-/221192767774",
+    "title": "[Day42.StringR 패키지를 활용한 문자열 처리(2)]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "[Day42.StringR 패키지를 활용한 문자열 처리(2)]\n- 요약: []로 단어를 하나로 묶고, 1번째 데이터는 그대로, 원래는 2번째 데이터가 와야되는데 \\\\3을 써주고 \\\\2를 써줌으로써 순서가 바뀌게 됩니다. 5) 일치하는 문자열을 나누기 str_split()는...\n- 링크: https://blog.naver.com/eklee-/221192767774\n- 키워드: <위 문자열 그대로>"
+}

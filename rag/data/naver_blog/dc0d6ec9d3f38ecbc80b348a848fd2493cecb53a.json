@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dc0d6ec9d3f38ecbc80b348a848fd2493cecb53a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dzknight/20186447331",
+    "title": "PHP 변수에 여러줄 문자열 입력시 유용한 히어닥(Heredoc)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "PHP 변수에 여러줄 문자열 입력시 유용한 히어닥(Heredoc)\n- 요약: 대신에 여러 줄의 문자열의 끝에 위에서 입력했던 식별자를 그대로 써 주어야 한다. 예를 들면 $doc = &lt;&lt;&lt;thisDoc1 Hello World !!! thisDoc1; 이런 식이다. Heredoc의 장점은, 위 이미지에서 보듯이 Editplus와...\n- 링크: https://blog.naver.com/dzknight/20186447331\n- 키워드: <위 문자열 그대로>"
+}

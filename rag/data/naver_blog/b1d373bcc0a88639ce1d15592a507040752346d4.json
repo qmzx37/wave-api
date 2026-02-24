@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b1d373bcc0a88639ce1d15592a507040752346d4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/khc3544/223220239574",
+    "title": "[chatGPT]MQTT의 topic과 payload에 쓰이는 문자열 처리",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "[chatGPT]MQTT의 topic과 payload에 쓰이는 문자열 처리\n- 요약: 아래는 chatGPT의 답변 내용을 그대로 옮겼습니다. c_str() 함수는 C++의 std::string 클래스와 아두이노의 String 클래스와 같은 다른 문자열 유사 클래스에서 제공하는 메서드입니다. 주요 목적은 문자열의...\n- 링크: https://blog.naver.com/khc3544/223220239574\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_580a293aef4c1572c10710dfbd29d3dbe0aaa372",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://da-new.tistory.com/361",
+    "title": "[Linux] 파일의 문자열 치환하기 - Replace",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[Linux] 파일의 문자열 치환하기 - Replace\n- 요약: 현재 파일에 그대로 수정하기위해서는 추가적인 옵션 [-i] 를 붙여야하는데 sed -i 's/원본문자열/바꿀문자열/gi' 파일명 위와같이 사용하면된다. 새로운 파일에 쓰고싶다면 [&gt; new파일] 을 지정하면된다. sed...\n- 링크: https://da-new.tistory.com/361\n- 키워드: <위 문자열 그대로>"
+}

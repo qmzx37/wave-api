@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_12dc0b6a52351ffb281b4f145743d5e07b524eda",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youtoo2/20011365923",
+    "title": "문자열 포인터",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "문자열 포인터\n- 요약: 다만 후자의 단점은 말그대로 문자열 상수만 반환가능하다는 것입니다. 즉 위의 예처럼 &quot;KLDP&quot; 같은 상수를 반환하는 경우라면 별 문제가 없지만, 만약 _snprintf등을 사용해서 런타임에...\n- 링크: https://blog.naver.com/youtoo2/20011365923\n- 키워드: <위 문자열 그대로>"
+}

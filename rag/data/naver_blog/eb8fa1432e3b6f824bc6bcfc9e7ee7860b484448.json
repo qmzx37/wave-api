@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_eb8fa1432e3b6f824bc6bcfc9e7ee7860b484448",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/choe31904/222911332870",
+    "title": "데이터 타입: 문자열과 숫자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "데이터 타입: 문자열과 숫자\n- 요약: 이번에는 문자열에서 공백을 제거할 거다. 위에 사진에 그냥 ' hello '를 쓰게 되면 그대로 출력을 하는데 뒤에 .trim()을 붙여주면 공백을 제거할 수 있다. 1은 숫자인데 &quot;&quot;안에 1을 쓰면 문자열이...\n- 링크: https://blog.naver.com/choe31904/222911332870\n- 키워드: <위 문자열 그대로>"
+}

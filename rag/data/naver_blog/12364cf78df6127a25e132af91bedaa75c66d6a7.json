@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_12364cf78df6127a25e132af91bedaa75c66d6a7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jhlee0208/222672181180",
+    "title": "[파이썬] 3. 자료형 (3) 문자열 포맷팅(포매팅)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "[파이썬] 3. 자료형 (3) 문자열 포맷팅(포매팅)\n- 요약: format에 대입할 자료를 순차적으로 입력 ● 이름으로 2개 이상 대입 f 문자열 포맷팅 ● 말 그대로 f&quot;문자열&quot;의 형태 - 변수를 먼저 지정하고 f&quot;문자열&quot; 에서 문자열에 중괄호를 이용해 대입 위치를...\n- 링크: https://blog.naver.com/jhlee0208/222672181180\n- 키워드: <위 문자열 그대로>"
+}

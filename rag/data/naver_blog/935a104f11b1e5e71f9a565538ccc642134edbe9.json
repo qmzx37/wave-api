@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_935a104f11b1e5e71f9a565538ccc642134edbe9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cartsdoit__/222570312613",
+    "title": "[프로그래머스] 1단계_문자열 내림차순으로 배치하기 (java)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "[프로그래머스] 1단계_문자열 내림차순으로 배치하기 (java)\n- 요약: 나는 저번에 풀었던 정수문제에서 숏코딩했던 방법을 그대로 차용해봤다 근데,,,효,,,율이... 이유 문자열끼리 연결하는 작업이 잦을 때 String보다 메모리효율이 좋기 때문에 사용함!!!! String은 변경이...\n- 링크: https://blog.naver.com/cartsdoit__/222570312613\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bdfc8b0a1a64ab98d1f339055619e9949fe75013",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/limielife/222672626184",
+    "title": "[python 세미나] 2week | 04 문자열(String) | 05 조건문",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:17",
+    "ok": true
+  },
+  "text": "[python 세미나] 2week | 04 문자열(String) | 05 조건문\n- 요약: f 문자열 포매팅 3.6버전에서 새로 사용할 수 있게 된 포매팅 방식. {}를 그대로 사용하고, 맨 앞에 f만 붙이면 됨! ----이것도 매우 좋아보임---- &lt;문자열 함수&gt; 이걸 가지고 코드를 작성해보면 정말 보기만...\n- 링크: https://blog.naver.com/limielife/222672626184\n- 키워드: <위 문자열 그대로>"
+}

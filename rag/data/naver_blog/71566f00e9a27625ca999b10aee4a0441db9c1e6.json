@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_71566f00e9a27625ca999b10aee4a0441db9c1e6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/moon-over/222083803542",
+    "title": "[Python] 파이썬 문자열 자료형 | 포매팅, format, 인덱싱...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "[Python] 파이썬 문자열 자료형 | 포매팅, format, 인덱싱...\n- 요약: 값을 그대로 보존하고 있는 것처럼 값을 떼어내서 복사하는 것일 뿐 처음의 문자열 값 자체가 변하는 것이 아니다 파이썬 split() 함수 split() 문자열을 구분자 단위로 잘라 리스트 안에 넣어준다 split...\n- 링크: https://blog.naver.com/moon-over/222083803542\n- 키워드: <위 문자열 그대로>"
+}

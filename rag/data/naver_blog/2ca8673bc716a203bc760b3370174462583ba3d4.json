@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2ca8673bc716a203bc760b3370174462583ba3d4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yjh1307/14495655",
+    "title": "문자열 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "문자열 함수\n- 요약: ex) 아름다운 세상을 꿈꾸며/Exceller =&gt; 아름다운 나라를 꿈꾸며/Exceller (=SUBSTITUTE(B5,&quot;세상을&quot;,&quot;나라를&quot;) (6) Replace()함수는 말그대로 문자열의 특정 부분을 웒는 값(문자열)으로 대체하는 기능을...\n- 링크: https://blog.naver.com/yjh1307/14495655\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_23f1b21168a833fced17c6586fbbddf3461304d4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nalssjn2041/223268433981",
+    "title": "엑셀(EXCEL) CONCATENATE 함수로 문자열 합치기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "엑셀(EXCEL) CONCATENATE 함수로 문자열 합치기\n- 요약: 문자열을 합친다는 말은 말 그대로 각각의 떨어져 있는 셀에 있는 문자를 하나로 합친다는 이야기겠죠? 하나뿐만 아니라 여러 개의 문자열을 합칠 수도 있습니다. CONCATENATE 함수 소개 &quot;CONCATENATE...\n- 링크: https://blog.naver.com/nalssjn2041/223268433981\n- 키워드: <위 문자열 그대로>"
+}

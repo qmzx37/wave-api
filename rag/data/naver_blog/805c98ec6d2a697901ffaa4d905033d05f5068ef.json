@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_805c98ec6d2a697901ffaa4d905033d05f5068ef",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/powerhw/220194367529",
+    "title": "Python 2.x 문자열 인코딩",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "Python 2.x 문자열 인코딩\n- 요약: 바이너리 그대로 처리해서 그 결과 값이 위와 같이 출력되는 것 같다. 그래서 다음과... os.systm(command) # 코드 실행 결과 &gt;&gt; str(문자열)형에서 파이썬 인터프리터가 기본으로...\n- 링크: https://blog.naver.com/powerhw/220194367529\n- 키워드: <위 문자열 그대로>"
+}

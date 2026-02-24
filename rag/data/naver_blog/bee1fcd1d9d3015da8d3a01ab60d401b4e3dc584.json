@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bee1fcd1d9d3015da8d3a01ab60d401b4e3dc584",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221640467289",
+    "title": "날짜 형식의 문자열을 숫자로 변경하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "날짜 형식의 문자열을 숫자로 변경하기\n- 요약: &lt;&gt; &lt;&gt; &quot;&quot; &quot; &gt; &quot; 위 예제는 아래와 같이 출력됩니다. atoi 함수는 문자열을 정숫값을 변경할 때 숫자가... 따라서 아래와 같이 atoi 함수를 사용하지 않고 atoi 함수 기능을 그대로 구현해서 좀더 효율적인...\n- 링크: https://blog.naver.com/tipsware/221640467289\n- 키워드: <위 문자열 그대로>"
+}

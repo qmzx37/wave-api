@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_92efac4d1d681d2bc927cf5b2fbc4a9505cffddf",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gamanhicctv/222440131165",
+    "title": "파이썬 :: 파이썬 문자열을 잘... 고민하고, 문자열을 다루는...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "파이썬 :: 파이썬 문자열을 잘... 고민하고, 문자열을 다루는...\n- 요약: 문자열을 다루는건 웹크롤링이나 API를 다루는데 크게 도움이 될 것 같진 않지만... &quot;) # 역슬래시를 앞에 쓰면 특수문자 그대로 인식함 저는 &quot;가마니씨씨티비&quot; 입니다. # \\\\ : 문장...\n- 링크: https://blog.naver.com/gamanhicctv/222440131165\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8796b3410da5f87bc95022cb683e52f19ccb264a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://choseongho93.tistory.com/93",
+    "title": "[PHP] 문자열을 형식화해서 출력하기 - printf(), 타입지정자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "[PHP] 문자열을 형식화해서 출력하기 - printf(), 타입지정자\n- 요약: 사용 형식) printf('형식 문자열', 값 1, 값 2, ~~~ , 값 3) 위 예제에서는 echo 와 printf를 비교해보았습니다. echo는 있는 그대로 상수값 M_PI값을 그대로 출력하는 반면에 printf는 '%3f'로 지정하므로 3.142처럼...\n- 링크: https://choseongho93.tistory.com/93\n- 키워드: <위 문자열 그대로>"
+}

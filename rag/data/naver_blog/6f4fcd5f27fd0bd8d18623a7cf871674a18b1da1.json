@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6f4fcd5f27fd0bd8d18623a7cf871674a18b1da1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bluecrane8686/223534631428",
+    "title": "[기본지식] 정수와 실수, 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "[기본지식] 정수와 실수, 문자열\n- 요약: 문자열(Character String) 문자열은 말 그대로 숫자가 아닌 문자(Text)를 나타낸다. 영문 대, 소문자를 구분하고, 공백도 하나의 문자로 인식하게 된다. 그리고 문자열 방식은 ' '로 표현한다. 문자는...\n- 링크: https://blog.naver.com/bluecrane8686/223534631428\n- 키워드: <위 문자열 그대로>"
+}

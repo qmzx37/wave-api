@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1e308a2a4497302fedbc3c395a55c893dfd6a117",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hcw2166/222471407611",
+    "title": "레벨1, 2021 카카오 채용연계형 인턴십] - 숫자 문자열과 영단어",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "레벨1, 2021 카카오 채용연계형 인턴십] - 숫자 문자열과 영단어\n- 요약: 1478 → &quot;one4seveneight&quot; 234567 → &quot;23four5six7&quot; 10203 → &quot;1zerotwozero3&quot; 이렇게 숫자의 일부 자릿수가 영단어로 바뀌어졌거나, 혹은 바뀌지 않고 그대로인 문자열 s가 매개변수로 주어집니다. s가...\n- 링크: https://blog.naver.com/hcw2166/222471407611\n- 키워드: <위 문자열 그대로>"
+}

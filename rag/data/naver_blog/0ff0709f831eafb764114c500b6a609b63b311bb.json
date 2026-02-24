@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0ff0709f831eafb764114c500b6a609b63b311bb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/suse_kim/10188717754",
+    "title": "윈도우즈 문자열 표현 2 문자열 표현(_T(&quot; &quot;) )",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "윈도우즈 문자열 표현 2 문자열 표현(_T(&quot; &quot;) )\n- 요약: 저번 포스팅에서 문자열을 MBCS 혹은 WBCS로 표현하는 자료형을 보았다. 하지만 자료형이... 또한 위 메크로를 변수에 그대로 적용 할 수는 없다. 예를 들어 char c = 'A'; char str[10] = &quot;AAAA...\n- 링크: https://blog.naver.com/suse_kim/10188717754\n- 키워드: <위 문자열 그대로>"
+}

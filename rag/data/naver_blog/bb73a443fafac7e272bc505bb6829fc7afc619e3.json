@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bb73a443fafac7e272bc505bb6829fc7afc619e3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/helloyoujin_/222790054280",
+    "title": "PYTHON(파이썬) - 문자열, 이스케이프문자, 포맷팅, 리스트 ([ ])",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "PYTHON(파이썬) - 문자열, 이스케이프문자, 포맷팅, 리스트 ([ ])\n- 요약: ** 문자열 문자열은 문자나 기호 순서로 나열되어 있는 시퀀스 자료 문자열 나타내는 방법은... set은 말그대로 집합, '중복불가능' , '순서없음' &gt;&gt; 중복을 제거해준다. list = set ([ 1,2,3,1,2,3,1,2,3 ] ) print...\n- 링크: https://blog.naver.com/helloyoujin_/222790054280\n- 키워드: <위 문자열 그대로>"
+}

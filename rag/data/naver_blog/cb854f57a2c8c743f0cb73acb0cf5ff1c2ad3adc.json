@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cb854f57a2c8c743f0cb73acb0cf5ff1c2ad3adc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/liaco819/222966435736",
+    "title": "[C프로그래밍] 12. 문자와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "[C프로그래밍] 12. 문자와 문자열\n- 요약: 인수가 그대로 반환 / 실패 : NULL 반환 -출력 문자열을 받아 화면에 출력 ~&gt; 끝의 NULL문자는 \\n으로 변경 ~&gt; 성공 : 음수가 아닌 값 반환 / 실패 : EOF 반환 (printf(&quot;%s&quot;, str); 사용해도 됨) &quot;&quot; 12.4...\n- 링크: https://blog.naver.com/liaco819/222966435736\n- 키워드: <위 문자열 그대로>"
+}

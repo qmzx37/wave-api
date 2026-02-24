@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_322250db4710935af1fb81cf494b80693cb58839",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/happy_jhyo/222940681137",
+    "title": "[문자열함수] bytes.Index 가볍게 이해하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "[문자열함수] bytes.Index 가볍게 이해하기\n- 요약: 말 그대로 특정 문자열이 시작하는 위치를 찾는 것이다. # cat hello.go package main import ( &quot;fmt&quot; &quot;bytes&quot; ) func main() { m := &quot;welcome golang&quot; n := &quot;com&quot; mb := []byte( m ) nb := []byte( n ) i...\n- 링크: https://blog.naver.com/happy_jhyo/222940681137\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4d643d31aa6e304699aec355c9527a07504652af",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/heopaka/223628151216",
+    "title": "우테코 7기 1주차 학습 회고록 : 문자열 덧셈 계산기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "우테코 7기 1주차 학습 회고록 : 문자열 덧셈 계산기\n- 요약: 가능한 문자열만 있는지 등등 다양한 경우를 처리해야 하기 때문이다. 그런데 문득 그런 생각이 들었다. 'StringCalculator가 사용자 입력을 처리할 책임을 갖고 있는 게 맞나?' Calculator는 말 그대로...\n- 링크: https://blog.naver.com/heopaka/223628151216\n- 키워드: <위 문자열 그대로>"
+}

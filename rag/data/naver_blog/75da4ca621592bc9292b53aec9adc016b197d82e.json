@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_75da4ca621592bc9292b53aec9adc016b197d82e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/qortmdgms/223694991723",
+    "title": "[MySQL] 테이블 및 컬럼 문자열 인코딩(Charater Set...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "[MySQL] 테이블 및 컬럼 문자열 인코딩(Charater Set...\n- 요약: 거래처에서 이모지가 입력되도록 요청을 받아서, 아래의 명령어로 특정 테이블의 문자열을... 위와 같이 collation이 utf8_general_ci 그대로 유지되고 있습니다. 위 명령어를 사용하니, collation이...\n- 링크: https://blog.naver.com/qortmdgms/223694991723\n- 키워드: <위 문자열 그대로>"
+}

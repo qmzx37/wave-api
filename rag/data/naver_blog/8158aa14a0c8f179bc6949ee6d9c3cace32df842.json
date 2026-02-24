@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8158aa14a0c8f179bc6949ee6d9c3cace32df842",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tiamet133/222830014738",
+    "title": "[자바][초급] #19 - 문자열의 형식",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "[자바][초급] #19 - 문자열의 형식\n- 요약: 이런 문자열을 출력하려면 어떻게 해야할까? 영수증에서 한 줄의 데이터를 다음과 같이 클래스로 관리하고, 출력할 때는 List 객체로 묶기로 한다. [ Detail.java ] 위 영수증 상세 내역의 예를 보면...\n- 링크: https://blog.naver.com/tiamet133/222830014738\n- 키워드: <위 문자열 그대로>"
+}

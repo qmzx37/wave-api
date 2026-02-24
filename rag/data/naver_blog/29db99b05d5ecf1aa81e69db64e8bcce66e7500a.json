@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_29db99b05d5ecf1aa81e69db64e8bcce66e7500a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://lottogame.tistory.com/5768",
+    "title": "문자열을 DateTime으로 변환",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "문자열을 DateTime으로 변환\n- 요약: 추신 : 위의 문자열을 그대로 변환하고 싶습니다. 연도 이후의 콜론은 오타가 아닙니다. 또한 RoR이 아닌 Ruby로 문제를 해결하고 싶습니다. DateTime.strptime 을 사용하면...\n- 링크: https://lottogame.tistory.com/5768\n- 키워드: <위 문자열 그대로>"
+}

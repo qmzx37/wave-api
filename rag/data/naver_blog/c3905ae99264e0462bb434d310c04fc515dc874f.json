@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c3905ae99264e0462bb434d310c04fc515dc874f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/frogx/130110147418",
+    "title": "자바에서 문자열 변환",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "자바에서 문자열 변환\n- 요약: 즉, 127이상의 문자열은 그 코드 값 그대로 저장되기 때문에 euc-kr로 decoding해도 변환이 잘되는 것이다. 문제는 DB는 UTF-8인데 euc-kr로 저장되었을 때이다. UTF-8은 1바이트 영역에는...\n- 링크: https://blog.naver.com/frogx/130110147418\n- 키워드: <위 문자열 그대로>"
+}

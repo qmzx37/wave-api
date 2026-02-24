@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_638c169dc30c1d83b19667f93886ea353a2d9fb6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/emblim98/222668654978",
+    "title": "[Java] 문자열 (String)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[Java] 문자열 (String)\n- 요약: 값을 그대로 대입하는 방법을 말한다. ⊙ 가독성에 이점이 있고, 컴파일 시 최적화에 도움을 준다. &quot; &quot; &quot;&quot; &quot;&quot; 위 예에서 리터럴 표기법은 &quot;happy java&quot;라는 문자열을 intern pool이라는 곳에 저장하고...\n- 링크: https://blog.naver.com/emblim98/222668654978\n- 키워드: <위 문자열 그대로>"
+}

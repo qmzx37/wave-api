@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_82fec289433e7d23fd0e5010847863e7c2bc42b4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://dmsitter.tistory.com/130",
+    "title": "swift - Split vs Components (문자열을 특정 separator로...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "swift - Split vs Components (문자열을 특정 separator로...\n- 요약: &quot; 이라는 문자열이 있을 때, separator를 공백으로 하여 이 문자열을 쪼갠다면 [&quot;오늘은... &quot;] omittingEmptySubsequences : false, 그리고 Components 기능을 사용했을 때 empty값을 그대로 리턴한다....\n- 링크: https://dmsitter.tistory.com/130\n- 키워드: <위 문자열 그대로>"
+}

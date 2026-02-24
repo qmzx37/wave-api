@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a63361d6c0ddd24fdc0fac973131a57607d79d17",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://star7sss.tistory.com/601",
+    "title": "[Java] 출력형식, 형식 문자열으로 출력하기: System....",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "[Java] 출력형식, 형식 문자열으로 출력하기: System....\n- 요약: 형식 문자열 출력 형식은 '자릿수'와 '빈 자릿수를 채우는 방식'을 결정합니다. 위 예시는... 소수점 자리 고정, 0으로 채우기 변수 값을 그대로 출력할 거면, 굳이 printf를 쓸 이유가...\n- 링크: https://star7sss.tistory.com/601\n- 키워드: <위 문자열 그대로>"
+}

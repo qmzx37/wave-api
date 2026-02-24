@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ffb33921455e18ef2c9276363d86ad71312b73a3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rjseorl95/222966223719",
+    "title": "[C/C++] 특정 구분자로 문자열을 분리하는 strtok_s 함수...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "[C/C++] 특정 구분자로 문자열을 분리하는 strtok_s 함수...\n- 요약: 위 두 가지 상황에 문자열이 저장된 메모리의 시작 주소를 가리킬 char * 타입의 포인터 변수 p... 그다음 함수 호출 시 전달된 메모리의 시작 주소를 그대로 전달한다면, 구분자 위치에 NULL 문자가 덮어...\n- 링크: https://blog.naver.com/rjseorl95/222966223719\n- 키워드: <위 문자열 그대로>"
+}

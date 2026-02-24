@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a71a4daa6a59e81dc88d2fe26efe07c05122cb9e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jds7447/222889021125",
+    "title": "Programmers Lv. 1 - 문자열을 정수로 바꾸기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "Programmers Lv. 1 - 문자열을 정수로 바꾸기\n- 요약: language=java parseInt() 메서드를 이용하면 문자열의 숫자 부호가 &quot;-&quot;로 시작 시 그대로... //꺼낸 문자가 '-'라면 음수, 양수 판별 플래그는 fasle(음수) else if(ch !='+') //위 if문...\n- 링크: https://blog.naver.com/jds7447/222889021125\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2e8c385bc1a5d9142c5417262ad6bbbecad27547",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/inchang6768/223590972422",
+    "title": "C언어 코딩(문자열 2)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "C언어 코딩(문자열 2)\n- 요약: puts() 함수는 ()안의 문자열을 그대로 출력하고 행을 바꾸어주는 함수이다.printf(&quot;%s\\n&quot;,word[i]);와 같은... 구분하여 문자열을 배열하고 저장하는 프로그램이다. &lt;&gt; &lt;&gt; &quot; &quot; &lt; &lt; 위 프로그램과 같은 결과를...\n- 링크: https://blog.naver.com/inchang6768/223590972422\n- 키워드: <위 문자열 그대로>"
+}

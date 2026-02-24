@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d1a9b656729342dedb2e9cb28036256610a6e4a4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://thdnice.tistory.com/95",
+    "title": "perl 기초(2) - 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "perl 기초(2) - 문자열\n- 요약: 작은 따옴표는 2개의 예외를 제외하고는, 작은 따옴표안의 모든 내용을 그대로 문자열로 받아들인다. 하나는 \\' (역슬래쉬 + 작은 따옴표) 로 이는 작은 따옴표가 구분자로 쓰이는게...\n- 링크: https://thdnice.tistory.com/95\n- 키워드: <위 문자열 그대로>"
+}

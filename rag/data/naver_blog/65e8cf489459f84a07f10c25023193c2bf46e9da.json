@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_65e8cf489459f84a07f10c25023193c2bf46e9da",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/scarlett_29/223272556511",
+    "title": "02장 파이썬 프로그래밍의 기초, 자료형 02-2 문자열 자료형_01",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "02장 파이썬 프로그래밍의 기초, 자료형 02-2 문자열 자료형_01\n- 요약: 저장된 문자열이 그대로 출력되는 것을 볼 수 있다. &gt;&gt;&gt; food &quot;Python's favorite food is perl&quot; syntax 잘못된... 대화형 인터프리터를 실행한 후 위 예문을 꼭 직접 작성해 보자. 여러 줄인 문자열을 변수에...\n- 링크: https://blog.naver.com/scarlett_29/223272556511\n- 키워드: <위 문자열 그대로>"
+}

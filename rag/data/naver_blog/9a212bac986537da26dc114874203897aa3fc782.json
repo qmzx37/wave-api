@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9a212bac986537da26dc114874203897aa3fc782",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/blue_war/222501783422",
+    "title": "VBA 문자열에서 특정 단어 포함여부 구분해보기(feat. Instr)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "VBA 문자열에서 특정 단어 포함여부 구분해보기(feat. Instr)\n- 요약: ㅋㅋㅋㅋㅋㅋ [지식in 질문 내용] 질의 내용을 간단하게 정리해보자면, B열의 문자열에서 C열의... 로직을 그대로 구현해 놓은 함수라고 보여진다. 다만, 대소문자에 따른 거만 구분해주면 될 것 같은데...\n- 링크: https://blog.naver.com/blue_war/222501783422\n- 키워드: <위 문자열 그대로>"
+}

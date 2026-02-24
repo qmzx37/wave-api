@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b53ff05f3fdcaf9f3aac1edc313a5602ab7152c3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pounit69076/222675486499",
+    "title": "할당된 문자열에 strtok() 사용?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "할당된 문자열에 strtok() 사용?\n- 요약: 토큰 포인터가 사용 중인 한 입력 문자열을 유지하거나 그대로 두십시오. 많은 사람들은 오류가 발생하기 쉬우므로 strtok 을 완전히 피하는 것이 좋습니다. 또한 스레드를 사용 중이고 CRT가...\n- 링크: https://blog.naver.com/pounit69076/222675486499\n- 키워드: <위 문자열 그대로>"
+}

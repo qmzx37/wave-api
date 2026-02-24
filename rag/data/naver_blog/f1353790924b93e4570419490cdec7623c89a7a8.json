@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f1353790924b93e4570419490cdec7623c89a7a8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dnfla420/221748329650",
+    "title": "Python 내장함수 : eval(), 문자열을 바로 연산할 순 없을까?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "Python 내장함수 : eval(), 문자열을 바로 연산할 순 없을까?\n- 요약: 예를 들어, print( eval('1+1') ) 위 실행 구문의 출력은 2가 될 것입니다. 실행 결과 그렇다면, eval()이 없는 결과값은 무엇일까요? 당연히 문자열 그대로 출력이 될 것입니다. 위와...\n- 링크: https://blog.naver.com/dnfla420/221748329650\n- 키워드: <위 문자열 그대로>"
+}

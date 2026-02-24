@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_18e7ad80544c495decef4fe0301d7c100b4c8fb1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jiyah_/222665663213",
+    "title": "엑셀 함수 : CONCAT, TEXTJOIN (문자열 연결)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "엑셀 함수 : CONCAT, TEXTJOIN (문자열 연결)\n- 요약: CONCAT 함수 텍스트 문자열의 목록 또는 범위를 연결합니다. =CONCAT(text1, text2, ...) ※ 많이... (아래 글 참고) 예시 결과처럼 셀에 있는 모든 텍스트가 그대로 모두 연결되어 합쳐지는 것을 볼 수...\n- 링크: https://blog.naver.com/jiyah_/222665663213\n- 키워드: <위 문자열 그대로>"
+}

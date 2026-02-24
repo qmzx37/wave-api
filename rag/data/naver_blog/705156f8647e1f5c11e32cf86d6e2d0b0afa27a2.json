@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_705156f8647e1f5c11e32cf86d6e2d0b0afa27a2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jbsim/223045098744",
+    "title": "JavaScript - 가변 길이 문자열(String)의 마지막 문자...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "JavaScript - 가변 길이 문자열(String)의 마지막 문자...\n- 요약: 길이가 가변 되는 문자열(String)의 마지막 문자를 가져와야 하는 경우들이 많다.... 위 예제를 메서드만 바꾸어 그대로 옮기면 다음과 같다. myStr = &quot;127°28.3468'E&quot;; var myChar = myStr.at(-1); at...\n- 링크: https://blog.naver.com/jbsim/223045098744\n- 키워드: <위 문자열 그대로>"
+}

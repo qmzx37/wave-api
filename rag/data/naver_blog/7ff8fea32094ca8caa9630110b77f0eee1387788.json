@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7ff8fea32094ca8caa9630110b77f0eee1387788",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/xxsaintxx/20134393200",
+    "title": "문자열 관련 함수들: String 객체의 메서드와 문자열 관련...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "문자열 관련 함수들: String 객체의 메서드와 문자열 관련...\n- 요약: // abcde -&gt; str1 변수의 값은 그대로 남아있음 var str2 = 'aBcDe'; str2.toLowerCase(); // abcde -&gt; 소문자로 바꾼 결과 반환 charAt(index), charCodeAt(index) 문자열에서 특정 위치의 문자를...\n- 링크: https://blog.naver.com/xxsaintxx/20134393200\n- 키워드: <위 문자열 그대로>"
+}

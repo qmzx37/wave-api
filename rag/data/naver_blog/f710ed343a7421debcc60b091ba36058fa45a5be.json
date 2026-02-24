@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f710ed343a7421debcc60b091ba36058fa45a5be",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pihyang24/221423438875",
+    "title": "C# 프로그래밍 기초 독학 21강 문자열 클래스(feat.foreach문)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "C# 프로그래밍 기초 독학 21강 문자열 클래스(feat.foreach문)\n- 요약: 문자열.Insert(인덱스 위치(int형),문자열) 말 그대로 몇 번째 칸에 어떤 문자열을 끼워 넣을 것인가를 물어보는 거에요. 우리 인덱스는 0부터 시작인 것을 아시죠? 그렇기 때문에 6이라는 숫자를...\n- 링크: https://blog.naver.com/pihyang24/221423438875\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9ac185b6cc3f990232c3d8fae128b5f729e4eb07",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://kangworld.tistory.com/133",
+    "title": "[프로그래머스 Level 2] 문자열 압축 (2019 카카오 기출)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "[프로그래머스 Level 2] 문자열 압축 (2019 카카오 기출)\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여...\n- 링크: https://kangworld.tistory.com/133\n- 키워드: <위 문자열 그대로>"
+}

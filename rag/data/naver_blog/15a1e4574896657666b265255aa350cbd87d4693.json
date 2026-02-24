@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_15a1e4574896657666b265255aa350cbd87d4693",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jsg910111/221698993151",
+    "title": "문자열버퍼 (StringBuffer)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "문자열버퍼 (StringBuffer)\n- 요약: 실행 결과 위 코드에서 s1은 String 클래스의 인스턴스이다. 이 인스턴스를 이용해 다른... 실행 결과 8) 문자열의 순서를 역순으로 변경 reverse() 말 그대로 문자열의 순서를...\n- 링크: https://blog.naver.com/jsg910111/221698993151\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a6267178c3119a0ab8d5f3198f80550f2e5cc820",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/idiot87/222563443814",
+    "title": "파이썬 (Do it) - 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "파이썬 (Do it) - 문자열 자료형\n- 요약: 작성한 그대로 표현 &quot;python&quot; * 3 문자열을 숫자와 곱해주면, 숫자만큼 문자열을 반복 위 결과는 &quot;pythonpythonpython&quot; a[A : B : C] ABC자리에 숫자가 들어감 A이상, B미만을 C간격으로 ex. a...\n- 링크: https://blog.naver.com/idiot87/222563443814\n- 키워드: <위 문자열 그대로>"
+}

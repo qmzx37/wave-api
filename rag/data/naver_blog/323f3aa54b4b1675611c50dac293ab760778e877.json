@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_323f3aa54b4b1675611c50dac293ab760778e877",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/brdr9180/223059879631",
+    "title": "c언어) char형 배열을 이용한 문자열 처리",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "c언어) char형 배열을 이용한 문자열 처리\n- 요약: 초깃값을 문자열 상수 그대로 표현할 수 있다. char s[7] = &quot;dwkim&quot;; s[0] s[1] s[2] s[3] s[4] s[5] s[6] 'd' 'w... MMKIM 문자열 단위로 출력한다. MMKIM模模模禦?z嵱 위 코드는 char 형 배열 ch를 문자 단위로...\n- 링크: https://blog.naver.com/brdr9180/223059879631\n- 키워드: <위 문자열 그대로>"
+}

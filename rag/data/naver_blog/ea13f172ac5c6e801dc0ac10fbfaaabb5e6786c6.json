@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ea13f172ac5c6e801dc0ac10fbfaaabb5e6786c6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221454283202",
+    "title": "[Quiz] 문자열 합치는 함수 만들기!",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "[Quiz] 문자열 합치는 함수 만들기!\n- 요약: &lt;&gt; &lt;&gt; &lt;&gt; &quot; &quot; &quot;&quot; &quot;&quot; &quot; &quot; 위 프로그램은 아래와 같이 사용자가 'exit' 문자열을 입력하기 전까지... 입력한 문자열을 그대로 저장하면 됩니다. 그리고 두 번째 호출될 때부터는 기존에 입력받은 문자열에...\n- 링크: https://blog.naver.com/tipsware/221454283202\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bc8a16bd08e867d97f0dfc17f9aa271c34789cd4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youji4ever/221973450024",
+    "title": "str.split과 replace 함수로 문자열 나누기(분리) 및...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "str.split과 replace 함수로 문자열 나누기(분리) 및...\n- 요약: 문자열을 문자 그대로 대체하려면 (str.replace()와 동일) 각 문자를 벗어나게하지 않고 옵션인 regex 파라미터를 False로 설정해야 한다. 이 경우 pat과 repl은 모두 문자열이어야 한다....\n- 링크: https://blog.naver.com/youji4ever/221973450024\n- 키워드: <위 문자열 그대로>"
+}

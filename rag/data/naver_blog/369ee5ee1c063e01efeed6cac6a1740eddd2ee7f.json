@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_369ee5ee1c063e01efeed6cac6a1740eddd2ee7f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/eis_kaffe/222650265208",
+    "title": "[파이썬] #2. 정수-소수-문자열 형변환 / 문자열 안에 ',&quot; 넣기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "[파이썬] #2. 정수-소수-문자열 형변환 / 문자열 안에 ',&quot; 넣기\n- 요약: 혹은 '는 문자열임을 의미하는 장치로 사용되는데요, print(&quot;~~~&quot;) → ~~~ 같은 경우가 해당됩니다 그러면 ', &quot;를 그대로 출력하고 싶은 경우는 어떻게 해야할까요? 예) I'm excited to learn python! 을...\n- 링크: https://blog.naver.com/eis_kaffe/222650265208\n- 키워드: <위 문자열 그대로>"
+}

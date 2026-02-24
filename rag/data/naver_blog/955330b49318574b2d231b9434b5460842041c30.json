@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_955330b49318574b2d231b9434b5460842041c30",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/xoeh8760/221519319408",
+    "title": "Javascript 강의(1): 출력, 문자열 자료형, 숫자 자료형(alert)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "Javascript 강의(1): 출력, 문자열 자료형, 숫자 자료형(alert)\n- 요약: 따옴표는 원래 문자열을 만들 때 사용하지만, 따옴표를 문자 그대로 사용하고 싶다면 따옴표 앞에 \\를 사용해서 따옴표를 문자 그대로 사용하겠다고 표시해야 합니다. &lt;script&gt; alert...\n- 링크: https://blog.naver.com/xoeh8760/221519319408\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7704fa12d86e659c20caf47266fe845066943f9e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/xnlrla1214/222834000837",
+    "title": "개발 지식] Java Script (2) - 변수, 숫자, 문자열, 상수, prompt",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "개발 지식] Java Script (2) - 변수, 숫자, 문자열, 상수, prompt\n- 요약: 2) prompt(x)의 문자열 반환 prompt(x) 메소드는 실행시에 사용자로부터 문자열을 입력받고 입력받은 문자열을 자신이 사용된 곳에 '그대로' 반환한다. 즉, 메소드가 문자열로 바뀌게 된다. 실제로 코드가...\n- 링크: https://blog.naver.com/xnlrla1214/222834000837\n- 키워드: <위 문자열 그대로>"
+}

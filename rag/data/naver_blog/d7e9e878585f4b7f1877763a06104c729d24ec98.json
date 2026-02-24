@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d7e9e878585f4b7f1877763a06104c729d24ec98",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/codingvalley/223212256628",
+    "title": "[코딩밸리] 파이썬 첫걸음 DAY2 | 문자열, len함수, 인덱스...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[코딩밸리] 파이썬 첫걸음 DAY2 | 문자열, len함수, 인덱스...\n- 요약: 따옴표 3개로 감싸는 경우 줄바꿈이 그대로 문자열에도 반영된다. 2. Escape codes를 이용할 경우 줄바꿈하고 싶은 곳에 \\n을 넣어주면 된다. \\n 외에도 다양한 코드들이 존재한다. 코드 설명 \\n 줄 바꿈 \\t 탭 만큼...\n- 링크: https://blog.naver.com/codingvalley/223212256628\n- 키워드: <위 문자열 그대로>"
+}

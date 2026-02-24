@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_72f6c3d31e3442064736e63bb20351d32d3b4ad4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/happy_jhyo/222937924331",
+    "title": "[문자열함수] strings.Replace 함수 가볍게 이해하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "[문자열함수] strings.Replace 함수 가볍게 이해하기\n- 요약: 본 내용은 아래의 것을 그대로 참조하여 학습한다. &quot;&quot; 위의 링크는 일부 함수에 대해서... 1 ) strings.Replace 함수 특정 문자 또는 문자열을 변경하기 위해서 사용된다. # cat hello.go...\n- 링크: https://blog.naver.com/happy_jhyo/222937924331\n- 키워드: <위 문자열 그대로>"
+}

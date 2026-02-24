@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_724d44f5e9f63a5d7c40409cebc131267ef14349",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rannnneey/223071260214",
+    "title": "[C++] 문자열 또는 숫자 앞에 0으로 채우기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "[C++] 문자열 또는 숫자 앞에 0으로 채우기\n- 요약: 숫자 앞에 0으로 채우기 &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; %d를 사용하면 입력받은 값 그대로 출력하며, 앞에 숫자를... &lt;&gt; &lt;&gt; &lt;&lt; &lt;&lt; &lt;&lt; &lt;&lt; 위 코드를 실행하면 0000000077로 출력이 된다. 문자열 서식 변환 출력을 콘솔로 보내는...\n- 링크: https://blog.naver.com/rannnneey/223071260214\n- 키워드: <위 문자열 그대로>"
+}

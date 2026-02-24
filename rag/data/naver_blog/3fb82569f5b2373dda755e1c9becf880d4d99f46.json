@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3fb82569f5b2373dda755e1c9becf880d4d99f46",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/minivivi168231/222665880260",
+    "title": "Perl의 문자열에서 하위 문자열을 어떻게 추출합니까?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "Perl의 문자열에서 하위 문자열을 어떻게 추출합니까?\n- 요약: IF *은 문자열 끝에 ELSE 그대로 둡니다) 위에 표시된 각 문자열에서 이 3개의 하위 문자열을 어떻게 선택합니까? Perl에서 정규식을 사용하여 수행할 수 있다는 것을 알고 있습니다... 도와주시겠습니까?...\n- 링크: https://blog.naver.com/minivivi168231/222665880260\n- 키워드: <위 문자열 그대로>"
+}

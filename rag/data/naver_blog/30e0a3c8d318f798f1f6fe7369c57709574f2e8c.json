@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_30e0a3c8d318f798f1f6fe7369c57709574f2e8c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/happy_jhyo/222937936766",
+    "title": "[문자열함수] strings.Split 함수 가볍게 이해하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "[문자열함수] strings.Split 함수 가볍게 이해하기\n- 요약: 본 내용은 아래의 것을 그대로 참조하여 학습한다. &quot;&quot; 위의 링크는 일부 함수에... 1 ) strings.Split 함수 문자열을 특정 문자로 분리하는 함수이다. # cat hello.go package main...\n- 링크: https://blog.naver.com/happy_jhyo/222937936766\n- 키워드: <위 문자열 그대로>"
+}

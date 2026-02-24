@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a50285c7be18151974fb2b8f86003948a9ca28db",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wecolor33/222966737260",
+    "title": "[C/C++ 강의] 39화. 문자열 문제 풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "[C/C++ 강의] 39화. 문자열 문제 풀이\n- 요약: 0이 그대로 반환된다. 이렇게 구현된 함수는 다음과 같이 사용할 수 있다. &quot;&quot; &quot;&quot; * 코드의 원활한 진행을 위해 GetLenth 함수의 코드를 첨부한다. ### 위 본문은 Youtube 무료 강의 C언어/C++ 무료강의...\n- 링크: https://blog.naver.com/wecolor33/222966737260\n- 키워드: <위 문자열 그대로>"
+}

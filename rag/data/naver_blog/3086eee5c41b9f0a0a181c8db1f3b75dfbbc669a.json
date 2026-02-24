@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3086eee5c41b9f0a0a181c8db1f3b75dfbbc669a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kumik12/120210796500",
+    "title": "문자열 취약점 (1) - ';' detour(우회)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "문자열 취약점 (1) - ';' detour(우회)\n- 요약: 문자열 취약점은, 말 그대로, 문자열 자체에 오류로 인해 발생하는 것입니다. #include &lt;stdio.h&gt; int main(int argc, char* argv[]) { char buf[20]; char search[100]; fgets(buf...\n- 링크: https://blog.naver.com/kumik12/120210796500\n- 키워드: <위 문자열 그대로>"
+}

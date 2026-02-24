@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_669cec25ea0547a1a9ed1e92ac65413e36b0adc8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/amdshin/223825536146",
+    "title": "C/C++ 기초 정리 (문자열 비교함수 문제풀이)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "C/C++ 기초 정리 (문자열 비교함수 문제풀이)\n- 요약: 위 사진같은 경우에는 문자열 자체를 줬기 때문에 읽기전용 메모리에 있는 ROM메모리의 주소로 접근할... 문자열의 길이가 모두 같다면 조건문에 걸리지 않기 떄문에 0의 값을 그대로 가져가는 방식이다....\n- 링크: https://blog.naver.com/amdshin/223825536146\n- 키워드: <위 문자열 그대로>"
+}

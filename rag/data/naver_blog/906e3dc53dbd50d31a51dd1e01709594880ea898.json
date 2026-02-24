@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_906e3dc53dbd50d31a51dd1e01709594880ea898",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/battery230/223960005157",
+    "title": "[SV 5주차] 숫자 문자열과 영단어, 소수 찾기, n진수 게임",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "[SV 5주차] 숫자 문자열과 영단어, 소수 찾기, n진수 게임\n- 요약: 1478 → &quot;one4seveneight&quot; 234567 → &quot;23four5six7&quot; 10203 → &quot;1zerotwozero3&quot; 이렇게 숫자의 일부 자릿수가 영단어로 바뀌어졌거나, 혹은 바뀌지 않고 그대로인 문자열 s가 매개변수로 주어집니다. s가 의미하는...\n- 링크: https://blog.naver.com/battery230/223960005157\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9ea6418c40b44e23741ba3854bb539e2efa1ea47",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nayack707/150089916700",
+    "title": "2 일차 (문자열, 연산자, 입력과 출력)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "2 일차 (문자열, 연산자, 입력과 출력)\n- 요약: ■ String (문자열) &quot; &quot; (더블쿼터)안에 있는 변수는 값으로 변환 ' ' (싱글쿼터)안에 있는 escape 문자는 그대로 문자열로 취급 . (피리어드)를 사용 시 문자를 연결 x 사용 시 문자열을 지정한 만큼...\n- 링크: https://blog.naver.com/nayack707/150089916700\n- 키워드: <위 문자열 그대로>"
+}

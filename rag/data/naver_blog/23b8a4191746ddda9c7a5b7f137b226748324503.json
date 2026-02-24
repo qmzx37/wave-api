@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_23b8a4191746ddda9c7a5b7f137b226748324503",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/zlatmgpdjtiq/221300376523",
+    "title": "Python 기초 11: 문자열 활용-2 [ join &amp; center &amp; ljust...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "Python 기초 11: 문자열 활용-2 [ join &amp; center &amp; ljust...\n- 요약: 함수 설명 사용법 upper() 문자열을 대문자로 변경 st.upper() lower() 문자열을 소문자로 변경... 그 뜻 그대로 입니다. 사용법은 center(칸수,'체울문자') 인대요. 칸수는 몇칸을...\n- 링크: https://blog.naver.com/zlatmgpdjtiq/221300376523\n- 키워드: <위 문자열 그대로>"
+}

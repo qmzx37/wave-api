@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0ed5e1d3129e3c33902a9adf839c3ba41fc200c0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sw4r/221121111196",
+    "title": "[파이썬(Python)] 문자열 함수: read(), strip(), replace...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "[파이썬(Python)] 문자열 함수: read(), strip(), replace...\n- 요약: 그래서 첫 번째로는 header의 문자열을 그대로 입력하고 &quot;&quot;을 두 번째 인자로 입력시켜서 없애버리도록 하였다. 다음으로는 \\n을 첫 번째 인자로 하여 제거하였다. 그런데 여기서 같은 replace() 함수를 두 번...\n- 링크: https://blog.naver.com/sw4r/221121111196\n- 키워드: <위 문자열 그대로>"
+}

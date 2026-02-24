@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2ed69647751b41b0a190bf55447401f44421428b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/marisstella42/221460567389",
+    "title": "[CS/Python] 파이썬 문자열 표현하기 2 (패스트 캠퍼스 6강)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "[CS/Python] 파이썬 문자열 표현하기 2 (패스트 캠퍼스 6강)\n- 요약: 인덱스 연산 인덱스 연산은 이름 그대로 '색인'을 표시해서 특정한 부분을 추출하는 개념이라고 이해하면 쉽다. 문자열 안에서 문자를 추출하기 위해서는 대괄호[]와 위치를 지정할 수 있는데 가장...\n- 링크: https://blog.naver.com/marisstella42/221460567389\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_05e9ec3264fa8b16799c0d458eb52b5d62bf340a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tbdtbd1208/223168541897",
+    "title": "[C언어] 배열과 포인터로 문자열 저장하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "[C언어] 배열과 포인터로 문자열 저장하기\n- 요약: 배열 변수 a를 선언하고, 조건문에 a를 그대로 집어넣으면 제대로 작동을 하지 않습니다. a == &quot;ab... 위 표와 같이 문자열로 저장된 변수 a의 경우에 문자형 변수 a 는 &quot;ab&quot;, 포인터 변수 *a 는 'a', *(a+1) 는 'b...\n- 링크: https://blog.naver.com/tbdtbd1208/223168541897\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_800431d9387c9bf910b3c5bf69ecd5ba13f9209c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bennysss/221580676357",
+    "title": "C++ string함수를 이용하기전 직접만드는 문자열class",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "C++ string함수를 이용하기전 직접만드는 문자열class\n- 요약: // string_length만 짧아지고 처음 할당받은 메모리는 그대로 남아있음. // 다음의 문자열이 문제다. str1.assign(&quot;very long string&quot;); // 이전 문자열의 string_length보다 길기때문에 쓸데없이 새로...\n- 링크: https://blog.naver.com/bennysss/221580676357\n- 키워드: <위 문자열 그대로>"
+}

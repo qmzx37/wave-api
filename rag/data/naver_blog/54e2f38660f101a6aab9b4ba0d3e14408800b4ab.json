@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_54e2f38660f101a6aab9b4ba0d3e14408800b4ab",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/suyoung154/222057651959",
+    "title": "Swift 강의 - 4강. 문자열 및 문자 (1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "Swift 강의 - 4강. 문자열 및 문자 (1)\n- 요약: 문자열을 말 그대로 문자들의 나열이다. h, e, l, l, o 가 각각 문자고 hello가 문자열이 되는 것이다. 1.... 위 예시처럼 단순하게 쌍따옴표로 감싸진 문자열 리터럴을 만들 수 있습니다. 또한 Multiline String...\n- 링크: https://blog.naver.com/suyoung154/222057651959\n- 키워드: <위 문자열 그대로>"
+}

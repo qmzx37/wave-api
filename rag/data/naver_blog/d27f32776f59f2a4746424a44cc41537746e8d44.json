@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d27f32776f59f2a4746424a44cc41537746e8d44",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/alridn97/222655210307",
+    "title": "[Python] 02. 파이썬의 자료형 - 문자열(1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "[Python] 02. 파이썬의 자료형 - 문자열(1)\n- 요약: 더해서 연산하기 파이썬에서는 문자열을 더하면 그대로 이어준다. &quot;&quot; &quot;&quot; 2. 문자열 곱하기 파이썬에서는 문자열에 숫자를 곱하면 그 숫자만큼 반복하라는 의미를 가지게 된다. &quot;&quot; 인덱싱(indexing) &quot; &quot; 위...\n- 링크: https://blog.naver.com/alridn97/222655210307\n- 키워드: <위 문자열 그대로>"
+}

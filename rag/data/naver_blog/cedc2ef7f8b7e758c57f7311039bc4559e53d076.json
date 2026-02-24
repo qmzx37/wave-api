@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cedc2ef7f8b7e758c57f7311039bc4559e53d076",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chsmanager/220419059867",
+    "title": "엑셀 함수 정리 – LEFT, MID, RIGHT, SEARCH, LEN 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "엑셀 함수 정리 – LEFT, MID, RIGHT, SEARCH, LEN 문자열...\n- 요약: 위 엑셀함수 만으로는 사용자가 인지한 정해진 위치의 자름은 가능하지만 불규칙적으로 응용해 적용하기는 무리가 있는데요. 따라서 SEARCH, LEN 함수를 사용하면 보다 flexible 하게 문자열...\n- 링크: https://blog.naver.com/chsmanager/220419059867\n- 키워드: <위 문자열 그대로>"
+}

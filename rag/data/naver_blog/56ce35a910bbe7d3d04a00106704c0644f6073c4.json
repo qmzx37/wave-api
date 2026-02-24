@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_56ce35a910bbe7d3d04a00106704c0644f6073c4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221319754853",
+    "title": "[실습] 한글이 포함된 문자열의 길이 구하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "[실습] 한글이 포함된 문자열의 길이 구하기\n- 요약: // 영문은 그대로 출력! } } 그리고 위 코드를 포인터 문법을 사용하도록 수정해보면 다음과 같습니다. void PrintString(const char *ap_string){ while (*ap_string){ // 문자열의 끝에 있는 'NULL 문자'가...\n- 링크: https://blog.naver.com/tipsware/221319754853\n- 키워드: <위 문자열 그대로>"
+}

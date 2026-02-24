@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e635ef88aa65e2e1dcb7ca6bea197a4f1a773964",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/newitee/222747300701",
+    "title": "R, R에서 문자열 다루기 ( grep / grepl / gsub / strrep...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "R, R에서 문자열 다루기 ( grep / grepl / gsub / strrep...\n- 요약: strrep strrep( 복사할 값 , 복사할 횟수 ) &lt; # strsplit strsplit은 영어단어 그대로 특정 문자열을 기준으로 나누는 함수이다. 이 때, 기준이 된 문자열은 삭제된다. strsplit strsplit( 데이터 , 조건(나눌...\n- 링크: https://blog.naver.com/newitee/222747300701\n- 키워드: <위 문자열 그대로>"
+}

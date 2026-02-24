@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9a2baa77eb29c5ddb86336e17988ce43298ba448",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hjai83/221252627442",
+    "title": "문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "문자열 자료형\n- 요약: 변수에 저장된 문자열이 그대로 출력되는 것 을 볼 수 있다. &gt;&gt;&gt; food &quot;Python's favorite food is perl... 2) 연속된 작은따옴표 3개(''') 또는 큰따옴표 3개(&quot;&quot;&quot;) 이용 위 1번의 단점을 극복하기 위해...\n- 링크: https://blog.naver.com/hjai83/221252627442\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bb825e3c9a9ca1d4358f3b1a67509e191ced47c8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ahtakf/220949906697",
+    "title": "[Swift3.0] 2. 변수와 상수, 문자열 보간법, 데이터 타입",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "[Swift3.0] 2. 변수와 상수, 문자열 보간법, 데이터 타입\n- 요약: Character 말 그대로 '문자'를 의미한다. 문자를 대입할 수 있는 Type '문자'와 '문자열'은 다르다. 단어, 문장처럼 문자의 집합이 아닌 단 하나의 문자를 의미한다. C언어에서 문자를 표현할때 따옴표...\n- 링크: https://blog.naver.com/ahtakf/220949906697\n- 키워드: <위 문자열 그대로>"
+}

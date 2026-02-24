@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_65b08102d55273c513bf68d400d836c78db610a7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/white_rose_12/223279956328",
+    "title": "백준 6550번, 부분문자열 [파이썬]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "백준 6550번, 부분문자열 [파이썬]\n- 요약: 그리고 s_index가 먼저 s의 문자열을 전부 돌면 flag = True 로 종료하게 만들고, 그렇지 않다면 그대로 종료시킨다 flag 의 여부에 따른 yes/no 출력 위는 해당 코드이고 https://github.com...\n- 링크: https://blog.naver.com/white_rose_12/223279956328\n- 키워드: <위 문자열 그대로>"
+}

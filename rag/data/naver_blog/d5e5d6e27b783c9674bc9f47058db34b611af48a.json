@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d5e5d6e27b783c9674bc9f47058db34b611af48a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/lovespreads/221348981054",
+    "title": "파이썬의 문자열 포매팅",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "파이썬의 문자열 포매팅\n- 요약: 'Haru'와 'Josh'라는 단어만 따로 표현할 방법이 있으면 위의 문자열을 그대로 사용할 수 있을 것 같네요. 이럴 때 사용할 수 있는 게 '문자열 포매팅'이예요. &quot;My name is %s.&quot; % &quot;Haru&quot;&quot;My name is %s.&quot; % &quot;Josh&quot; 위...\n- 링크: https://blog.naver.com/lovespreads/221348981054\n- 키워드: <위 문자열 그대로>"
+}

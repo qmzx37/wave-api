@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f7c44c8bc29e76cbff38e6094e630f125cc4d48e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cazoova50849/222654209128",
+    "title": "텍스트 문자열에서 (나쁜 또는 좋은) URL 또는 링크 감지",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "텍스트 문자열에서 (나쁜 또는 좋은) URL 또는 링크 감지\n- 요약: 주석과 같은 텍스트 문자열에서 웹 사이트 링크(정규식 또는 발견적 방법을 사용하여)를 어떻게... 의심되는 URL에 없는 점은 그대로 둘 수 있으므로 예를 들어 다음을 수행할 수 있습니다. &lt;&gt;&amp;&lt;&gt; 또...\n- 링크: https://blog.naver.com/cazoova50849/222654209128\n- 키워드: <위 문자열 그대로>"
+}

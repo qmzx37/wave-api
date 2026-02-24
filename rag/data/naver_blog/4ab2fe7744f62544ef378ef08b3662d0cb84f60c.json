@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4ab2fe7744f62544ef378ef08b3662d0cb84f60c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/heunghari/221063728041",
+    "title": "14강. &lt;문자열(string)&gt; 개념정리/ 예제 (1), (2), (3), (4)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:29",
+    "ok": true
+  },
+  "text": "14강. &lt;문자열(string)&gt; 개념정리/ 예제 (1), (2), (3), (4)\n- 요약: printf(&quot;문자열 복사 : %s\\n&quot;, result); -&gt; 배열 result는 원래 배열 크기가 5였음에도 불구하고 return 0; strcpy() 함수를 통해 크기가 10인 char input[10]을 그대로 copy해냄. }...\n- 링크: https://blog.naver.com/heunghari/221063728041\n- 키워드: <위 문자열 그대로>"
+}

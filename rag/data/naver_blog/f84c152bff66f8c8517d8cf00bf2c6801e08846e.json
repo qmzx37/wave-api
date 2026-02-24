@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f84c152bff66f8c8517d8cf00bf2c6801e08846e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jdkim2004/224152048544",
+    "title": "[C#] MS SQL 회원 관리 시스템 제작하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "[C#] MS SQL 회원 관리 시스템 제작하기\n- 요약: 아래는 실무에서도 그대로 확장 가능한 가장 정석적인 구조입니다. SSMS 접속: SQL Server Management Studio를 실행하고 SQL Server 인스턴스에 연결합니다. 위 상태에서 바로 '연결...\n- 링크: https://blog.naver.com/jdkim2004/224152048544\n- 키워드: <위 문자열 그대로>"
+}

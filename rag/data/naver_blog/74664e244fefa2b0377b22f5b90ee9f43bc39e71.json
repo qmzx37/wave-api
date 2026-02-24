@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_74664e244fefa2b0377b22f5b90ee9f43bc39e71",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/under-the-hood/222394170346",
+    "title": "리터럴(literal) 문자열 사용법 비교. C++, C#, 파이썬",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "리터럴(literal) 문자열 사용법 비교. C++, C#, 파이썬\n- 요약: &quot; &quot; &quot; &quot; &quot;&quot; &quot; &quot; 리터럴 문자열 그대로 약간 말장난 같다. 리터럴에 대한 리터럴이라고 해야 하나. 줄바꿈 '\\n'과 같이 역슬래시를 이스케이프로 인식하지 않고 코드 상의 리터럴을 그대로를 인식하는...\n- 링크: https://blog.naver.com/under-the-hood/222394170346\n- 키워드: <위 문자열 그대로>"
+}

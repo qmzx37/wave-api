@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cd4e60ba3547cc8085775cdff8b35d5886af9fd8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/elle-v/222928911476",
+    "title": "2. 파이썬 기초: 문자열 자료형(1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "2. 파이썬 기초: 문자열 자료형(1)\n- 요약: 탭을 그대로 인식 &quot;&quot;&quot; &quot;&quot;&quot; Run → 문자열 더하기/곱하기 &quot;&quot; &quot;&quot; → &quot;&quot; &quot;&quot; a를 100번 출력해라 → 인덱식과 슬라이싱 보기에 간단해 보이지만 알아놓으면 나중에 쓸일이 많은 굉장히 중요한 명령어 인덱싱...\n- 링크: https://blog.naver.com/elle-v/222928911476\n- 키워드: <위 문자열 그대로>"
+}

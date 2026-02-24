@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f3f216c2491c7063d4ec035e461e3d126d578506",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wns7756/221852410609",
+    "title": "문자열 찾기 알고리즘, KMP란?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "문자열 찾기 알고리즘, KMP란?\n- 요약: Knuth-Morris-Pratt Algorithm 을 줄여서 KMP알고리즘이라고 하는데 이 알고리즘은 문자열이... 그리고 i=2, j=1 에서 문자가 불일치 했기 때문에, j = pi[0]으로 당겨온다(이부분이 KMP원리를 그대로...\n- 링크: https://blog.naver.com/wns7756/221852410609\n- 키워드: <위 문자열 그대로>"
+}

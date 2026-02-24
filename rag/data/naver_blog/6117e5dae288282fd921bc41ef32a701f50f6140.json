@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6117e5dae288282fd921bc41ef32a701f50f6140",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://sciphy.tistory.com/868",
+    "title": "Weistern's :: [C언어] 문자열(string) , 문자열상수...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "Weistern's :: [C언어] 문자열(string) , 문자열상수...\n- 요약: 문자열 (string) 문자열은 char 형 1차원 배열이다. ( char형의 크기는 1byte 이다. ) 문자열은 NULL... 리터럴이란 &quot;문자그대로&quot; 라는 뜻이다. In computer science, a literal is a notation for representing a fixed value in...\n- 링크: https://sciphy.tistory.com/868\n- 키워드: <위 문자열 그대로>"
+}

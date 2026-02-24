@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5b5365cbda98e1c3691f2234fba069456d1970be",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ssohan_/222193051605",
+    "title": "Level 2. 2020 KAKAO BLIND RECRUITMENT :: 문자열 압축",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "Level 2. 2020 KAKAO BLIND RECRUITMENT :: 문자열 압축\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여 표현한...\n- 링크: https://blog.naver.com/ssohan_/222193051605\n- 키워드: <위 문자열 그대로>"
+}

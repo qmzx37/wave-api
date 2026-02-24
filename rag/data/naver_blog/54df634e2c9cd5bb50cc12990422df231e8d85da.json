@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_54df634e2c9cd5bb50cc12990422df231e8d85da",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/s199977/222619539726",
+    "title": "값에 의한 호출 call by value 문자열 전달/id함수 #030",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "값에 의한 호출 call by value 문자열 전달/id함수 #030\n- 요약: 하지만 함수를 벗어나서 다시 원래 값을 확인해 본 결과 문자열도 역시 그대로 hi, hong만... 함수내에서 연산이 진행되면서 str+=&quot;see you again&quot; 위 연산이 진행되면서 주소값이 바뀌는 것을 알...\n- 링크: https://blog.naver.com/s199977/222619539726\n- 키워드: <위 문자열 그대로>"
+}

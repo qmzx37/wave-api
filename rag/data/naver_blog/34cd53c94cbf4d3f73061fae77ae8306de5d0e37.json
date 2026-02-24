@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_34cd53c94cbf4d3f73061fae77ae8306de5d0e37",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/balderschwang/222885030480",
+    "title": "#64 탐색 심화 1 - 탐색 트리와 문자열 알고리즘...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "#64 탐색 심화 1 - 탐색 트리와 문자열 알고리즘...\n- 요약: ● 탐색 트리(Suchbäume) ● 문자열 알고리즘 : 브루트 포스 알고리즘(String Matching: Brute-Force Algorithmus)... j == m-1 인 경우도 매치가 일어난다면, 패턴 매치가 발생했으므로 그대로 비교를 시작한 i의 원래 값을...\n- 링크: https://blog.naver.com/balderschwang/222885030480\n- 키워드: <위 문자열 그대로>"
+}

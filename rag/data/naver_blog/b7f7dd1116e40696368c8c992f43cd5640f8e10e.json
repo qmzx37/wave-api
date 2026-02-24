@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b7f7dd1116e40696368c8c992f43cd5640f8e10e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dev-sonb/221773274169",
+    "title": "제12장 문자열의 개념",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "제12장 문자열의 개념\n- 요약: 여기서 나오는 '에코'란 사용자가 키보드 입력을 한 경우에, 콘솔 창에 문자가 그대로 출력되는... 예제 strchr() 위 예제는 문자열 &quot;language&quot;에서 문자'g'를 주소(포인터)를 이용해 찾는 프로그램입니다....\n- 링크: https://blog.naver.com/dev-sonb/221773274169\n- 키워드: <위 문자열 그대로>"
+}

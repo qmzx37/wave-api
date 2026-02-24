@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2f227c8f3640863d2761f3d376011afeafc8936d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/twowinsh/221174306716",
+    "title": "Python_6(문자열 처리, 정규표현식)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "Python_6(문자열 처리, 정규표현식)\n- 요약: [1]문자열 처리할 때 좋은 함수 정리 -capitalize() #첫문자만 대문자 나머지는 소문자로... partition('is') ('python ', 'is', ' powerful’) #is뒤에 공백도 포함됨 -replace #말그대로...\n- 링크: https://blog.naver.com/twowinsh/221174306716\n- 키워드: <위 문자열 그대로>"
+}

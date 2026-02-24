@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fa9523eecc17b9412cd0e85a459c876b9ea65a44",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/foxclore68669/222644492395",
+    "title": "목록을 문자열로 변환하지만 아무 것도 변경하지 마십시오.",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "목록을 문자열로 변환하지만 아무 것도 변경하지 마십시오.\n- 요약: 그것은 당신이 찾고있는 것이 아닙니다 전체 목록을 문자열로 형변환하여 목록을 문자열로 변환할 수 있습니다. 그러나 이 방법을 사용하면 따옴표가 그대로 유지됩니다. &gt;&gt;&gt; &quot;&quot;&quot;&quot;&quot;&quot; &gt;&gt;&gt; &gt;&gt;&gt; &quot; &quot; 단순히 조인...\n- 링크: https://blog.naver.com/foxclore68669/222644492395\n- 키워드: <위 문자열 그대로>"
+}

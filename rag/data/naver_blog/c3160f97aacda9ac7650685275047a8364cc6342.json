@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c3160f97aacda9ac7650685275047a8364cc6342",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/give63me/222899581799",
+    "title": "파이썬_문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "파이썬_문자열\n- 요약: 문자 그대로 쓸 땐 %%이렇게 해줘야 한다. '%10s' %'hi' hi #10개인 문자열 속에서 오른쪽 끝 2자리를 hi로 '%-10sjoo' %'hi' hi joo #반대 '%0.4f' %3.42134234 3.4213 #소수점 네 번째 자리까지만...\n- 링크: https://blog.naver.com/give63me/222899581799\n- 키워드: <위 문자열 그대로>"
+}

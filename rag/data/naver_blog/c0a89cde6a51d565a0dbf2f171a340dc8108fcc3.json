@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c0a89cde6a51d565a0dbf2f171a340dc8108fcc3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/woojs0505/222315164810",
+    "title": "[C언어] 문자열에서의 널 문자 (NULL)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "[C언어] 문자열에서의 널 문자 (NULL)\n- 요약: 위에서 배운 그대로이다. 문자열의 끝을 알기 위해서 널 문자를 쓴다고 했는데, 위 코드에서는 우리가 인위적으로 널 문자를 문자열 중간에 넣었다. C언어는 우리가 인위적으로 넣은 널 문자를 문자열의...\n- 링크: https://blog.naver.com/woojs0505/222315164810\n- 키워드: <위 문자열 그대로>"
+}

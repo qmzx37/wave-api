@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6ac7c0199f6e74155eee6615da85a597b4f25aa6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cppcoder/222305216887",
+    "title": "04. 복합 데이터형 -02. 문자열 - C++ PP",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "04. 복합 데이터형 -02. 문자열 - C++ PP\n- 요약: 위 구문은 한 행을 읽어서 name 배열에 저장을 한다. 그 행에 있는 문자들은 최대 19개보다 적거나 같아야한다. getline() 함수는 개행문자를 문자열의 마지막으로 인식하여 행 전체를 읽는다....\n- 링크: https://blog.naver.com/cppcoder/222305216887\n- 키워드: <위 문자열 그대로>"
+}

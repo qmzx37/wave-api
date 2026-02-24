@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d00b5c514e495a9448aeba2c60e47659bb063708",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://0urtrees.tistory.com/162",
+    "title": "swift 알고리즘, 문자열 입력 없을 때까지 입력받는 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "swift 알고리즘, 문자열 입력 없을 때까지 입력받는 방법\n- 요약: -&gt; 그렇게 입력 받는 줄이 있을때까지 입력 문자열 내용을 그대로 출력해줍니다. 그렇게 결과적으로 해당 문제, &quot;그대로 출력하기&quot;를 풀 수 있었습니다. 그렇게 코드 제출 결과는 아래와 같습니다.🤗\n- 링크: https://0urtrees.tistory.com/162\n- 키워드: <위 문자열 그대로>"
+}

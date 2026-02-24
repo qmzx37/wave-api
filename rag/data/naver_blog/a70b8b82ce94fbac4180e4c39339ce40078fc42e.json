@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a70b8b82ce94fbac4180e4c39339ce40078fc42e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chsmanager/221197343799",
+    "title": "엑셀 함수 : REPT 텍스트함수 - 문자열 반복, 활용 예제",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "엑셀 함수 : REPT 텍스트함수 - 문자열 반복, 활용 예제\n- 요약: 참고로 number_times가 0 이면 빈문자열을 반환하며, 음수이면 오류를, 1이면 문자열 그대로를, 소숫점이면 소수점 이하 절사를, 그리고 &quot; &quot; 스페이스면 10개의 빈 공간을 만들어 줍니다. 다른 문자열과...\n- 링크: https://blog.naver.com/chsmanager/221197343799\n- 키워드: <위 문자열 그대로>"
+}

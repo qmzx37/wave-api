@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4fe183fa090e187eba566769471f9be932100c6c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/microhan1/222339234363",
+    "title": "Python 강좌 7. 자료형(2) 문자열-1",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "Python 강좌 7. 자료형(2) 문자열-1\n- 요약: 문자열 자료형 문자열 자료형이란 말 그대로 문자를 말합니다. print() 함수를 설명할 때 사용했듯이 따옴표(&quot;) 또는 작은따옴표(')를 짝으로 묶어주면 문자열로 인식하게 됩니다. 'Python...\n- 링크: https://blog.naver.com/microhan1/222339234363\n- 키워드: <위 문자열 그대로>"
+}

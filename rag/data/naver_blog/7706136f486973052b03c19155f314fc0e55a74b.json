@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7706136f486973052b03c19155f314fc0e55a74b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ecodingacademy/223312633597",
+    "title": "문자열(string) - 이코딩아카데미 - 위례코딩 - 성남코딩",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "문자열(string) - 이코딩아카데미 - 위례코딩 - 성남코딩\n- 요약: 문자열을 그대로 출력하려면 %s (=string) 포맷을 사용합니다. 문자열 중 첫번째 문자 하나만... &quot;&quot; &quot; &quot; 위 c언어의 코드와 동일한 결과를 출력합니다. 확실히 심플하죠? 다음은 C++입니다....\n- 링크: https://blog.naver.com/ecodingacademy/223312633597\n- 키워드: <위 문자열 그대로>"
+}

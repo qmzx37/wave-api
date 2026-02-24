@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8c9be939f92658de5543a63503f701c280a942b7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jwyoon25/222151510479",
+    "title": "코틀린 문자열과 정규식 기본",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "코틀린 문자열과 정규식 기본\n- 요약: 코틀린에서 &quot;.&quot; 또는 &quot;-&quot;로 문자열을 분리하려면 다음과 같이 작성하면 된다. &quot;&quot;&quot;&quot; 위 코드는 [12, 345, 6... 3중 따옴표 문자열에는 줄 바꿈을 표현하는 문자열이 이스케이프 없이 그대로 들어간다. 그렇기...\n- 링크: https://blog.naver.com/jwyoon25/222151510479\n- 키워드: <위 문자열 그대로>"
+}

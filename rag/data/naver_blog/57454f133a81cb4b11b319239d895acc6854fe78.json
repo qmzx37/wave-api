@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_57454f133a81cb4b11b319239d895acc6854fe78",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/zanko14/221608629778",
+    "title": "010. 문자열 다루기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "010. 문자열 다루기\n- 요약: 보유한 문자열을 리턴하게 된다. 파라미터가 둘일 때에는, 첫번째 파라미터가 그대로... Value를 위 코드를 사용해 간단히 둘로 나눌 수 있다. IndexOf 로 찾은 특정 지점 index에 대해...\n- 링크: https://blog.naver.com/zanko14/221608629778\n- 키워드: <위 문자열 그대로>"
+}

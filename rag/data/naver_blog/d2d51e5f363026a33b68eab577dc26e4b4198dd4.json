@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d2d51e5f363026a33b68eab577dc26e4b4198dd4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kizerain93774/222648907135",
+    "title": "C# 소스 코드에서 긴 문자열을 끊는 가장 좋은 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "C# 소스 코드에서 긴 문자열을 끊는 가장 좋은 방법\n- 요약: &quot; &quot; &quot;&quot; ...다음과 같이 사용되는 축어적 문자열 리터럴 과 함께 사용: &quot; &quot; 문자열 &quot;내부&quot; 공백은 그대로 유지됩니다. 예를 들면 다음과 같습니다. &quot; &quot; 줄 바꿈을 공백으로 대체하지 않으려면 확장...\n- 링크: https://blog.naver.com/kizerain93774/222648907135\n- 키워드: <위 문자열 그대로>"
+}

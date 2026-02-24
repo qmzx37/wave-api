@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a73ae41c55317452f0f3c4eebca2708b67b30c31",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wolfre/150172620651",
+    "title": "문자열 관련 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "문자열 관련 함수\n- 요약: 똑똑한 ASP 는 대,소문자로 변환할 수 없는 경우에는 원본 문자열을 그대로 반환합니다. 즉, UCASE (&quot;사랑해요&quot;) 또는 LCASE (&quot;486486&quot;) 처럼 변환이 불가능한 문자열을 입력했다면 원본 문자열에...\n- 링크: https://blog.naver.com/wolfre/150172620651\n- 키워드: <위 문자열 그대로>"
+}

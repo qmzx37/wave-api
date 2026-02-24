@@ -1,0 +1,20 @@
+﻿services:
+  - type: web
+    name: noie-api
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: LITE_MODE
+        value: "1"
+      - key: REQ_BUDGET_SEC
+        value: "25"
+      - key: KAKAO_MAX_PAGES
+        value: "2"
+      - key: RAG_ON
+        value: "0"
+      - key: AVOID_FRANCHISE
+        value: "1"
+      - key: BALANCE_TYPES
+        value: "1"

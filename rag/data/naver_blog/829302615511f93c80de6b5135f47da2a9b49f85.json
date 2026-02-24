@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_829302615511f93c80de6b5135f47da2a9b49f85",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kono9032/222271284324",
+    "title": "LCD#3 - data 출력 (문자, 문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "LCD#3 - data 출력 (문자, 문자열)\n- 요약: 아무튼 포트에는 char 자료형을 넘겨 받은 그대로 출력하는데... 잠시 DDRAM과 CGRAM 관계를 되짚어 보면. 지적과 조언과 수정은 매우매우 감사합니다 무지한 저를 인도해 주세요 위 내용으로 이해를 했고...\n- 링크: https://blog.naver.com/kono9032/222271284324\n- 키워드: <위 문자열 그대로>"
+}

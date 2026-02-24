@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_782ccba4a0c0d3b7da89820568225c27addd72db",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/luexr/223270151793",
+    "title": "[이산수학] 재귀 구조를 통한 문자열 구조 이해",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "[이산수학] 재귀 구조를 통한 문자열 구조 이해\n- 요약: 아무튼, 위 정의에 따라 문자열 두 개가 있다면, 문자열 두 개는 서로 붙을 수 있고, 또한... 재귀적 단계(inductive step): w ∈ Σ* 이고, x ∈ Σ 일 때 l(wx) = l(w) + 1 우선, 빈 문자열은 말 그대로 비었으니...\n- 링크: https://blog.naver.com/luexr/223270151793\n- 키워드: <위 문자열 그대로>"
+}

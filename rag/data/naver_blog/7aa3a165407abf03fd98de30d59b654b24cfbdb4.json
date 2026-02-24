@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7aa3a165407abf03fd98de30d59b654b24cfbdb4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youseon97/222906692521",
+    "title": "JavaScript 문자열 반복하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "JavaScript 문자열 반복하기\n- 요약: 해당 변수를 간단하게 console.log 메서드를 통해 콘솔 탭에 출력을 하게 되면, 위와 같이 문자열 그대로 &quot;안녕하세요.&quot; 가 출력이 되는 걸 확인하실 수 있습니다. 근데 여기서 해당 문자열을 그대로 반복해서...\n- 링크: https://blog.naver.com/youseon97/222906692521\n- 키워드: <위 문자열 그대로>"
+}

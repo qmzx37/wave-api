@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7fb4307946aeaea7cb6c4f9c698af9842b2e3675",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chsmanager/140201163643",
+    "title": "자바스크립트 / javascript split 함수, 문자열을 잘라...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "자바스크립트 / javascript split 함수, 문자열을 잘라...\n- 요약: split(), split(''), split(' ') 차이 split() 은 구분자가 없는 것이니 입력 문자열 그대로 리턴되며 split('') 의 경우는 공란문자 즉 글자 하나하나로 구분된다는 의미 입니다. split(' ') 는 space 문자를...\n- 링크: https://blog.naver.com/chsmanager/140201163643\n- 키워드: <위 문자열 그대로>"
+}

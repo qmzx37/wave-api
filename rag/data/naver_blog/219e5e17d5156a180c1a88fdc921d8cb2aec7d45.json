@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_219e5e17d5156a180c1a88fdc921d8cb2aec7d45",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://sean.tistory.com/46",
+    "title": "19. 매크로 연산자 :: bss 영역",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "19. 매크로 연산자 :: bss 영역\n- 요약: 매크로 연산자 매크로 함수가 치환될 내용은 모두 문자열 그대로 치환되게 하지만 '#' 문자가... - test39.c 0.00MB - 위 예제의 소스 코드는 전처리기 과정을 거치게 되면 11행은 다음과 같이 치환되게 된다....\n- 링크: https://sean.tistory.com/46\n- 키워드: <위 문자열 그대로>"
+}

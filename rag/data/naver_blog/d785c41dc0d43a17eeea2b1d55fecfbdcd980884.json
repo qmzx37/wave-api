@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d785c41dc0d43a17eeea2b1d55fecfbdcd980884",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/vividsoft/10126248967",
+    "title": "강좌 - PHP 4강. 문자열 string",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "강좌 - PHP 4강. 문자열 string\n- 요약: 또한 이스케이프 시퀀스를 (지난 강의 표 참조) 사용해서 \\$apple 처럼 사용하면 그대로 문자열로 표시할 수 있지요. ' ' 싱글쿼테이션으로 묶은 문자열 안에서는 변수명을 적더라도 무조건 문자...\n- 링크: https://blog.naver.com/vividsoft/10126248967\n- 키워드: <위 문자열 그대로>"
+}

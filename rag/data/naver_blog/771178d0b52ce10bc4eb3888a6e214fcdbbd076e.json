@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_771178d0b52ce10bc4eb3888a6e214fcdbbd076e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/realmercy_/223069428479",
+    "title": "문자열 유사도 측정의 핵심, 레벤슈타인 알고리즘",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "문자열 유사도 측정의 핵심, 레벤슈타인 알고리즘\n- 요약: 두 문자가 같을 경우, 대각선 위의 값(이전 상태에서 문자가 같은 경우)을 그대로 가져온다. 다른... &gt; &quot;&quot; &quot;&quot; &gt; &quot; &quot; &quot; &quot; 코드 실행 결과 위 코드는 &quot;speling&quot;과 &quot;spelling&quot; 두 문자열의 레벤슈타인 거리를 계산하고...\n- 링크: https://blog.naver.com/realmercy_/223069428479\n- 키워드: <위 문자열 그대로>"
+}

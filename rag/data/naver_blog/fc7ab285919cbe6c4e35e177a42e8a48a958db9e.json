@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fc7ab285919cbe6c4e35e177a42e8a48a958db9e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/mym0404/222250816570",
+    "title": "[문자열] 접미사 배열과 LCP(Longest Common Prefix)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[문자열] 접미사 배열과 LCP(Longest Common Prefix)\n- 요약: (빈 문자열은 접미사중에 없지만 이미 그루핑이 되었다고 본다) 참을 반환한다. &lt;&gt; &lt; &lt; 위 부분을... 그러면 그게 곧 현재 속해져있는 그룹의 인덱스를 의미하므로 GROUP[SA[i]] 에 그대로 대입이 가능하다....\n- 링크: https://blog.naver.com/mym0404/222250816570\n- 키워드: <위 문자열 그대로>"
+}

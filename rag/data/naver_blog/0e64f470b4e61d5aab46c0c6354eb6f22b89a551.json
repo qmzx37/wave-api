@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0e64f470b4e61d5aab46c0c6354eb6f22b89a551",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://roksf0130.tistory.com/106",
+    "title": "[Python] 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "[Python] 문자열\n- 요약: 파이썬은 싱글쿼트('...') 와 더블쿼트(&quot;...&quot;) 로 문자열을 만들 수 있고, 문자열의 연산도... ' # \\n 은 줄바꿈을 의미함 &gt;&gt;&gt; s # print() 함수를 사용하지 않으면 \\n 이 그대로 출력됨...\n- 링크: https://roksf0130.tistory.com/106\n- 키워드: <위 문자열 그대로>"
+}

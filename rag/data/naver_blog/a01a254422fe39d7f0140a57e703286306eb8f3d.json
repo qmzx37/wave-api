@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a01a254422fe39d7f0140a57e703286306eb8f3d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://sw-eng.tistory.com/entry/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85",
+    "title": "Python: 문자열 데이터 타입",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "Python: 문자열 데이터 타입\n- 요약: 문자열 타입 STRING이라고 불리는 문자열 타입은 말 그대로 문자가 나열된 데이터 타입이다. 위 예제에서 hello, world!!와 같은 데이터가 문자열 타입의 데이터이고, type 함수를 이용해서 데이터 타입을...\n- 링크: https://sw-eng.tistory.com/entry/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85\n- 키워드: <위 문자열 그대로>"
+}

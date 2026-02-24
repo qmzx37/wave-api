@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_630b9c6fe236e5e5816d1d5a3a66563474164ca6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/first-coding/222951526130",
+    "title": "[파이썬기초] 03_문자열 자료형 Part 1",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "[파이썬기초] 03_문자열 자료형 Part 1\n- 요약: 따옴표로 문자열을 구성하지 않아도 &quot;를 그대로 사용 가능) \\n 줄 바꿈 \\t 탭 간격 \\\\ 문자 \\를 그대로 사용함 위 표 외에도 다양한 이스케이프 시퀀스가 있지만 가장 많이 사용될법한 것만 추려본 것이다....\n- 링크: https://blog.naver.com/first-coding/222951526130\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1394f7c1d92251960b77325f05a6da117b5e992b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/6k5tvb/120147949404",
+    "title": "c언어 strtok() 함수- 문자열 가르기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "c언어 strtok() 함수- 문자열 가르기\n- 요약: strtok 말그대로 string token의 줄임말 같다. 인자로 다음과 같이 어떤 '문자열' 과 '구분자... 위 예에서 구분자가 만약 &quot; &quot; 라면 토큰은 &quot;Good-morning,&quot; &quot;Good-afternoon,&quot; &quot;Good-evening&quot; 이 될...\n- 링크: https://blog.naver.com/6k5tvb/120147949404\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_96841df8a928ffa5f8fc2077a33bec34b2812544",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/data_edu1/223662821301",
+    "title": "문자열 정렬",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "문자열 정렬\n- 요약: 2) sorted 함수 이용 sorted 함수는 sort함수와는 다르게 문자열에 바로 적용할 수 있습니다. 아래와 같이 결과값을 반환하므로 기존 배열을 그대로 두고 싶다면 새로운 변수에 sorted 함수를 적용한 값을...\n- 링크: https://blog.naver.com/data_edu1/223662821301\n- 키워드: <위 문자열 그대로>"
+}

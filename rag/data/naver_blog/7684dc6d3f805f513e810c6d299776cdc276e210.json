@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7684dc6d3f805f513e810c6d299776cdc276e210",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://goodsource.tistory.com/1611",
+    "title": "문자열의 마지막 4자를 얻는 방법은?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "문자열의 마지막 4자를 얻는 방법은?\n- 요약: let last4 = a.suffix(4) 결과 유형이 새 유형입니다.Substring마치 한 사람처럼 행동하는 것.String많은 경우에그러나 하위 문자열이 생성된 범위를 그대로 두어야 하는 경우...\n- 링크: https://goodsource.tistory.com/1611\n- 키워드: <위 문자열 그대로>"
+}

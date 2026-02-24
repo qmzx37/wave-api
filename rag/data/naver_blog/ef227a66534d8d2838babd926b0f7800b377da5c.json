@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ef227a66534d8d2838babd926b0f7800b377da5c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hunii123/222501639546",
+    "title": "[JavaScript 기본 자료형] 1. 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[JavaScript 기본 자료형] 1. 문자열 자료형\n- 요약: 원래 문자열을 만들 때 사용하지만, 따옴표를 문자 그대로 사용하고 싶다면, 따옴표 앞에 특수한... &gt; &gt;&gt; 웹 브라우저는 위 코드를 'This is '와 string과 ''의 나열로 본다. &gt;&gt; 'This is '와 ''는 문자열 자료형이지만...\n- 링크: https://blog.naver.com/hunii123/222501639546\n- 키워드: <위 문자열 그대로>"
+}

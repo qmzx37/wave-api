@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1e147ed17fd25ebc718c58377a8ad5ed4dc0807e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/geojerich/221794310614",
+    "title": "[엑셀] 문자열중 특정 문자 바꾸기 SUBSTITUTE()",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "[엑셀] 문자열중 특정 문자 바꾸기 SUBSTITUTE()\n- 요약: 그대로 사용 할 때가 있는데 이때 금액부분 이나 계산이 필요한 숫자로 인식되어야 되는 부분이 문자로 인식되어 계산이 안되고 에러가 발생하는 경우가 있다. 이럴때 사용하면 유용한 문자열중...\n- 링크: https://blog.naver.com/geojerich/221794310614\n- 키워드: <위 문자열 그대로>"
+}

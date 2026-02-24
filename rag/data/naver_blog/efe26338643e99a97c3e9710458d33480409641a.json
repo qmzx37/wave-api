@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_efe26338643e99a97c3e9710458d33480409641a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://jini-box.tistory.com/68",
+    "title": "[Java] String.format 을 이용한 문자열 형식 설정하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[Java] String.format 을 이용한 문자열 형식 설정하기\n- 요약: tete_ tete_ tete _ te_ te _ te_ %s는 문자열을 그대로 출력하고, %s 앞에 숫자(N)를 설정할 경우, str.length()가 N보다 작을 경우 공백을 추가합니다. (ln 4~5) - 를 붙일...\n- 링크: https://jini-box.tistory.com/68\n- 키워드: <위 문자열 그대로>"
+}

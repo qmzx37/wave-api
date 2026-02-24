@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_261931200338ae7e451b9e9d1d15d7bc11265cc7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hunii123/222468893808",
+    "title": "[Python 정규 표현식] 정규 표현식의 메타 문자 : 문자열을...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "[Python 정규 표현식] 정규 표현식의 메타 문자 : 문자열을...\n- 요약: b&quot; 문자열과 매치되고, &quot;a0b&quot; 문자열과는 매치되지 않는다. * 문자 클래스([ ]) 내에 Dot(.) 메타 문자가 사용된다면, 이것은 &quot;모든 문자&quot;라는 의미가 아닌 문자 . 그대로를 의미한다. 정규 표현식의 Dot...\n- 링크: https://blog.naver.com/hunii123/222468893808\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3e9b82eec0c6350e4e25091ffe1637d271ef5397",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/aigamecat/222911679763",
+    "title": "[Codercat]파이썬 기초 강좌 vol.01 - 연산자와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[Codercat]파이썬 기초 강좌 vol.01 - 연산자와 문자열\n- 요약: \\t 문자열 사이에서 탭 간격을 줄 때 사용합니다. \\\\ 문자 ＼ 를 그대로 표현할 때 사용합니다.... 넣고, 문자열 뒤에 %값을 추가하면 됩니다. &quot; &quot; 위 예제처럼 %d 부분에 정의되어있는 정수가 들어가게...\n- 링크: https://blog.naver.com/aigamecat/222911679763\n- 키워드: <위 문자열 그대로>"
+}

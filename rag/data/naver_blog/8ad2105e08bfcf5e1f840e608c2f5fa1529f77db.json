@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8ad2105e08bfcf5e1f840e608c2f5fa1529f77db",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/etruelove/140042150835",
+    "title": "UNIX C 강좌 #5 - 문자열과 배열 유틸리티",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "UNIX C 강좌 #5 - 문자열과 배열 유틸리티\n- 요약: /*strcpy(to,from);은 from이 to의 기존내용을 덮어쓰지만, 위의 것은 to의 기존주소에다 to의 문자열 길이 만큼을 더한 주소에 from을 복사하므로,to의 널 문자를 제외한 기존 문자열이 그대로...\n- 링크: https://blog.naver.com/etruelove/140042150835\n- 키워드: <위 문자열 그대로>"
+}

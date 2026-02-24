@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7b86ce4ae98661a70445bf798fd90fb7eedd29e3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tommybee/222681703252",
+    "title": "[C] 문자열 자르기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "[C] 문자열 자르기\n- 요약: 아이디어는 컬럼 길이 내의 문자열은 그대로 쓰고, 넘어가는 문자열은 현재 문자열을 잘라내서 쓴다는 것입니다. 아무 생각하지 않고 할 수 있는 방법은 받은 문자열을 데이터베이스 스키마의 컬럼 길이까지만...\n- 링크: https://blog.naver.com/tommybee/222681703252\n- 키워드: <위 문자열 그대로>"
+}

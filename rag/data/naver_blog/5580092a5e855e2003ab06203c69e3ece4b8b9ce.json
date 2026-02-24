@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5580092a5e855e2003ab06203c69e3ece4b8b9ce",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221241470745",
+    "title": "[Quiz] 입력된 문자열을 대문자로 변경 (C, 1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "[Quiz] 입력된 문자열을 대문자로 변경 (C, 1)\n- 요약: 입력한 문자열을 그대로 화면에 출력하는 프로그램을 만들어 보면 다음과 같습니다. 아래의... putchar(data); } return 0;} 위 예제를 실행해서 'tipsware'라고 입력하고 엔터 키를 누르면 아래와...\n- 링크: https://blog.naver.com/tipsware/221241470745\n- 키워드: <위 문자열 그대로>"
+}

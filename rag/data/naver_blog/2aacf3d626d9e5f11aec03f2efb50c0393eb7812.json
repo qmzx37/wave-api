@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2aacf3d626d9e5f11aec03f2efb50c0393eb7812",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://2srin.tistory.com/75",
+    "title": "부스트코딩 뉴비챌린지 스터디 5주차 : 메모리와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "부스트코딩 뉴비챌린지 스터디 5주차 : 메모리와 문자열\n- 요약: 이 경우 t와 s 모두 같은 문자열을 가리키고 있고, t를 수정한 후 s를 출력해도 수정된 값이 그대로 나온다. 이는 복사본을 만들기에 실패한 것이다. 문자열을 복사하기 위해서는 strcpy 를 사용해야한다....\n- 링크: https://2srin.tistory.com/75\n- 키워드: <위 문자열 그대로>"
+}

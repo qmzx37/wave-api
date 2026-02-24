@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_833cacb3bee16df20c0292767f6359dfca1e2500",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/happy_jhyo/222023338403",
+    "title": "Python3 문자열(시퀀스자료형)과 문자변경 방법(JOIN...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "Python3 문자열(시퀀스자료형)과 문자변경 방법(JOIN...\n- 요약: - 말 그대로 문자열의 구성 요소를 하나씩 가져오게 하기 위해서 변환을 하는 것이다. 하지만 이를 통해서 마찬가지로 구성 요소로 변경하는 것이 있어서는 무리가 있다....\n- 링크: https://blog.naver.com/happy_jhyo/222023338403\n- 키워드: <위 문자열 그대로>"
+}

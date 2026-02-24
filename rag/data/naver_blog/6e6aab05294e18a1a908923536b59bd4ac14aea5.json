@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6e6aab05294e18a1a908923536b59bd4ac14aea5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/doubleh7-/224003267485",
+    "title": "문자열 LV2 실전",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "문자열 LV2 실전\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로...\n- 링크: https://blog.naver.com/doubleh7-/224003267485\n- 키워드: <위 문자열 그대로>"
+}

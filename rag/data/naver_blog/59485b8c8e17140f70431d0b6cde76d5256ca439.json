@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_59485b8c8e17140f70431d0b6cde76d5256ca439",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yinyong45/221766848160",
+    "title": "[C언어] 문자열 함수 쉽게 이해하기(strlen,strcpy...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "[C언어] 문자열 함수 쉽게 이해하기(strlen,strcpy...\n- 요약: h 헤더파일에 포함되어 있는 함수들인데요, 유용하게 쓸 데가 많을 것 같습니다ㅎㅎ 문자열 함수는 말 그대로 문자열에 관련된 함수입니다. 문자열의 길이를 측정하고, 복사하고, 붙이고, 비교하는...\n- 링크: https://blog.naver.com/yinyong45/221766848160\n- 키워드: <위 문자열 그대로>"
+}

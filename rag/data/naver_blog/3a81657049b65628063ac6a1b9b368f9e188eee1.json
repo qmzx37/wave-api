@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3a81657049b65628063ac6a1b9b368f9e188eee1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/qntksdkdlxl/223018831423",
+    "title": "코린이의 공부[파이썬의 자료형(문자열)]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "코린이의 공부[파이썬의 자료형(문자열)]\n- 요약: &quot;Life is too short, You need Python&quot; &quot;a&quot; &quot;123&quot; 위 문자열 예문을 보면 모두 큰따옴표(&quot; &quot;)로 둘러싸여... 저장된 문자열이 그대로 출력되는 것을 볼 수 있죠. &gt;&gt;&gt; food &quot;Python's favorite food is perl&quot; 시험 삼아...\n- 링크: https://blog.naver.com/qntksdkdlxl/223018831423\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c1559ab6133e6f0c92124ef9b304c74c0beddae3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://procodes.tistory.com/697",
+    "title": "파이썬에서 여러 분리 문자로 문자열 분리하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "파이썬에서 여러 분리 문자로 문자열 분리하기\n- 요약: 후행 공백이없는 개별 쉼표는 그대로 두어야합니다. 문자열 예 : &quot;b-staged divinylsiloxane-bis-benzocyclobutene [124221-30-3], mesitylene [000108-67-8]; polymerized 1,2-dihydro-2,2,4- trimethyl...\n- 링크: https://procodes.tistory.com/697\n- 키워드: <위 문자열 그대로>"
+}

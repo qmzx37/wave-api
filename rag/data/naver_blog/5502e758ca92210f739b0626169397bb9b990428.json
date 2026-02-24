@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5502e758ca92210f739b0626169397bb9b990428",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youseon97/223094991341",
+    "title": "Java 문자열이 빈 문자열 및 빈 공백인지 확인하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "Java 문자열이 빈 문자열 및 빈 공백인지 확인하기\n- 요약: 그대로 해당 소스를 실행하게 되면, 이처럼 true 값이 출력이 되는 걸 확인하실 수 있습니다. 즉, isBlank() 메서드는 공백(Space Bar)만 존재하는 것도 문자열(값)이 없는 걸로 판단을 하여, true가 반환되는...\n- 링크: https://blog.naver.com/youseon97/223094991341\n- 키워드: <위 문자열 그대로>"
+}

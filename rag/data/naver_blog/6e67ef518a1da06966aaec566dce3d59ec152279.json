@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6e67ef518a1da06966aaec566dce3d59ec152279",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/karuru04/222491728991",
+    "title": "Python 문자열 다루기 / f-String /공백제거",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "Python 문자열 다루기 / f-String /공백제거\n- 요약: 또한 몇 가지 함수를 사용하여 문자열을 조작할 수 있습니다. 위 그림과 같이 코드를 작성할 경우 변수에 입력된 값 그대로 모두 소문자로 표시가 됩니다. 단어의 첫글자만 대문자로 표기해 보겠습니다....\n- 링크: https://blog.naver.com/karuru04/222491728991\n- 키워드: <위 문자열 그대로>"
+}

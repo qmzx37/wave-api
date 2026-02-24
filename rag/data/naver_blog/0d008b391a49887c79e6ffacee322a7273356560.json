@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0d008b391a49887c79e6ffacee322a7273356560",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sharonichoya/220488567828",
+    "title": "C언어 문자열(string) 기본개념",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "C언어 문자열(string) 기본개념\n- 요약: - 문자열(string)은 말 그대로 문자들의 열이다. 즉 문자들의 집합이다. 예를들어 A 는 문자이지만... - 위 그림에서 보는바와 같이 printf함수는 str값을 전달받아 출력을 시작할 것이다. str은 4번지이다....\n- 링크: https://blog.naver.com/sharonichoya/220488567828\n- 키워드: <위 문자열 그대로>"
+}

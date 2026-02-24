@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_40f0efa6a79df5afc336601f8aaa7a2b696b669f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ask-why/224115639791",
+    "title": "자동화 프로그램 : 특정 문자열을 포함하는 파일을 찾는...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "자동화 프로그램 : 특정 문자열을 포함하는 파일을 찾는...\n- 요약: 이번 글에서는 os.walk()를 이용해 폴더 안 .txt 파일을 전부 읽고, 특정 문자열이 포함된 파일 경로만... 검색어 포함 파일 → matched/ 폴더로 복사 불일치 파일 → 그대로 두기 또는 날짜별로 결과 폴더...\n- 링크: https://blog.naver.com/ask-why/224115639791\n- 키워드: <위 문자열 그대로>"
+}

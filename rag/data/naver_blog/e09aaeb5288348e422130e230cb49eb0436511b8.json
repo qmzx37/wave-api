@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e09aaeb5288348e422130e230cb49eb0436511b8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/le_voyage_03/223128172914",
+    "title": "[백준] 1181. 단어 정렬 - 문자열, Array, Comparator (Java)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:08",
+    "ok": true
+  },
+  "text": "[백준] 1181. 단어 정렬 - 문자열, Array, Comparator (Java)\n- 요약: 위 문제는 입력받은 문자열들을 짧은 순에서 긴 순으로 정렬하는 문제이다. 그러나 이때... 바꾸거나 그대로 둔다. 전체 코드는 다음과 같다. &lt; &lt;&gt; &lt; https://www.acmicpc.net/problem/1181 비슷한 문제...\n- 링크: https://blog.naver.com/le_voyage_03/223128172914\n- 키워드: <위 문자열 그대로>"
+}

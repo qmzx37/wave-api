@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_78d0a5096c3fcb0460e8b7556f44785eb2d9cd69",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/redqoralsrl/221964339297",
+    "title": "파이썬 5)문자열, 문자열 인덱싱, 슬라이싱, 내장함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "파이썬 5)문자열, 문자열 인덱싱, 슬라이싱, 내장함수\n- 요약: Python 문자열 변수에 대해 알아보자 문자열 변수는 말그대로 문자열 담는 변수다 &quot;&quot;&quot; 이거나 ''' 로 묶인 데이터 대입이라고도 한다. 위의 예제를 보면 다양하게 넣을 수 있다. 중간에 num이라는 함정을...\n- 링크: https://blog.naver.com/redqoralsrl/221964339297\n- 키워드: <위 문자열 그대로>"
+}

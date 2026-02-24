@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_428020b5e68fb90319636cc63d4bc90a65abe1d3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/amdshin/223765394285",
+    "title": "C/C++ 기초 정리 (문자열(3))",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "C/C++ 기초 정리 (문자열(3))\n- 요약: 문자열(2)파트에서 문자열의 갯수를 세는 함수를 사용해보았으니 문자열(3)파트에서는 직접 만들... Destination은 목적지, Source는 말 그대로 원본 코드, SizeinWords는 Destination쪽으로 이어붙일 문자갯수 이렇게...\n- 링크: https://blog.naver.com/amdshin/223765394285\n- 키워드: <위 문자열 그대로>"
+}

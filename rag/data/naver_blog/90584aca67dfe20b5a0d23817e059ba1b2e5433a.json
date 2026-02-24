@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_90584aca67dfe20b5a0d23817e059ba1b2e5433a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/223588579854",
+    "title": "[Q&amp;A] 아스키 문자열에서 원하는 문자열 찾아서 유니코드로...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "[Q&amp;A] 아스키 문자열에서 원하는 문자열 찾아서 유니코드로...\n- 요약: &lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt; 위 작업에서 한 개의 문자열을 분리하는 기능을 함수로 만들고 싶은데 어떻게 해야 할까요?... 사용해 NULL 문자를 스킵 하는 작업이 필요 없어서 p의 주소를 그대로 반환했습니다. &quot;&lt;&gt;&quot; &lt;&gt; &quot;&lt;&gt;&quot; &lt; &gt; &lt; &lt;\n- 링크: https://blog.naver.com/tipsware/223588579854\n- 키워드: <위 문자열 그대로>"
+}

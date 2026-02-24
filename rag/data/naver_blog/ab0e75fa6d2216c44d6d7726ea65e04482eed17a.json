@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ab0e75fa6d2216c44d6d7726ea65e04482eed17a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sorbet_record/223509429671",
+    "title": "cpp 문자열 빈칸지우기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "cpp 문자열 빈칸지우기\n- 요약: CPP 문제풀다가 문자열 다루는데 뭔 이상하고 재밌는점이 있다. Hello World! 의 문자열이 있다고... 는 12개의 칸을 쓰다가 빈칸 1개를 없앴는데 컨테이너가 11로 안줄고 12그대로인 상태인거다. 우리는...\n- 링크: https://blog.naver.com/sorbet_record/223509429671\n- 키워드: <위 문자열 그대로>"
+}

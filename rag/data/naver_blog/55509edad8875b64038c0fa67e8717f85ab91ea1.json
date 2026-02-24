@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_55509edad8875b64038c0fa67e8717f85ab91ea1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/coding_turtle/223244792919",
+    "title": "C언어 12일차(문자열 함수)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "C언어 12일차(문자열 함수)\n- 요약: 예제 12-10 코드 사진 위 코드를 보면 str1과 str2에 문자열을 초기화 해주었고 ps1은 &quot;banana&quot;를, ps2는... 라는 문자열의 sizeof 연산자를 사용하면 결과는 80이 나온다. sizeof 연산자는 말 그대로 크기를 재는...\n- 링크: https://blog.naver.com/coding_turtle/223244792919\n- 키워드: <위 문자열 그대로>"
+}

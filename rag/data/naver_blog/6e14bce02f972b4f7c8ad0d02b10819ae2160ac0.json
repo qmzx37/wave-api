@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6e14bce02f972b4f7c8ad0d02b10819ae2160ac0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://gogoma.tistory.com/98",
+    "title": "프로그래머스 - 문자열 내 마음대로 정렬하기 java",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "프로그래머스 - 문자열 내 마음대로 정렬하기 java\n- 요약: ▶ 양수: 오름차순 ▶ 0: 그대로 ▶ 음수: 내림차순 위에서 설명한 주의할 점만 신경쓰면 됩니다. 인덱스의 문자가 같을 경우 문자열 비교를 통해 정렬 기준을 정합니다....\n- 링크: https://gogoma.tistory.com/98\n- 키워드: <위 문자열 그대로>"
+}

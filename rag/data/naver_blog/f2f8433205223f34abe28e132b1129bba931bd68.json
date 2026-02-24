@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f2f8433205223f34abe28e132b1129bba931bd68",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/zzzhd25/223218742264",
+    "title": "[Python 기본 문법] 문자열 포맷팅",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[Python 기본 문법] 문자열 포맷팅\n- 요약: 변수가 그대로 들어가기 때문에 반복문을 출력할 때 용이 하다 두개 이상의 값을 넣을 때는 ? &quot; &quot; 이럴 때는 이렇게 괄호 안에 콤마로 구분하여 각각의 값을 넣어주면 된다 문자열 포맷 코드 %s 문자열...\n- 링크: https://blog.naver.com/zzzhd25/223218742264\n- 키워드: <위 문자열 그대로>"
+}

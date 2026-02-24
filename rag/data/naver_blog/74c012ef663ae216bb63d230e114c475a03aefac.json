@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_74c012ef663ae216bb63d230e114c475a03aefac",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/till-its-over/223128230280",
+    "title": "[자료형/DateTime] 문자열로 DateTime 자료형 형식의...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "[자료형/DateTime] 문자열로 DateTime 자료형 형식의...\n- 요약: 에러 해결 조치 상세 에러 발생 화면에서 입력받은 그대로 '09:00 AM' 문자열을 DATE 객체로 변환시에 NULL 이 출력됩니다. 확인해보니 DATE 객체로 변환시키는 문자열의 형식이 있는데 ' 09...\n- 링크: https://blog.naver.com/till-its-over/223128230280\n- 키워드: <위 문자열 그대로>"
+}

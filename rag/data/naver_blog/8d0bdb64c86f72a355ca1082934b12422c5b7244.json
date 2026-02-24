@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8d0bdb64c86f72a355ca1082934b12422c5b7244",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/devmachine/220952781191",
+    "title": "[C++] switch 문에서 문자열 사용하기 (Feat. constexpr)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "[C++] switch 문에서 문자열 사용하기 (Feat. constexpr)\n- 요약: 위 예제의 컴파일 오류를 해결할 수 있는 열쇠가 바로 constexpr 함수라는 것을요. HashCode... 정성태님이 테스트하셨던 방식을 그대로 적용하면 HashCode 함수는 375,719개의 문자열 중...\n- 링크: https://blog.naver.com/devmachine/220952781191\n- 키워드: <위 문자열 그대로>"
+}

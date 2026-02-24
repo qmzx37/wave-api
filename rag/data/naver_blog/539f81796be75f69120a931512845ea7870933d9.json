@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_539f81796be75f69120a931512845ea7870933d9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://ho-story.tistory.com/251",
+    "title": "1120.문자열 :: Ho_use",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "1120.문자열 :: Ho_use\n- 요약: j++){ // A문자열의 길이까지만 if (A[j-i] != B[j]) // A문자열은 그대로지만 비교대상은 옮겨짐 count++; // 다르면 카운트! } if (min &gt; count) // 구한 차이중의 최소값을 저장 min = count; count = 0; }...\n- 링크: https://ho-story.tistory.com/251\n- 키워드: <위 문자열 그대로>"
+}

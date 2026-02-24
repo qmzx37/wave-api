@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2fd9066cc39c005c43f3fdfbc73414952fcc2ff4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/balderschwang/222886809372",
+    "title": "#65 탐색 심화 2 - 문자열 알고리즘 : 커누스-모리스-프랫...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "#65 탐색 심화 2 - 문자열 알고리즘 : 커누스-모리스-프랫...\n- 요약: 대칭적으로 혹은 거울 대칭적으로 같다는게 아니라, 그냥 읽는 순서 그대로 같은 놈들을 의미합니다! ab = ab 이런식을 의미하는거고, ab = ba가 아니에요!!! 위 정의에서 빨간 동그라미, 즉 앞부분의 겹치는...\n- 링크: https://blog.naver.com/balderschwang/222886809372\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f2e707dcf3099102d9b57b7073b2e75d068e6e77",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/solim5351/223143765725",
+    "title": "[Python 심화] 파이썬 split() 함수 사용, 문자열 쪼개서...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "[Python 심화] 파이썬 split() 함수 사용, 문자열 쪼개서...\n- 요약: sep 파라미터 가장 기본적인 동작으로는 문자열.split() 또는 문자열.split(sep=''&quot;)가 있습니다. 위... 하나의 문자열이 그대로 리스트에 저장된 것을 알 수 있습니다. 참고로, s1 리스트의 길이는 1이라...\n- 링크: https://blog.naver.com/solim5351/223143765725\n- 키워드: <위 문자열 그대로>"
+}

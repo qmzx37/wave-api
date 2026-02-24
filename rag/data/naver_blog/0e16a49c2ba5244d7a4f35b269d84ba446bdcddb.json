@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0e16a49c2ba5244d7a4f35b269d84ba446bdcddb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/freespaceforinsight/223081027872",
+    "title": "파이썬 매일코딩 - 2장 문자열(4)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:08",
+    "ok": true
+  },
+  "text": "파이썬 매일코딩 - 2장 문자열(4)\n- 요약: append(f'ub{l}') # aeiou가 없다면 else: # output에 l을 그대로 추가하라 output.append(l) # 최종적으로 output에 위에서 수행된 모든 문자열을 합쳐서 반환하라 return ''.join(output) print(ubbi_dubbi...\n- 링크: https://blog.naver.com/freespaceforinsight/223081027872\n- 키워드: <위 문자열 그대로>"
+}

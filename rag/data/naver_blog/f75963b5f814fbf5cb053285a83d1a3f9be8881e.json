@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f75963b5f814fbf5cb053285a83d1a3f9be8881e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/freegunkng/223510387256",
+    "title": "editplus 문자열 검색 정규식 iis로그 text검색 시",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "editplus 문자열 검색 정규식 iis로그 text검색 시\n- 요약: #editplus #문자열검색 #정규식 로그를 검색할때. classid=0000031204&amp;id=(1405|1401)&amp;_=[^&amp;]+.*10\\.0\\.0\\.1 이... 여기서 .은 정규식에서 임의의 문자를 의미하므로, 이를 문자 그대로 인식하게 하려면 \\로...\n- 링크: https://blog.naver.com/freegunkng/223510387256\n- 키워드: <위 문자열 그대로>"
+}

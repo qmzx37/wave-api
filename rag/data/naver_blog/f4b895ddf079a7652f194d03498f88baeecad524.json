@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f4b895ddf079a7652f194d03498f88baeecad524",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://reakwon.tistory.com/171",
+    "title": "REAKWON :: [파이썬] 문자열 활용과 문자열 메소드...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "REAKWON :: [파이썬] 문자열 활용과 문자열 메소드...\n- 요약: com name : kim, age : 22 - f String을 사용한 문자열 포맷 문자열을 저장할때 가장 맨 앞에 f를 준 후 변수명을 그대로 문자열에 중괄호로 입력하면 그 변수명의 데이터가 그대로...\n- 링크: https://reakwon.tistory.com/171\n- 키워드: <위 문자열 그대로>"
+}

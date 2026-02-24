@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1e0ea33fd94d73a35c9b9788fd46b5fb6254366e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/verspreche/130125285313",
+    "title": "Chapter 17-2. 1차원 char형 배열을 이용한 문자열의 표현",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "Chapter 17-2. 1차원 char형 배열을 이용한 문자열의 표현\n- 요약: 위 표의 특성들은 문자열에도 그대로 반영이 된다. 어떻게 문자열 변수를 만들 것인가? char형 배열을 활용한다! C언어에서는 문자열의 저장을 위한 기본 자료형은 없다. 대신 char형 배열을 사용하여...\n- 링크: https://blog.naver.com/verspreche/130125285313\n- 키워드: <위 문자열 그대로>"
+}

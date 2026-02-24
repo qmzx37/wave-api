@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9bd37d8f843581b741286ab7d5252cb76e456158",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kstarsu/223331191587",
+    "title": "프로그래머스 코딩테스트, 코딩 기초 트레이닝, DAY1, 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "프로그래머스 코딩테스트, 코딩 기초 트레이닝, DAY1, 문자열...\n- 요약: 문자열의 각 문자에 접근하고 조건식을 적용해 해결하는 답안 코드이다. &quot;&quot; &quot; &quot; &quot; &quot; &lt; &lt; &quot; &quot; 위... 무시되고 문자열이 그대로 처리 된다. &quot;&amp;&quot;&lt;&gt;&quot; 하지만 이 방식을 사용할 때도 주의할 점이있다....\n- 링크: https://blog.naver.com/kstarsu/223331191587\n- 키워드: <위 문자열 그대로>"
+}

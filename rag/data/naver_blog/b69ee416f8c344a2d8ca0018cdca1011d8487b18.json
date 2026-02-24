@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b69ee416f8c344a2d8ca0018cdca1011d8487b18",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jahoyun/223252192483",
+    "title": "[파이썬] #1.4 문자열 다루기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "[파이썬] #1.4 문자열 다루기\n- 요약: #문자열인덱스 문자열&quot;abc&quot;를 text로 정의내렸을 때, 문자열 속 각 문자는 인덱스가 존재한다. 0부터... qwer 1234 모두 그대로 나온다. 또 하나의 유익한 기능은, 몇 칸을 띄워서 자르냐인데 위와 같이 '1의...\n- 링크: https://blog.naver.com/jahoyun/223252192483\n- 키워드: <위 문자열 그대로>"
+}

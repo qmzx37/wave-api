@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5fc06b7416f6085db3afa1501c8b21fb8eea6bb3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/taknineball/222296673450",
+    "title": "[python3] 백준 알고리즘 단계별 문제풀기 7단계(5~7) 문자열2",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "[python3] 백준 알고리즘 단계별 문제풀기 7단계(5~7) 문자열2\n- 요약: list.reverse()로 list 순서를 뒤집어 주는 명령어가 있는데, 그렇게 하면 좀 복잡해져서 문자열 그대로 뒤집어주는 [::-1] 명령어를 찾았다! 인덱스의 순서를 뒤집어 주는거라고 한다. ex = 'abcde' ex[::-1]...\n- 링크: https://blog.naver.com/taknineball/222296673450\n- 키워드: <위 문자열 그대로>"
+}

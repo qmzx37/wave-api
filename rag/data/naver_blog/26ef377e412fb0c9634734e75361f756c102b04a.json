@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_26ef377e412fb0c9634734e75361f756c102b04a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/toogit45916/222656911411",
+    "title": "XML 문자열을 XmlWriter에 삽입할 때 XML 들여쓰기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "XML 문자열을 XmlWriter에 삽입할 때 XML 들여쓰기\n- 요약: xw.WriteRaw()를 호출하면 해당 문자열이 그대로 주입되고 원하는 들여쓰기를 따르지 않습니다. 기본적으로 XML 문자열을 구문 분석하고 모든 WriteStartElement 등을 거쳐 XmlTextWriter의 설정에 따라...\n- 링크: https://blog.naver.com/toogit45916/222656911411\n- 키워드: <위 문자열 그대로>"
+}

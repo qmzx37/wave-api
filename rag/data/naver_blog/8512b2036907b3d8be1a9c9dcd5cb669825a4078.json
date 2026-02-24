@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8512b2036907b3d8be1a9c9dcd5cb669825a4078",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youseon97/223072696475",
+    "title": "Java 문자열 비교하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "Java 문자열 비교하기\n- 요약: 우선 이처럼 동일한 String(문자열) type의 변수를 2개 작성해 주도록 하겠습니다. 그리고 해당 변수... 어쨌든 그래서 변수에 담긴 값은 그대로 &quot;a&quot;와 &quot;A&quot;를 비교하고, 메서드만 변경하여 다시 실행을 하게...\n- 링크: https://blog.naver.com/youseon97/223072696475\n- 키워드: <위 문자열 그대로>"
+}

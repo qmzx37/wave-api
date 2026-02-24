@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_65ec80bc1d26638896616a01f068726592e454c6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://hianna.tistory.com/506",
+    "title": "[Javascript] 문자열에서 마지막 콤마 제거하기 - 어제 오늘...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "[Javascript] 문자열에서 마지막 콤마 제거하기 - 어제 오늘...\n- 요약: str1과 같이 문자열의 끝에 콤마가 없을 경우, 문자열을 그대로 유지하고, str2와 같이 문자열의... 위 예제에서는 str1에서 정규식(/,\\s*$/)에 해당하는 값을 찾아서, 빈 공백(&quot;&quot;)으로 변환해 줍니다....\n- 링크: https://hianna.tistory.com/506\n- 키워드: <위 문자열 그대로>"
+}

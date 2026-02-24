@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2a2c5ae85ce870d5560379475eb0d2babc81d611",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wlgh325/221426319845",
+    "title": "String(문자열), list(리스트), tuple(튜플), dictionary...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "String(문자열), list(리스트), tuple(튜플), dictionary...\n- 요약: 이름 그대로 사전을 뜻해요 사전에서 이게 뭐지?? 하고 찾을때 key(찾고 싶은 내용)를 가지고 무슨 내용인지(value)를 찾게 되잖아요?? 똑같은 방식이에요 Key에 해당하는 value를 지정해주면 음 그 key에...\n- 링크: https://blog.naver.com/wlgh325/221426319845\n- 키워드: <위 문자열 그대로>"
+}

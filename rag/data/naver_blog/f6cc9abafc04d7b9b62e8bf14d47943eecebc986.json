@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f6cc9abafc04d7b9b62e8bf14d47943eecebc986",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://daldalhanstory.tistory.com/342",
+    "title": "CodingTest #31 Kotilin 정수 내림차순으로 배치하기, 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "CodingTest #31 Kotilin 정수 내림차순으로 배치하기, 문자열...\n- 요약: toLong() } 이 문제 같은 경우는 전달받은 long값을 문자열로 변환하고, 정렬을 위해 char... 그 값을 파라미터로 받은 x값의 곱해주어, LongArray의 초깃값으로 그대로 저장되고 반환까지...\n- 링크: https://daldalhanstory.tistory.com/342\n- 키워드: <위 문자열 그대로>"
+}

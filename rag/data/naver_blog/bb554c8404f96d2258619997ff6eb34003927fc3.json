@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bb554c8404f96d2258619997ff6eb34003927fc3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/devks0228/221582598812",
+    "title": "[Python] 자료형(숫자형, 문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "[Python] 자료형(숫자형, 문자열)\n- 요약: 2) 여러 줄인 문자열을 변수에 대입하는 방법 I'm studying Python. Python is so fun. 위 처럼... 않고 그대로 문자열을 반환한다. &gt;&gt;&gt; str = &quot;Python is so fun&quot; &gt;&gt;&gt; str.replace(&quot;Python&quot;, &quot;Kotlin&quot;) 'Kotlin is so...\n- 링크: https://blog.naver.com/devks0228/221582598812\n- 키워드: <위 문자열 그대로>"
+}

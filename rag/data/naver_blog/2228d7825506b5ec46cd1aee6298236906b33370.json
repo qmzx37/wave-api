@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2228d7825506b5ec46cd1aee6298236906b33370",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cocopig1028/222654731283",
+    "title": "{문자열_1} Swift 기초 Day-09",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "{문자열_1} Swift 기초 Day-09\n- 요약: 경우 문자열의 사본이 만들어진다. 위 코드를 보면 copy에 origing를 할당시면 문자열 리터럴의... copy에 원래 들어있던 문자열은 사본이기 때문에 origin은 그대로 &quot;This is original&quot;을 출력되는 것을 볼 수...\n- 링크: https://blog.naver.com/cocopig1028/222654731283\n- 키워드: <위 문자열 그대로>"
+}

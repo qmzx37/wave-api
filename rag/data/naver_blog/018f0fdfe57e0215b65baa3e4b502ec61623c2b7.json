@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_018f0fdfe57e0215b65baa3e4b502ec61623c2b7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jmc0820/223397960926",
+    "title": "Lv.2 JadenCase 문자열 만들기 - 파이썬 공부 / 대소문자...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "Lv.2 JadenCase 문자열 만들기 - 파이썬 공부 / 대소문자...\n- 요약: 네번째 시도 분리한 문자열을 소문자로 바꿀 때, &quot;&quot;을 공백 문자로 바꾸게 하였다. 그런 다음 첫 글자가 공백 문자이면 그냥 그대로 저장하게 하였다. &quot; &quot; &quot; &quot; &quot;&quot; &quot;&quot; &quot; &quot; &quot; &quot; &quot; &quot; 코드에서 if문과 for문을 한 줄로...\n- 링크: https://blog.naver.com/jmc0820/223397960926\n- 키워드: <위 문자열 그대로>"
+}

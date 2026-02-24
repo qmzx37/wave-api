@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_41c81047f9045f70f50ca0ceb4cc93dc2c590f4f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/slave_depelover/223155188396",
+    "title": "문자열 겹쳐쓰기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "문자열 겹쳐쓰기\n- 요약: &gt; &gt; 가독성 있게 위 코드를 나눠서 설명을 해보겠다. &gt; 먼저, s가 my_string의 길이보다... 만약 s가 범위를 벗어난다면, 원래 문자열 my_string을 그대로 반환한다. &gt; s와 overwrite...\n- 링크: https://blog.naver.com/slave_depelover/223155188396\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_84ac85667e402215d5d08bdea3096da35ac4ec5c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/codingclass/223591112030",
+    "title": "파이썬&gt;&gt;&gt; 문자열 포맷팅2",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "파이썬&gt;&gt;&gt; 문자열 포맷팅2\n- 요약: 위 % 문자열 포맷팅과 달리 format 함수 포맷팅은 %d, %s 등을 적지 않아도 되지 조금 더 간편하다... 주고, 문자열 앞에 f를 적어준 후 {변수이름}을 적어주면 그 자리에 그 변수가 그대로...\n- 링크: https://blog.naver.com/codingclass/223591112030\n- 키워드: <위 문자열 그대로>"
+}

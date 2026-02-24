@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_52921b9677aade25c3dbcf62774d05405aa75027",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/oeiwlax057806/222643643898",
+    "title": "사전을 쉼표로 구분된 문자열로 변환하는 더 좋은 방법이...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "사전을 쉼표로 구분된 문자열로 변환하는 더 좋은 방법이...\n- 요약: 그러나 귀하의 코드는 있는 그대로 완벽하게 이해할 수 있으며 부끄러워할 일이 아닙니다. &quot;&quot; 3.5보다 오래된 Python을 사용하는 경우 위의 예에서 사용한 f&quot;&quot; 문자열 구문 대신 .format 을 사용해야...\n- 링크: https://blog.naver.com/oeiwlax057806/222643643898\n- 키워드: <위 문자열 그대로>"
+}

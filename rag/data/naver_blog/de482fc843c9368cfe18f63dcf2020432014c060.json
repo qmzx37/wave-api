@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_de482fc843c9368cfe18f63dcf2020432014c060",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/1ilsang/221220388734",
+    "title": "상수, 데이터 타입 // 원시타입, 템플릿 문자열, 심볼, undefined",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "상수, 데이터 타입 // 원시타입, 템플릿 문자열, 심볼, undefined\n- 요약: 리터럴과 변수, 상수, 데이터 타입 // 원시타입, 템플릿 문자열, 심볼, undefined 러닝... 변수와 상수 변수는 말 그대로 변할 수 있는 수로 가변값을 가지고 있다. let currentTempC = 22; let 은 변수...\n- 링크: https://blog.naver.com/1ilsang/221220388734\n- 키워드: <위 문자열 그대로>"
+}

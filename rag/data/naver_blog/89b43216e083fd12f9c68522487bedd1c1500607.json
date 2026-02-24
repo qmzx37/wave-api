@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_89b43216e083fd12f9c68522487bedd1c1500607",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://0urtrees.tistory.com/253",
+    "title": "카카오 인턴 기출문제, 숫자 문자열과 영단어 swift 풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "카카오 인턴 기출문제, 숫자 문자열과 영단어 swift 풀이\n- 요약: 27 ~ 38행) 이어서 array의 인덱스를 탐색하면서 문자가 숫자일 경우, 숫자 값 그대로 / 탐색 인덱스를 기준으로 &quot;one&quot;, &quot;three&quot; 등의 문자열이 있을 경우 해당 문자열에 대응되는 숫자값을...\n- 링크: https://0urtrees.tistory.com/253\n- 키워드: <위 문자열 그대로>"
+}

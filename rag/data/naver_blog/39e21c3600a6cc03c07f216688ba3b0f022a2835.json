@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_39e21c3600a6cc03c07f216688ba3b0f022a2835",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://latte-is-horse.tistory.com/183",
+    "title": "[프로그래머스 lv2] 문자열 압축",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "[프로그래머스 lv2] 문자열 압축\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가... 그러나 10은 1과 0이기 때문에 위 문자열의 압축 후 크기는 6이 되어야 한다. 이론상으로...\n- 링크: https://latte-is-horse.tistory.com/183\n- 키워드: <위 문자열 그대로>"
+}

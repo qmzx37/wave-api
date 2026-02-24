@@ -1,0 +1,28 @@
+﻿services:
+  wave-backend:
+    build: .
+    container_name: wave-backend
+    ports:
+      - "8001:8000"
+    environment:
+      - LITE_MODE=0
+      - KAKAO_REST_API_KEY=네_키
+      - REQ_BUDGET_SEC=25
+      - KAKAO_MAX_PAGES=2
+
+      # ✅ 컨테이너 경로로 통일
+      - LORA_PATH=/models/lora_8axis_adapter_v2
+      - OFFLOAD_DIR=/models/offload
+      - LOG_PATH=/data/emotion_log.jsonl
+      - PPO_RUNS_DIR=/data/runs
+
+      # (선택) PPO 켜고 싶으면
+      # - RL_CKPT=/data/runs/....../checkpoint_000123
+
+    volumes:
+      # ✅ 윈도우 폴더 -> 컨테이너 마운트
+      - C:/llm/lora_8axis_adapter_v2:/models/lora_8axis_adapter_v2:ro
+      - C:/llm/offload:/models/offload
+      - C:/llm/train:/data
+
+    restart: unless-stopped

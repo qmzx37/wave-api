@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_48f1a4fe579cbc7b9e9ffea7f6fc1873cebfcac7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/richausqc764/222872628543",
+    "title": "문자열을 사용하여 행과 열로 부분 문자열 만들기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "문자열을 사용하여 행과 열로 부분 문자열 만들기\n- 요약: (중단은 문자 그대로 취하는 것을 의미하지 않습니다). 하위 문자열은 시작 인덱스와 끝 인덱스가 있는 문자열의 일부를 반환하지만 actionCommand의 어떤 문자열을 하위 문자열로 사용해야...\n- 링크: https://blog.naver.com/richausqc764/222872628543\n- 키워드: <위 문자열 그대로>"
+}

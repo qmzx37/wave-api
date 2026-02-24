@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c1bfd8330665c5d3dae7c0f4d08f4d229641f957",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/archlord8674/110080959065",
+    "title": "보이어 무어(Boyer-Moor) 문자열 탐색 알고리즘[퍼옴]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "보이어 무어(Boyer-Moor) 문자열 탐색 알고리즘[퍼옴]\n- 요약: Bc[y[i+j]] 가 처음비교할때나오면 Bc[]값 그대로 옮겨 지겠지만 중간에 나오면 그 이미 비교한 만큼 덜 이동하게 된다. 즉 비교문자열 i 내에서 상대적인 값이라 볼수있다....\n- 링크: https://blog.naver.com/archlord8674/110080959065\n- 키워드: <위 문자열 그대로>"
+}

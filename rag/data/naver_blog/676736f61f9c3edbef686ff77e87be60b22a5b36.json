@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_676736f61f9c3edbef686ff77e87be60b22a5b36",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/asa4209/221792602001",
+    "title": "[Fortran] 문자열 이어붙이기(Appending Strings)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "[Fortran] 문자열 이어붙이기(Appending Strings)\n- 요약: 여느 언어들과 마찬가지로 Fotran에서도 문자열 자료형을 지원한다. 보통 따옴표(') 혹은... 값을 그대로 작성한다. 그 후 ctl 파일을 기존 파일과 동일하게 작성 후 GrADS를 열어 간단하게...\n- 링크: https://blog.naver.com/asa4209/221792602001\n- 키워드: <위 문자열 그대로>"
+}

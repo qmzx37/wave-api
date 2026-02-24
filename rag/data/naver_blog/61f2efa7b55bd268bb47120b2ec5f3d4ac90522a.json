@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_61f2efa7b55bd268bb47120b2ec5f3d4ac90522a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pk3152/222145740447",
+    "title": "C 언어 기초 (54) 문자열 입력 gets, puts(gets_s, puts_s)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "C 언어 기초 (54) 문자열 입력 gets, puts(gets_s, puts_s)\n- 요약: 해도 그대로 표현됩니다.) 이제는 설명보단 먼저 코드를 보고 다시 gets()함수를 파악해보도록 하겠습니다. &lt;&gt; &quot;&quot; 간단하게 크기가 20인 char형배열에 gets() 함수를 이용하여 문자열을 입력하고, printf...\n- 링크: https://blog.naver.com/pk3152/222145740447\n- 키워드: <위 문자열 그대로>"
+}

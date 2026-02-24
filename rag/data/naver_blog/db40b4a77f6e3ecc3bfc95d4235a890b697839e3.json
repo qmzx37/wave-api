@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_db40b4a77f6e3ecc3bfc95d4235a890b697839e3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yellta/222715443472",
+    "title": "파이썬에서 문자열을 활용해보기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "파이썬에서 문자열을 활용해보기\n- 요약: 백슬래시(\\)를 사용해서 작은따옴표와 큰따옴표를 문자열에 포함시키기 &quot;&quot; &quot; &quot; 위와 같이 사용하려는 기호 앞에 \\를 사용해서 문자 그대로 출력하면 된다. 4월 29일 아주간단한 파이썬 문자열이용하기를...\n- 링크: https://blog.naver.com/yellta/222715443472\n- 키워드: <위 문자열 그대로>"
+}

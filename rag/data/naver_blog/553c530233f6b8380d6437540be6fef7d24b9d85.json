@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_553c530233f6b8380d6437540be6fef7d24b9d85",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/c3dongtan/223067118466",
+    "title": "문자열 VII - 문자열 메소드(2): 문자열 바꾸기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "문자열 VII - 문자열 메소드(2): 문자열 바꾸기\n- 요약: 이 경우 width의 값이 기존 str의 길이보다 작으면 원래의 문자열이 그대로 나오게 됩니다. &gt;&gt;&gt; &quot;&quot; &gt;&gt;&gt; &quot;&quot; &gt;&gt;&gt; &quot;&quot; fillchar를 지정하기 않으면 늘어나는 빈 자리는 공백으로 채워지고, fillchar를 지정을...\n- 링크: https://blog.naver.com/c3dongtan/223067118466\n- 키워드: <위 문자열 그대로>"
+}

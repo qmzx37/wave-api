@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cc01a868e57ac8a5b873b3459f61748f5d525fd4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jimin5077/222634566793",
+    "title": "[자바 Java] static으로 지정된 클래스 parseInt/문자열에서...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "[자바 Java] static으로 지정된 클래스 parseInt/문자열에서...\n- 요약: =&gt;문자열을 숫자로 변환시켜주며 Integer클래스(java.lang.Integer)의 static 메소드로... 자동으로 10진수 1001이라는 값이 되고 그 값을 10진수로 변환하면 그대로 1001이라는 값이 출력된다~ 끝\n- 링크: https://blog.naver.com/jimin5077/222634566793\n- 키워드: <위 문자열 그대로>"
+}

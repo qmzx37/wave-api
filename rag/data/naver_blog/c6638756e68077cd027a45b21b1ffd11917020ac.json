@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c6638756e68077cd027a45b21b1ffd11917020ac",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/lool2389/220652482237",
+    "title": "Python 심화 - 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "Python 심화 - 문자열 자료형\n- 요약: 문자열 연산 첫 줄은 문자열과 문자열을 더하면 순서 그대로 두 문자열이 연결된다. 위 예제에서 print 'Hello' + ''(공백없음) + 'World' 는 HelloWorld 로 나옴을 볼 수 있다. 둘째 줄, 문자열과 숫자를 곱하면...\n- 링크: https://blog.naver.com/lool2389/220652482237\n- 키워드: <위 문자열 그대로>"
+}

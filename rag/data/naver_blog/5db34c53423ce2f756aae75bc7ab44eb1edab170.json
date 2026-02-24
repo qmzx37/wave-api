@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5db34c53423ce2f756aae75bc7ab44eb1edab170",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://leechamin.tistory.com/434",
+    "title": "[프로그래머스] 문자열 압축 — 참신러닝 (Fresh-Learning)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "[프로그래머스] 문자열 압축 — 참신러닝 (Fresh-Learning)\n- 요약: count / 2 // 길이가 1일 경우 그냥 그대로 1 반환 if s.count == 1 { return 1 } // 1개씩 묶는거부터... count} } return result } [ 프로세스 ] * 위 설명으로 생략 문자열을 다루는데 조금 겁이 있었는데...\n- 링크: https://leechamin.tistory.com/434\n- 키워드: <위 문자열 그대로>"
+}

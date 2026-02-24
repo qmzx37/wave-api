@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7a3a5274ad29886e36269ebe3e3393a41dfbb55a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/etamincom/221526521545",
+    "title": "Chater 3 #빅데이터 #분석 #개념과 #파이썬 #문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "Chater 3 #빅데이터 #분석 #개념과 #파이썬 #문자열\n- 요약: ' %num1) #'%d%%'을 사용한 이유는, %d%로 하면 그대로 표시된다. 몇 퍼센트 증가했다가 표시되어야 함으로, %d%% # %s 문자열에 대응 # %c 문자나 기호 한개에 대응됨 # %f 실수에 대응됨...\n- 링크: https://blog.naver.com/etamincom/221526521545\n- 키워드: <위 문자열 그대로>"
+}

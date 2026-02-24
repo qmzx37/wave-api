@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6527f041eba4cb97a082cd5024d96888865e295f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/makitmine_/223147141451",
+    "title": "[JS/자바스크립트] 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "[JS/자바스크립트] 문자열 자료형\n- 요약: 아무것도 없으면 null, NaN 등으로 취급되고, ' ' 는 말 그대로 스페이스 공백 한 칸의 문자로 취급하기에 당연히 다르게 나오게 된다. 문자열 안에 문자열 사용 문자열 안에 문자열을 사용하고 싶은 경우...\n- 링크: https://blog.naver.com/makitmine_/223147141451\n- 키워드: <위 문자열 그대로>"
+}

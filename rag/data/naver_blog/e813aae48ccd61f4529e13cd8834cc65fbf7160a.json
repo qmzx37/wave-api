@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e813aae48ccd61f4529e13cd8834cc65fbf7160a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ratoa/221116379684",
+    "title": "[Python] 문자열과 콘솔 출력",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "[Python] 문자열과 콘솔 출력\n- 요약: &quot; 문자열 리터럴(string literal)은 따옴표 부호(' ' 또는 &quot; &quot;) 사이에 문자 그대로(literally) 작성하여 만든 문자열 입니다. 항상 같은 따옴표 부호끼리 쌍으로 사용해야 하며, 따라서 'string&quot;이나...\n- 링크: https://blog.naver.com/ratoa/221116379684\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_950b10f6cd94f990796cc8669a54e228abc50cf1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bitnang/70182699758",
+    "title": "Perl 9_정규표현식을 이용한 문자열 처리",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "Perl 9_정규표현식을 이용한 문자열 처리\n- 요약: 제목 : 정규표현식을 이용한 문자열 처리 사용 환경 : Windows 7, Ubuntu 13.10, Strawberryperl(Windows)... 내용은 그대로 남겨두려고 하려고 할 때. html의 bold옵션을 쓰려고합니다. &lt;BOLD&gt;내용~&lt;/BOLD&gt;! 위 태그를...\n- 링크: https://blog.naver.com/bitnang/70182699758\n- 키워드: <위 문자열 그대로>"
+}

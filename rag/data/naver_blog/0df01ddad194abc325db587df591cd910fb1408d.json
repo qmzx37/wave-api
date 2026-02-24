@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0df01ddad194abc325db587df591cd910fb1408d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/letsreadbook27/222647899091",
+    "title": "한 글자만 나오는 이유 / 문자열 출력하기 / C언어 기초",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "한 글자만 나오는 이유 / 문자열 출력하기 / C언어 기초\n- 요약: 그래서 큰 따옴표 안에 문자열을 작성하면 그대로 저장할 수 있습니다. char str 은 한 문자를 저장할 수 있습니다. char str[3] 은 길이가 3인 배열입니다. char str[] 은 길이가 명시되지 않은...\n- 링크: https://blog.naver.com/letsreadbook27/222647899091\n- 키워드: <위 문자열 그대로>"
+}

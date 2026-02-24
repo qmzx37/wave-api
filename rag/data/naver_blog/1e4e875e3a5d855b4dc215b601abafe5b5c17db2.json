@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1e4e875e3a5d855b4dc215b601abafe5b5c17db2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://freewin.tistory.com/406415",
+    "title": "특정 개수의 문자열만 대체하기(예를 들면 처음 2개 문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "특정 개수의 문자열만 대체하기(예를 들면 처음 2개 문자열)\n- 요약: 우선 sed를 이용한 문자열 대체 방법은 이전 게시물을 참고하자. 여기로. 이전 게시물의 예시를 그대로 가져와 보면 아래와 같다. 처음 나오는 abc를 ABCD로 교체하는 경우다. echo &quot;abc_abc_abc...\n- 링크: https://freewin.tistory.com/406415\n- 키워드: <위 문자열 그대로>"
+}

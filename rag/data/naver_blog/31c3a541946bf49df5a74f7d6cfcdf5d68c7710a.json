@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_31c3a541946bf49df5a74f7d6cfcdf5d68c7710a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cutup9999/221307703098",
+    "title": "linux 터미널에서 특정 파일 내의 문자열 치환하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "linux 터미널에서 특정 파일 내의 문자열 치환하기\n- 요약: // sed -e s(치환 옵션)/찾을 문자열/치환할 문자열/g 파일명$ sed -e s/Linux/CentOS/g test.txt// 그럼 요렇게 출력이 된다.//Cutup//Blog//CentOS// 하지만 실제로 파일을 열어보면 내용은 그대로 Linux로...\n- 링크: https://blog.naver.com/cutup9999/221307703098\n- 키워드: <위 문자열 그대로>"
+}

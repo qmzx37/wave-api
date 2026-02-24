@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e2de41a7ceee06b4e2b17503b0ec3af246ec9db0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jeff_jks/20206991184",
+    "title": "11. [중급] 게임메이커 강좌 - GML : 제 10부 - 문자열과 실수열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "11. [중급] 게임메이커 강좌 - GML : 제 10부 - 문자열과 실수열\n- 요약: 라고 하면 real함수로 인해 a변수에 있던 123이라는 문자열이 그대로 123이라는 값으로 바뀌어서 b변수에는 123이라는 값이 들어가게 됩니다. 문자열에 적힌 수를 그대로 값으로 바꿔주는 역할을...\n- 링크: https://blog.naver.com/jeff_jks/20206991184\n- 키워드: <위 문자열 그대로>"
+}

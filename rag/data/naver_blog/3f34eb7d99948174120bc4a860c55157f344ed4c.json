@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3f34eb7d99948174120bc4a860c55157f344ed4c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://devkingdom.tistory.com/327",
+    "title": "[JS] javascript에서 문자열을 처리하는 다양한 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "[JS] javascript에서 문자열을 처리하는 다양한 방법\n- 요약: 오늘은 문자열을 처리하는 여러가지 방법에 대해 정리하고자 한다. 문자열 표현 방법... repeat() 말그대로 입력한 횟수만큼 반복한다. let repeat = &quot;repeat!!!&quot;; console.log(repeat.repeat(5)...\n- 링크: https://devkingdom.tistory.com/327\n- 키워드: <위 문자열 그대로>"
+}

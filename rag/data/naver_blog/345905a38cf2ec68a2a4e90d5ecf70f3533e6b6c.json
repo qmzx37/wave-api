@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_345905a38cf2ec68a2a4e90d5ecf70f3533e6b6c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/thd9780/222981665523",
+    "title": "문자열(String) 타입",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "문자열(String) 타입\n- 요약: ※ 출처, 이것이 자바다 예제 4 ※ 예제4 실행 결과 ※ 문자열 대체 replace()메소드는 기존 문자열은 그대로 두고, 대체한 새로운 문자열을 리턴한다. ※ 출처, 이것이 자바다 String 객체의 문자열은...\n- 링크: https://blog.naver.com/thd9780/222981665523\n- 키워드: <위 문자열 그대로>"
+}

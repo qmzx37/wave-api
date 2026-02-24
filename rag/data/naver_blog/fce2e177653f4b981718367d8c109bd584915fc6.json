@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fce2e177653f4b981718367d8c109bd584915fc6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/icbanq/222881406431",
+    "title": "[파이썬(Python) 파헤치기!] 3강 : 시퀀스 자료형 - 문자열과...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "[파이썬(Python) 파헤치기!] 3강 : 시퀀스 자료형 - 문자열과...\n- 요약: | 시퀀스 자료형(1) : 문자열 | 문자열(String)은 말 그대로 여러 문자를 이어서 열을 이룬 형태입니다.... split(sep) 문자열 s를 구분자 sep을 기준으로 분할 s.format() 문자열 s를 원하는 형태에 맞게 표현 위...\n- 링크: https://blog.naver.com/icbanq/222881406431\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b6f22fd453cdedfe03aca2ed5972bc90df0b6e17",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/python_23/224015503280",
+    "title": "3: 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "3: 문자열\n- 요약: +의 경우 문자열 1 + 문자열 2를 하면 두 문자열을 그대로 이어붙인 형태의 새로운 문자열이 나옵니다. 재밌게도 문자열을 따옴표로 감싸도, 쌍따옴표로 감싸도 성립하며, 심지어 한 문자열은 따옴표로만...\n- 링크: https://blog.naver.com/python_23/224015503280\n- 키워드: <위 문자열 그대로>"
+}

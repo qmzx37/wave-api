@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4b74b4feb229e74c27152547f7db1c43f07723e5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/scv578921/220017555595",
+    "title": "12. 문자열 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "12. 문자열 함수\n- 요약: itoa 함수는 Integer to Ascii의 준말이며 말 뜻 그대로 정수를 문자열로 변환한다. 첫 번째... 이러한 함수들이 있지만 사용하기 까다롭고 위 함수들보다 더 좋은 변환 방법이 있기에 이...\n- 링크: https://blog.naver.com/scv578921/220017555595\n- 키워드: <위 문자열 그대로>"
+}

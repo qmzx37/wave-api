@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_16f0eea440c89a219102de1dbd62e74d7cdefdea",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/happy_jhyo/70144184309",
+    "title": "SliceType, str, repr 문자열 중복, 비교(__lt__, __le__, __gt...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "SliceType, str, repr 문자열 중복, 비교(__lt__, __le__, __gt...\n- 요약: 것 그대로 이용] def keys(self): return self.d.keys() def values(self): return self.d.values() def items(self): return self.d.items() 문자열 변환하기 (str, repr) str 없으면 repr이...\n- 링크: https://blog.naver.com/happy_jhyo/70144184309\n- 키워드: <위 문자열 그대로>"
+}

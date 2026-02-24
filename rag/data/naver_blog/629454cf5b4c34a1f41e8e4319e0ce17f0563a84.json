@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_629454cf5b4c34a1f41e8e4319e0ce17f0563a84",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/activity-developer/223466790659",
+    "title": "문자열 인코딩 incoding 디코딩 decoding 이란? 개념과 이유",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "문자열 인코딩 incoding 디코딩 decoding 이란? 개념과 이유\n- 요약: 또는 컴퓨터를 통해서 있는 그대로 인코딩되어 값을 전송하고 다시 문자로 변환하여 받아야만 하는... &quot;&quot; &quot;&quot; &quot;&quot; 위 예시는 파이썬에서 문자열 인코딩과 디코딩을 수행하는 간단한 예제인데요. 이런 식으로...\n- 링크: https://blog.naver.com/activity-developer/223466790659\n- 키워드: <위 문자열 그대로>"
+}

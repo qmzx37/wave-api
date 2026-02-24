@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_973d9b8e3b1267b6d7bc4fa56357fe333dc4978c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://developer-talk.tistory.com/888",
+    "title": "[JS]이스케이프를 문자열로 처리하는 String.raw() 메서드",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "[JS]이스케이프를 문자열로 처리하는 String.raw() 메서드\n- 요약: 개요 JavaScript에서 문자열을 설정하는 방법은 크게 두 가지로 분류된다. 첫 번째... 결과] 위 예제에서 알 수 있는 것은 따옴표와 템플릿 리터럴 둘 다 문자 &quot;\\n&quot;을 그대로...\n- 링크: https://developer-talk.tistory.com/888\n- 키워드: <위 문자열 그대로>"
+}

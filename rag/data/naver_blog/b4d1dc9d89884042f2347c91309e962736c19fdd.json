@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b4d1dc9d89884042f2347c91309e962736c19fdd",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ahfkenehla/222642909409",
+    "title": "[JAVA]Day02 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "[JAVA]Day02 문자열\n- 요약: byte의 크기는 이름 그대로 1byte인데 반해, int의 크기는 4byte이다. 따라서 1byte에 있던 값을 4byte에... 문자열 앞서 언급했던 기본 자료형 외에도 자료형이 더 존재한다. 그 중 문자열의 자료형으로 String이...\n- 링크: https://blog.naver.com/ahfkenehla/222642909409\n- 키워드: <위 문자열 그대로>"
+}

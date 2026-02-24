@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_45c8de571e2f3d3f3abe6295c20b314ecf64302b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.danggun.net/10423",
+    "title": "Empty 의 답은? - .NET에서 문자열(string)이 살아가는 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "Empty 의 답은? - .NET에서 문자열(string)이 살아가는 방법\n- 요약: s2는 그대로 있지만 s1에 &quot;마바사&quot;를 넣으니 다른 주소가 되었습니다. 2-2. 메모리... 이 규칙은 동적 문자열도 똑같습니다. 즉, 위 샘플에서 s1_2와 &quot;가나다&quot;는 같은 주소를...\n- 링크: https://blog.danggun.net/10423\n- 키워드: <위 문자열 그대로>"
+}

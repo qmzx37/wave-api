@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ba73fe1992a5f1ffc5171fdf8ca6406bc9e52266",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/heavencoding/222887900548",
+    "title": "파이썬(python) 독학(4) - 문자열 포매팅 (Formatting)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "파이썬(python) 독학(4) - 문자열 포매팅 (Formatting)\n- 요약: 그리고 .format()안에 넣어주고 싶은 값들을 순서대로 넣어주시면 됩니다 위 % 문자열 포매팅과 달리... 사용하려면 문자열 앞에 f를 적어준 후에 {변수이름} 만 하시면 그 변수가 그대로 들어가게 됩니다...\n- 링크: https://blog.naver.com/heavencoding/222887900548\n- 키워드: <위 문자열 그대로>"
+}

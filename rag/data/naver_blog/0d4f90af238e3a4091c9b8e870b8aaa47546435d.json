@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0d4f90af238e3a4091c9b8e870b8aaa47546435d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wkdtjsdl8/223900017482",
+    "title": "10. 문자와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "10. 문자와 문자열\n- 요약: 만약 성공적으로 입력받았으면 인수 buf가 그대로 반환된다. 만약 실패하였으면 NULL값이 반환된다. puts()는 str가 가리키는 문자열을 받아서 화면에 출력하는 함수입니다. 이때 문자열의 끝에 있는...\n- 링크: https://blog.naver.com/wkdtjsdl8/223900017482\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_150c9e1b9dcb1e59be8fed34c5f838f75d11b466",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kgh9080/224154322158",
+    "title": "❗Gemma3-27B로 HotpotQA Recall@6 측정하기❗",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "❗Gemma3-27B로 HotpotQA Recall@6 측정하기❗\n- 요약: 3️⃣ 질문(question)은 코드에서 어디로 들어가는가 코드에서는 이 질문이 그대로 문자열로 사용됩니다. &quot;&quot; 예: &quot; &quot; 이 텍스트는 Gemma3-27B에 그대로 입력되어 질문 임베딩 벡터(q_emb) 를...\n- 링크: https://blog.naver.com/kgh9080/224154322158\n- 키워드: <위 문자열 그대로>"
+}

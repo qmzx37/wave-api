@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_129d4449c7cca61eb2dac320e7bd79dc0b5456f5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/vect-r/222142859624",
+    "title": "scanf() 함수로 char* 변수에 문자열을 입력할 수 없는 이유",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "scanf() 함수로 char* 변수에 문자열을 입력할 수 없는 이유\n- 요약: scanf()의 format tag: '%s'를 사용하여 문자열을 입력받을 때, 입력받는 메모리의 타입이 string... 결론부터 말하자면, 오류에 나온 그대로, 초기화되지 않은 포인터 변수를 사용하였기 때문이다. 그러니...\n- 링크: https://blog.naver.com/vect-r/222142859624\n- 키워드: <위 문자열 그대로>"
+}

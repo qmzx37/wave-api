@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4ed57dc7e219416cba22f9df0194d9061b47b059",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dbwjdals234/222558684560",
+    "title": "python 문자열(1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "python 문자열(1)\n- 요약: 슬라이싱 :말 그대로 문자열을 잘라서 나타내는것 예를 들어 두번째 줄에서 쓰인 a[0:4] 이게 슬라이싱인데 abcdefg중 앞에서부터 4개가 출력되었다. 이 부분에 대해서 설명하려면 제로 인덱스(Zero Index)에...\n- 링크: https://blog.naver.com/dbwjdals234/222558684560\n- 키워드: <위 문자열 그대로>"
+}

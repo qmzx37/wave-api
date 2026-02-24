@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4e56c04ac2fb09db2fda76266e6145bcbc37b078",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/peloozoid68805/222682610723",
+    "title": "Go에서 문자열을 뒤집는 방법은 무엇입니까?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "Go에서 문자열을 뒤집는 방법은 무엇입니까?\n- 요약: 시퀀스를 그대로 유지하며, 유효하지 않은 UTF-8 입력에서도 작동해야 합니다. &quot;&quot; &gt; 유니코드/표준 프리미티브가 있으면 좀 더 효율적일 수 있습니다. 없이 문자열의 경계를 통해 반복 허용 할당. https...\n- 링크: https://blog.naver.com/peloozoid68805/222682610723\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a79f4f3149feb028c8495943e75a7cc7105344b9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ohchangjun_1/223328247666",
+    "title": "cs50 5-3 문자열 복사 ,malloc free",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "cs50 5-3 문자열 복사 ,malloc free\n- 요약: 말그대로 배당, 할당하다 라는 뜻이다. 즉 메모리를 할당하는 함수이다. 사용법은 다음과 같다. 문자열 t에 size만큼의 메모리를 할당한다. 그리고 할당한 곳의 포인터를 출력한다. 따라서...\n- 링크: https://blog.naver.com/ohchangjun_1/223328247666\n- 키워드: <위 문자열 그대로>"
+}

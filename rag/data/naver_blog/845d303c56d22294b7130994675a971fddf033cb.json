@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_845d303c56d22294b7130994675a971fddf033cb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/printure005209/222657890420",
+    "title": "xml CDATA 섹션에 엔터(문자 10 또는 13)가 포함된 문자열을...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "xml CDATA 섹션에 엔터(문자 10 또는 13)가 포함된 문자열을...\n- 요약: &quot;\\n&quot; 또는 &quot;\\r&quot;이 포함된 경우 문자열을 CDATA 섹션에 넣어야 하는 사용법을 생각할 수 없습니다.... 분명히 들리겠지만 일반 ASCII 텍스트 파일을 포함하고 파일의 수동 형식을 그대로 유지하려는 경우....\n- 링크: https://blog.naver.com/printure005209/222657890420\n- 키워드: <위 문자열 그대로>"
+}

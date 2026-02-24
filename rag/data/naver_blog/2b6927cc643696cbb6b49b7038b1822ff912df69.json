@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2b6927cc643696cbb6b49b7038b1822ff912df69",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bistup37043/222942028995",
+    "title": "C 스타일 문자열의 내용에 대해 for 루프를 수행할 때 bash가...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "C 스타일 문자열의 내용에 대해 for 루프를 수행할 때 bash가...\n- 요약: 대조적으로, IFS='\\n' 은 2개의 리터럴 문자를 할당합니다: 리터럴 \\ 및 리터럴 n (작은 따옴표로 묶인 문자열은 항상 내용을 그대로 사용합니다). 원본 코드의 echo 명령이 큰따옴표로 묶인 단일 인수...\n- 링크: https://blog.naver.com/bistup37043/222942028995\n- 키워드: <위 문자열 그대로>"
+}

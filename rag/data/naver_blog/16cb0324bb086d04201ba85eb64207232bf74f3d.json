@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_16cb0324bb086d04201ba85eb64207232bf74f3d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/shwlsgurcjsw/222627098067",
+    "title": "파이썬 기초수업[6]: 문자열과 정규화표현(1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "파이썬 기초수업[6]: 문자열과 정규화표현(1)\n- 요약: 'A'와 'B'를 나눈 후 'C, D'는 그대로 출력됩니다. 즉 토큰은 3개가 되고 나누지 못한 나머지 문자열이 마지막 토큰이 됩니다. rsplit 메서드는 reverse split의 줄임말로 split메서드와 같은동작을 하지만...\n- 링크: https://blog.naver.com/shwlsgurcjsw/222627098067\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_31dfe9ede87172aa70bf4ca0441309ed24ddc928",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gydbslove/220699445744",
+    "title": "C언어 배열을 이용한 문자열 변수의 표현",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "C언어 배열을 이용한 문자열 변수의 표현\n- 요약: 앞서 말했듯이 abcdef 를 출력했을 때, 문자열을 구분할 수 없기 때문에 그대로 ghijk 까지 출력할... 위 내용에 대해서 분명 이해가 되지 않을 겁니다. 다음 시간에 설명할 포인터에 대해 설명을 하면서...\n- 링크: https://blog.naver.com/gydbslove/220699445744\n- 키워드: <위 문자열 그대로>"
+}

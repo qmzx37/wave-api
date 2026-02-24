@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_50ea50926a2a4be2f493cf24fc2cc039cf0a6d97",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/swanm13/222993739316",
+    "title": "[CJS] 특수문자 제거(문자열 치환, 정규식)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[CJS] 특수문자 제거(문자열 치환, 정규식)\n- 요약: (빈 문자열)로 치환하도록 적어보았는데 엇? 더블 스페이스도 다 없애고 싶었는데 그대로... 위 reg는 정규식으로 object 타입이며 문자열이 아닙니다. 그걸 replace 함수에 넣었을 때 한 글자만 치환해야...\n- 링크: https://blog.naver.com/swanm13/222993739316\n- 키워드: <위 문자열 그대로>"
+}

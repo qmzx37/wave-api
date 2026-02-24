@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0620b0939edb36ae53e815db7be97f3374f28fc1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://florescene.tistory.com/614",
+    "title": "싫어, 문자열 내 마음대로 정렬하기(sort()함수에 대해...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "싫어, 문자열 내 마음대로 정렬하기(sort()함수에 대해...\n- 요약: 비교 문자열 1번째 문자 &quot;abc&quot; &quot;b&quot; &quot;acd&quot; &quot;c&quot; &quot;aaa&quot; &quot;a&quot; &quot;abc&quot;[1] = &quot;b&quot;, &quot;acd&quot;[1] = &quot;c&quot; &quot;b&quot;.localeCompare(&quot;c&quot;) → 음수 (-1) → 그대로 둠 (swap 없음) &quot;abc&quot;[1] = &quot;b&quot;, &quot;aaa&quot;[1] = &quot;a&quot; &quot;b&quot;.localeCompare(&quot;a...\n- 링크: https://florescene.tistory.com/614\n- 키워드: <위 문자열 그대로>"
+}

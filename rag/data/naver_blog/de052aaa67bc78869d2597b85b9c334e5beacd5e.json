@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_de052aaa67bc78869d2597b85b9c334e5beacd5e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sw4r/221981202891",
+    "title": "[R 프로그래밍] file.path() 란? (path 형태의 문자열 만들기)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "[R 프로그래밍] file.path() 란? (path 형태의 문자열 만들기)\n- 요약: 여기서는 앞쪽에 있는 폴더의 path는 그대로 적어 두었는데, 이것 또한 다 나눌 수 있다. 하지만 편의상 바뀌게 될 부분만 떼어 내놓고 작업하면 편하기 때문에 위와 같이 하고 사실 뒤쪽에 있는 문자열...\n- 링크: https://blog.naver.com/sw4r/221981202891\n- 키워드: <위 문자열 그대로>"
+}

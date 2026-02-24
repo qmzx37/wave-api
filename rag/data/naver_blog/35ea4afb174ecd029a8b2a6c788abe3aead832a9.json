@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_35ea4afb174ecd029a8b2a6c788abe3aead832a9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/techshare/222656067907",
+    "title": "C/C++ 언어의 문자열 Literal에 인덱스 적용하는 구문",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "C/C++ 언어의 문자열 Literal에 인덱스 적용하는 구문\n- 요약: 어쨌든, 정석적으로 해석해서 문자열 리터럴을 배열로 취급해 인덱스 접근하는... 재미있는 건, 위의 코드 그대로 검색해도 답변이 나온다는 것입니다. ^^ What does...\n- 링크: https://blog.naver.com/techshare/222656067907\n- 키워드: <위 문자열 그대로>"
+}

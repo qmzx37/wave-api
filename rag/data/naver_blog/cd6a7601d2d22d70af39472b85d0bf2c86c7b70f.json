@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cd6a7601d2d22d70af39472b85d0bf2c86c7b70f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gachona6/222933097983",
+    "title": "[C 언어] 7주차 [포인터 (Pointer) , 문자열 (String)]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "[C 언어] 7주차 [포인터 (Pointer) , 문자열 (String)]\n- 요약: 위 코드를 실행해보면 str_a 자리에는 &quot;abcd&quot; + &quot;efgh&quot;의 결과인 &quot;abcdefgh&quot;가 반환되었고, str_b는 그대로 &quot;efgh&quot;로 남은 것을 확인할 수 있었습니다. 위 코드도 문자열의 크기에 유의해야합니다. 4.strcmp...\n- 링크: https://blog.naver.com/gachona6/222933097983\n- 키워드: <위 문자열 그대로>"
+}

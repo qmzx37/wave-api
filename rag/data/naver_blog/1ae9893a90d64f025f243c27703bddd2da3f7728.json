@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1ae9893a90d64f025f243c27703bddd2da3f7728",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sowonsky7/223046738449",
+    "title": "파이썬 - 주석, 프롬프트와 프린트, 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "파이썬 - 주석, 프롬프트와 프린트, 문자열\n- 요약: 프린트문에서 숫자는 그냥 괄호 안에 그대로 쓰면 된다. 숫자만 쓰면 그 숫자를 그대로 출력해준다. 참고로 IDLE에서 file을 들어가 new file을 누르면 새로운 창이 뜨는데 여기서는 엔터를 친다고...\n- 링크: https://blog.naver.com/sowonsky7/223046738449\n- 키워드: <위 문자열 그대로>"
+}

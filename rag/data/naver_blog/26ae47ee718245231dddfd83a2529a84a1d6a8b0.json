@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_26ae47ee718245231dddfd83a2529a84a1d6a8b0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/1stwook/30181155225",
+    "title": "문자열의 처리(문자 입출력 함수)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "문자열의 처리(문자 입출력 함수)\n- 요약: 이 문자열을 그대로 출력하므로 중간에 줄이 두 번 바뀌고 프로그램이 종료되는 거에요. (출력 결과에는 나타나지 않았지만 마지막 문자 'o'가 출력된 후에 줄이 바뀐 상태가 될 것입니다.) getchar...\n- 링크: https://blog.naver.com/1stwook/30181155225\n- 키워드: <위 문자열 그대로>"
+}

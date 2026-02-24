@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5ff286d16942414ebb661cae298b6eee97fc03a4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://sf2020.tistory.com/122",
+    "title": "파이썬 초급 #013 문자열과 인덱싱 , 음수 인덱스 출력",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "파이썬 초급 #013 문자열과 인덱싱 , 음수 인덱스 출력\n- 요약: print(va1) 출력하면 문자열 그대로 love가 출력됩니다. print(va1[0]) val1 을 쓰면 변수 전체 값이 출력되지만 변수명[숫자]형태로 하면 해당하는 번호에 값이 출력되게 됩니다. 이를 인덱스라고...\n- 링크: https://sf2020.tistory.com/122\n- 키워드: <위 문자열 그대로>"
+}

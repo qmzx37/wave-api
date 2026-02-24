@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_30185736113fa041d0118ba0ebd0d29e834197f4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/119ldk/222198803302",
+    "title": "&lt;C&gt;문자열 초기화, 포인터와 배열의 차이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "&lt;C&gt;문자열 초기화, 포인터와 배열의 차이\n- 요약: 먼저 포인터를 이용한 문자열초기화. 일단 이 방법은 말 그대로 포인터 변수를 이용한 것임을... return 0; } 위 코드를 실행해보면 처음엔 p가 abcde로 출력 되고 두번째는 ABCDE 세번째는 아무것도...\n- 링크: https://blog.naver.com/119ldk/222198803302\n- 키워드: <위 문자열 그대로>"
+}

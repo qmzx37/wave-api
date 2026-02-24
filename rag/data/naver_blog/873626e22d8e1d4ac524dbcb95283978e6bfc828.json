@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_873626e22d8e1d4ac524dbcb95283978e6bfc828",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pikachu08092/222410813942",
+    "title": "문자열 처리함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:34",
+    "ok": true
+  },
+  "text": "문자열 처리함수\n- 요약: -Length 글의 길이를 측청해준다 말 그대로 메모에 넣어준 글의 길이를 측청해 주지만 Pos와... 삭제에서는 문자열로 처리해야하느데 edit1이 항상 숫자열이므로 문자열을 넣으면 오류가 난다. 그래서 고친...\n- 링크: https://blog.naver.com/pikachu08092/222410813942\n- 키워드: <위 문자열 그대로>"
+}

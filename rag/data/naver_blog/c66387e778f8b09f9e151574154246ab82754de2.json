@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c66387e778f8b09f9e151574154246ab82754de2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jclees2/222299619378",
+    "title": "파이썬 문자열의 함수(lower, upper, replace)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "파이썬 문자열의 함수(lower, upper, replace)\n- 요약: 이때 기존 A 변수에 할당된 문자열은 바뀌지 않고 그대로 존재한다. upper() upper() 함수는 문자열의 내용을 모두 대문자로 바꿔 반환하는 함수이다. 다음 코드를 통해 upper() 함수의 기능을 살펴보도록...\n- 링크: https://blog.naver.com/jclees2/222299619378\n- 키워드: <위 문자열 그대로>"
+}

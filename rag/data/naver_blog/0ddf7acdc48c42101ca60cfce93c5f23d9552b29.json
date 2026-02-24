@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0ddf7acdc48c42101ca60cfce93c5f23d9552b29",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://plummmm.tistory.com/260",
+    "title": "RTL Chaining으로 커스텀 스택(.bss)에 문자열 저장",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "RTL Chaining으로 커스텀 스택(.bss)에 문자열 저장\n- 요약: 28MB ** 참고자료 ** bss 영역을 커스텀 스택으로 사용하여 &quot;/bin/sh\\00&quot; 문자열 저장하는 내용... 이름 그대로 ESP를 움직이는 것이다. POP RET POP POP RET POP POP POP RET ... 위 3가지는 esp lifting을...\n- 링크: https://plummmm.tistory.com/260\n- 키워드: <위 문자열 그대로>"
+}

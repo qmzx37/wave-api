@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a7a33959293152ca1bc9700945485c530990551f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221271581732",
+    "title": "사용자에게 문자열을 입력받을 때 생길 수 있는 문제들에...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "사용자에게 문자열을 입력받을 때 생길 수 있는 문제들에...\n- 요약: printf(&quot;입력한 문자열의 크기 : %d\\n&quot;, length); printf(&quot;입력한 문자열 확인 : %s\\n&quot;, str); return 0;} 위... 프레임에 그대로 유지했다가 // 문자열 저장을 위한 메모리가 할당되면 뒤에서부터 문자를...\n- 링크: https://blog.naver.com/tipsware/221271581732\n- 키워드: <위 문자열 그대로>"
+}

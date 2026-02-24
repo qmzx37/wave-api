@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b3de9c01d61f59330a52c3d36234ef66f91c72b9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ta2444/222920959418",
+    "title": "[SAS] 문자열에 포함된 특정 문자 위치/ 포함 여부 확인(FIND)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "[SAS] 문자열에 포함된 특정 문자 위치/ 포함 여부 확인(FIND)\n- 요약: - SAS에서는 특정 문자 추출 함수로 &quot;SUBSTR&quot;이 있는데, 약어 그대로 문자열(String)에서 특정 문자(Subset)... 넣고, 위 예시 데이터셋 원데이터에서 필요한 부분을 SUBSTR 함수를 이용해 추출하면, 아래와 같이...\n- 링크: https://blog.naver.com/ta2444/222920959418\n- 키워드: <위 문자열 그대로>"
+}

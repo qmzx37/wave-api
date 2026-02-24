@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_994cbd5a45f9befebc20c3a66295726585f63499",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://mine-it-record.tistory.com/583",
+    "title": "[TypeScript] 타입 별칭과 문자열 리터럴 (Type Alias...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "[TypeScript] 타입 별칭과 문자열 리터럴 (Type Alias...\n- 요약: 특정 문자열을 타입으로 지정하는 경우도 있다. let x: &quot;hello&quot; = &quot;hello&quot;; // error : '&quot;world&quot;' 형식은 '&quot;hello&quot;' 형식에 할당할 수 없습니다. x = &quot;world&quot;; 말 그대로 위 예제에서는 &quot;hello&quot;가...\n- 링크: https://mine-it-record.tistory.com/583\n- 키워드: <위 문자열 그대로>"
+}

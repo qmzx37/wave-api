@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a2720aecb4a729bd74077641d28489d3c1f5c7a5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sap_alumni_official/223697977986",
+    "title": "문자열 관련 함수2(CONCATENATE, SPLIT, SEARCH FOR...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "문자열 관련 함수2(CONCATENATE, SPLIT, SEARCH FOR...\n- 요약: 시스템 변수(SY-SUBRC, SY-FDPOS) ● SY-SUBRC SY-SUBRC는 이전에 설명한 적이 있어, 그대로 가져왔습니다. ● SY-FDPOS SY-FDPOS는 문자열검색(SEARCH)과 관련된 시스템 변수 중 하나로, SEARCH명령어가 찾은...\n- 링크: https://blog.naver.com/sap_alumni_official/223697977986\n- 키워드: <위 문자열 그대로>"
+}

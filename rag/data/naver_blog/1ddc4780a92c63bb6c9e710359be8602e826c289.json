@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1ddc4780a92c63bb6c9e710359be8602e826c289",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://jellili.tistory.com/85",
+    "title": "문법 - 문자열, 해시, 심볼, 메소드, 클래스 개념 — 연...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "문법 - 문자열, 해시, 심볼, 메소드, 클래스 개념 — 연...\n- 요약: 결합 (위 결과와 동일) =&gt; &quot;Michael Hartl&quot; 문자열을 출력하고 싶을 경우(= 화면에 표시하고... puts &quot;foo&quot;는 문자열 &quot;foo&quot;를 스크린에 표시하지만 리턴값으로서는 문자 그대로 아무것도...\n- 링크: https://jellili.tistory.com/85\n- 키워드: <위 문자열 그대로>"
+}

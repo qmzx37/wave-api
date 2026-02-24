@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0e3f6c2a52db12878e5a34b8768f0b745fef6392",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yoonsk_data_analysis/223332612237",
+    "title": "3. 파이썬 자료형(2-2 문자열 자료형)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "3. 파이썬 자료형(2-2 문자열 자료형)\n- 요약: 사용 \\t 문자열 사이에 탭 간격을 줄 때 사용 \\\\ \\를 그대로 표현할 때 사용 \\' 작은따옴표(')를... 경우, 문자열의 {0}, {1}과 같은 인덱스 항목이 format 함수의 입력값으로 순서에 맞게 바뀐다. 위...\n- 링크: https://blog.naver.com/yoonsk_data_analysis/223332612237\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_12ee0b43fde25d89e26cf393db75a787521c7fae",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/todak25-1/224098839338",
+    "title": "cos pro 2급 _문자열 조건 변환",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "cos pro 2급 _문자열 조건 변환\n- 요약: append(s) return answer 동작 순서 설명 (누적 변환) 각 문자열 s에 대해 아래의 순서 그대로 적용해야 합니다: 단계 조건 동작 1 숫자가 하나라도 포함 모든 숫자를 # 로...\n- 링크: https://blog.naver.com/todak25-1/224098839338\n- 키워드: <위 문자열 그대로>"
+}

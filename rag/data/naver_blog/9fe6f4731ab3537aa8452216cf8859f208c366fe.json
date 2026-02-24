@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9fe6f4731ab3537aa8452216cf8859f208c366fe",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/unfixed_/223274030494",
+    "title": "C언어 문자열 공부하다 열받아서 만든 Q&amp;A",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:29",
+    "ok": true
+  },
+  "text": "C언어 문자열 공부하다 열받아서 만든 Q&amp;A\n- 요약: 우리가 알고 있는 숫자 2와 문자 '2'는 다르고, a에 있는 문자 '2'는 말 그대로 문자 '2'이거나 ASCII... 그럼 위 코드에서 strcpy 함수는 d가 가리키는 문자열을 c가 가리키는 &quot;위치&quot;로 복사합니다. 이때...\n- 링크: https://blog.naver.com/unfixed_/223274030494\n- 키워드: <위 문자열 그대로>"
+}

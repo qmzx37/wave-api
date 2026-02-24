@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6d68f6402832f30a0ce442889e83f43a4aa2c464",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kikaio77/223091883837",
+    "title": "데이터형 - 문자열 타입",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "데이터형 - 문자열 타입\n- 요약: 자르기 문자열의 일부를 사용하거나 변경해야할 수도 있다. 파이썬은 슬라이싱을 지원해준다. &quot; &quot; 위... ,첫인수의 문자열을 찾을 수 없다면, 원본 문자열을 그대로 반환한다. &quot; &quot; &quot;&quot; &quot;&quot; 문자열 나누기 split...\n- 링크: https://blog.naver.com/kikaio77/223091883837\n- 키워드: <위 문자열 그대로>"
+}

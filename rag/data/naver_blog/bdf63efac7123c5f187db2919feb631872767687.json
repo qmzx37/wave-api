@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bdf63efac7123c5f187db2919feb631872767687",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://baebalja.tistory.com/145",
+    "title": "&lt;reverse&gt; 문자열 역정렬",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "&lt;reverse&gt; 문자열 역정렬\n- 요약: 21:35 말 그대로 문자열을 거꾸로 뒤집어 정렬 하는 것이다. reverse(s.begin(), s.end()) ; 알아두자 #include &lt;iostream&gt; #include &lt;string&gt; using namespace std; int main(){ string s = &quot;abcde&quot;; reverse(s.begin...\n- 링크: https://baebalja.tistory.com/145\n- 키워드: <위 문자열 그대로>"
+}

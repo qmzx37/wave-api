@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bf5f05ebae61e4f12191cd2479706ab2fce96b66",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ppj55/220988054285",
+    "title": "파이썬 문자열 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "파이썬 문자열 함수\n- 요약: == 문자열 관련 함수들 == 앞서 복소수에서 사용된 real, imag, conjugate(), abs() 함수들 같이 문자열과... format() 함수 사용 시 ‘{‘, ‘}’ 문자를 그대로 문자로 표현하고 싶을 때는 {{ , }} 이렇게 두 번씩...\n- 링크: https://blog.naver.com/ppj55/220988054285\n- 키워드: <위 문자열 그대로>"
+}

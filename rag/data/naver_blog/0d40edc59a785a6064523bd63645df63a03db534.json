@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0d40edc59a785a6064523bd63645df63a03db534",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/werradith69168/222660970633",
+    "title": "큰따옴표로 묶인 문자열에서 개체의 속성을 어떻게 사용할 수...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "큰따옴표로 묶인 문자열에서 개체의 속성을 어떻게 사용할 수...\n- 요약: 예를 들어, &quot;$HOME.foo&quot; 는 C:\\Users\\jdoe.foo 와 같은 것으로 확장됩니다. .foo 부분이 속성 액세스 가 아니라 문자 그대로 해석되었기 때문입니다. 문자열의 후속 문자에서 변수 이름을 명확하게...\n- 링크: https://blog.naver.com/werradith69168/222660970633\n- 키워드: <위 문자열 그대로>"
+}

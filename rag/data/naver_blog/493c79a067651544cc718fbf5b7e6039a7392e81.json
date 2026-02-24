@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_493c79a067651544cc718fbf5b7e6039a7392e81",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/entipglobal/223558329986",
+    "title": "24.08.21 취업준비(4) - 문자열 및 인코딩, A*(에이스타)...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "24.08.21 취업준비(4) - 문자열 및 인코딩, A*(에이스타)...\n- 요약: yeild return은 스택을 보존하면서 즉, 함수내에서 그대로 머물면서 yeild break를 만나기 전까지 함수들을 실행함. yeild return 조건 =&gt; 조건이 만족할 때 까지 스택에 머물고, 조건이 만족하면...\n- 링크: https://blog.naver.com/entipglobal/223558329986\n- 키워드: <위 문자열 그대로>"
+}

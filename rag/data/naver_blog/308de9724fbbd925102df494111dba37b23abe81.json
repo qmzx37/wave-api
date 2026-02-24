@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_308de9724fbbd925102df494111dba37b23abe81",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wimir_dev/221177658121",
+    "title": "[WINDOWS] 파일 내 특정한 문자열 찾기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[WINDOWS] 파일 내 특정한 문자열 찾기\n- 요약: /C:문자열 지정된 텍스트를 글자 그대로 찾는 문자열로 사용합니다. /G:파일 지정된 파일로부터 찾는 텍스트를 받습니다('/'는 콘솔에 해당됩니다). /D:디렉터리 디렉터리 목록을 구분하는...\n- 링크: https://blog.naver.com/wimir_dev/221177658121\n- 키워드: <위 문자열 그대로>"
+}

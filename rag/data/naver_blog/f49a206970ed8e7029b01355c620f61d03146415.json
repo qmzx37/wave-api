@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f49a206970ed8e7029b01355c620f61d03146415",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/happy_jhyo/222937916410",
+    "title": "[문자열함수] strings.Contains 가볍게 이해하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "[문자열함수] strings.Contains 가볍게 이해하기\n- 요약: 본 내용은 아래의 것을 그대로 참조하여 학습한다. &quot;&quot; 위의 링크는 일부 함수에... 1 ) strings.Contains 함수 특정 문자열이 포함되어 있는지 확인하기 위해서 사용한다....\n- 링크: https://blog.naver.com/happy_jhyo/222937916410\n- 키워드: <위 문자열 그대로>"
+}

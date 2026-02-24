@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0dfc3947d71fb0ab60acce27dd4f391ea9f6431d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://lsw3210.tistory.com/494",
+    "title": "문자열 중 원문자 지우기(1) - Unicode, Substitute",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "문자열 중 원문자 지우기(1) - Unicode, Substitute\n- 요약: 아니라면 문자열을 그대로 유지하면 됩니다. 따라서, 수식은 =IF(AND(UNICODE(RIGHT(B3,1)... B3를 위 수식으로 복사해서 붙여 넣는 것은 B3가 너무 많아서 위치 찾기가 어려우므로 홈...\n- 링크: https://lsw3210.tistory.com/494\n- 키워드: <위 문자열 그대로>"
+}

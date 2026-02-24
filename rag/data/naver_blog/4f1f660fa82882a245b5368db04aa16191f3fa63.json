@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4f1f660fa82882a245b5368db04aa16191f3fa63",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cjy2103/222907608188",
+    "title": "자바(JAVA) - 문자열을 정수형으로 변환하기 / String...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "자바(JAVA) - 문자열을 정수형으로 변환하기 / String...\n- 요약: 자바 특성상 문자열 + 다른 타입 이 일어나면 그대로 문자열이 이버지게 됩니다., 즉 &quot;123&quot;문자열과 &quot;456&quot; 문자열을 그대로 더하면 123456이되는것이죠 하지만 ParseInt를 통해 정수형으로 변경하신뒤...\n- 링크: https://blog.naver.com/cjy2103/222907608188\n- 키워드: <위 문자열 그대로>"
+}

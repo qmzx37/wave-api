@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a648f02234c41ce7c6707da33c51c6f725efae39",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wimir_dev/221124087596",
+    "title": "[Swift3] 문자열 안에 값을 표시하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "[Swift3] 문자열 안에 값을 표시하기\n- 요약: let val1 : Int = 24 let str1 : String =&quot;\\(val1)&quot; 빈 문자열안에 값을 넣어주어서 원래의 값 그대로 문자열로 바뀝니다. 반대로 String으로 부터 Int ,Double 등의 값을 받아오는 방법도 있습니다....\n- 링크: https://blog.naver.com/wimir_dev/221124087596\n- 키워드: <위 문자열 그대로>"
+}

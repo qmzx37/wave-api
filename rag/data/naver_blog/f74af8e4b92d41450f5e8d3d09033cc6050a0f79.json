@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f74af8e4b92d41450f5e8d3d09033cc6050a0f79",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://lab.cliel.com/entry/NET-%EB%8B%B7%EB%84%B7-Type-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-%EC%88%AB%EC%9E%90-%EB%AC%B8%EC%9E%90%EC%97%B4?category=843576",
+    "title": "[.NET] 닷넷 Type 사용하기 - 1. 숫자, 문자열 — CLIEL LAB",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "[.NET] 닷넷 Type 사용하기 - 1. 숫자, 문자열 — CLIEL LAB\n- 요약: //s의 길이는 6 ● 문자 추출 string은 문자열 저장을 위해 내부적으로 char의 배열을 사용하며 또한 indexer를 구현하고 있으므로 배열 구문을 그대로 사용할 수 있습니다. 참고로...\n- 링크: https://lab.cliel.com/entry/NET-%EB%8B%B7%EB%84%B7-Type-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-%EC%88%AB%EC%9E%90-%EB%AC%B8%EC%9E%90%EC%97%B4?category=843576\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0d2eef9b64654c1179126b3121c2334a5a1d2b99",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/oudxmood131/222111119609",
+    "title": "KAKAO BLIND RECRUITMENT &lt;Level2. 문자열 압축&gt; 파이썬 풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "KAKAO BLIND RECRUITMENT &lt;Level2. 문자열 압축&gt; 파이썬 풀이\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여...\n- 링크: https://blog.naver.com/oudxmood131/222111119609\n- 키워드: <위 문자열 그대로>"
+}

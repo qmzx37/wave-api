@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b95912bc3c7e516c88e06545ece63d3dc56eefcf",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dingchi/221494506364",
+    "title": "word count - 2편(입력한 문자열 출력하기!)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "word count - 2편(입력한 문자열 출력하기!)\n- 요약: 이번에는 home.html 에 텍스트를 입력할 수 있는 창을 만들고 거기에 입력한 문자열이 about.... &lt;br&gt; 은 한줄 바꾸기 (아시죠..?ㅎ) input type = &quot;submit&quot; 는 submit 말그대로 '제출하다' 입니다....\n- 링크: https://blog.naver.com/dingchi/221494506364\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cc0ab06fb606ea6b63603c71712d6c72af4baf34",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gjghwns1990/223035118004",
+    "title": "문자열 자료형(1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "문자열 자료형(1)\n- 요약: 변수에 저장된 문자열이 그대로 출력된다. 큰따옴표(&quot;)가 아닌 작은따옴표(')로 문자열을... 여러 줄인 문자열을 변수에 대입하고 싶을 때 1. 줄을 바꾸는 이스케이프 코드 '\\n' 삽입하기 위...\n- 링크: https://blog.naver.com/gjghwns1990/223035118004\n- 키워드: <위 문자열 그대로>"
+}

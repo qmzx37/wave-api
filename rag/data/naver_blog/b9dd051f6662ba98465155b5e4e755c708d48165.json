@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b9dd051f6662ba98465155b5e4e755c708d48165",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sjyfantasy/222329055067",
+    "title": "백준 1023번 문제, 괄호 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "백준 1023번 문제, 괄호 문자열\n- 요약: 또한 이것도 flag가 이미 괄호 ㄴㄴ문자열로 판단했으면 그대로 괄호 ㄴㄴ문자열이 된다. 그렇게 dp를 넣으면 된다. 그리고 출력은 k번째 데이터 찾기처럼 하면 된다. k 보다 dp가...\n- 링크: https://blog.naver.com/sjyfantasy/222329055067\n- 키워드: <위 문자열 그대로>"
+}

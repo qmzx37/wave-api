@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c3c457f2953f91b9cda308d9a9b94d8cc04605dc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/techshare/223630977316",
+    "title": "C/C++ - 윈도우가 운영하는 2개의 Code Page",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "C/C++ - 윈도우가 운영하는 2개의 Code Page\n- 요약: 그 과정에서 \\xf2는 문자열 그대로 '\\', 'x', 'f', '2'를 파일에 저장하지만, '≥' 문자는 UTF-8 인코딩에 해당하는 U+2265 값으로, 즉 0xE2 0x89 0xA5 3바이트로 저장됩니다. 이후...\n- 링크: https://blog.naver.com/techshare/223630977316\n- 키워드: <위 문자열 그대로>"
+}

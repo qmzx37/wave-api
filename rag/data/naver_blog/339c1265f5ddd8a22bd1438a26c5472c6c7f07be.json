@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_339c1265f5ddd8a22bd1438a26c5472c6c7f07be",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221433826556",
+    "title": "문자열 상수에서 ASCII 값으로 문자 표현하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "문자열 상수에서 ASCII 값으로 문자 표현하기\n- 요약: &lt;&gt; &quot; &quot; 위 예제 코드는 아래와 같이 출력됩니다. 출력 결과를 보면 알겠지만 ASCII 표에 있는 2번... 라고 사용하면 되지만 아래와 같이 문자열 상수를 그대로 출력하는 puts 와 같은 함수에서는 아래와 같은...\n- 링크: https://blog.naver.com/tipsware/221433826556\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+requests
+numpy
+pydantic
+torch
+transformers
+beautifulsoup4
+peft
+bitsandbytes>=0.46.1
+accelerate
+python-dotenv

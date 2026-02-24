@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8973eae3e3a719ad5753c1c8f6f8c5146f948a69",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/solee0112/222319179957",
+    "title": "[자바스크립트] 증감 연산자, 문자열 이어붙이기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "[자바스크립트] 증감 연산자, 문자열 이어붙이기\n- 요약: 위 예시를 통해 myCoffee는 그에 할당되었던 americano가 출력되며, 그 외 ''로 표시된 문자열은 그대로 출력된다. 여기서 '+' 는 문자열과 변수를 '이어붙이는' 역할을 충실히 맡는다. 즉, 저는 americano...\n- 링크: https://blog.naver.com/solee0112/222319179957\n- 키워드: <위 문자열 그대로>"
+}

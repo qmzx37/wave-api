@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dcab3f60c9e79e2674b1d4e594c44f580ee6673e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hendassa288590/222653378255",
+    "title": "버퍼에 문자열 복사",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "버퍼에 문자열 복사\n- 요약: sprintf를 사용하여 문자열에 대한 포인터를 복사할 때 스택 덤프하는 코드가 있습니다. 동물의... 타임에 평가되기 때문입니다. 컴파일러는 말 그대로 sizeof 표현식이 반환하는 크기를 대체할 수 있습니다.\n- 링크: https://blog.naver.com/hendassa288590/222653378255\n- 키워드: <위 문자열 그대로>"
+}

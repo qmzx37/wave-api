@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_38cade7bc8e47483a2d1b7b1ef655df15b6d849e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://hellodoor.tistory.com/84",
+    "title": "백준 2908번 java 자바 상수 (문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "백준 2908번 java 자바 상수 (문자열)\n- 요약: 위 예제를 참고하면 된다. 이 문제는 문자열 단계에 있는 문제지만 정수를 비교하고... 그대로 더하면 1의 자리 수로 가게 된다. line 12 : 11행과 마찬가지로 수를 뒤집는 과정이다....\n- 링크: https://hellodoor.tistory.com/84\n- 키워드: <위 문자열 그대로>"
+}

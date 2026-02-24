@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_aa418c279ebd7bc221e11c4be43a7dd3d92e42c7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/raincoder_kim/223319461716",
+    "title": "파이썬 문자열 출력 str",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "파이썬 문자열 출력 str\n- 요약: 그렇기 때문에 print(1 + 2)의 값은 3이 나오지만 print(&quot;1&quot; + &quot;2&quot;) 값은 문자 그대로 12가 나오게 되는 겁니다. 이처럼 문자열은 파이썬에서 숫자와 문자를 구분 짓는 중요한 코드입니다\n- 링크: https://blog.naver.com/raincoder_kim/223319461716\n- 키워드: <위 문자열 그대로>"
+}

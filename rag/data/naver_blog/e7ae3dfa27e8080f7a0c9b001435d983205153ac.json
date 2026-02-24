@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e7ae3dfa27e8080f7a0c9b001435d983205153ac",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/you3396/220990932473",
+    "title": "문자열, 정렬 등.",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "문자열, 정렬 등.\n- 요약: 일단 어떤 문자열을 검색할지, 사용자에게 묻는 작업이 필요하다. 문장을 만들고, search라는 변수값에 그 값이 들어가도록 명령문을 작성하자. 말 그대로, 0의 주소부터 임의의 주소인 length값까지 검색을...\n- 링크: https://blog.naver.com/you3396/220990932473\n- 키워드: <위 문자열 그대로>"
+}

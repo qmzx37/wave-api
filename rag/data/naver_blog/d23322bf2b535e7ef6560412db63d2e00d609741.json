@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d23322bf2b535e7ef6560412db63d2e00d609741",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/eorn512/223311385246",
+    "title": "문자열 형변환 연산",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "문자열 형변환 연산\n- 요약: 해당 문자열에 찾고자하는 문자를 입력해서 찾은 수를 출력하는것으로 위 사진에 &quot;i&quot;만 찾는다면... 있던 문자열이 그대로 뜬다 이전에 다뤘던 split 공백을 기준으로 단어를 나누기에 공백이 없으면...\n- 링크: https://blog.naver.com/eorn512/223311385246\n- 키워드: <위 문자열 그대로>"
+}

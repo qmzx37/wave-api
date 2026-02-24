@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2d2dc42e63878d9b83fe55848e88228a49f4e322",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youngirl411/222179366574",
+    "title": "[4. 슬라이싱, 문자열, 문자열 처리 함수, 문자열 포맷, 탈출문자]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "[4. 슬라이싱, 문자열, 문자열 처리 함수, 문자열 포맷, 탈출문자]\n- 요약: Colored by Color Scriptercs &quot;&quot;&quot; : 여러 줄 문자열 기능 &quot;&quot;&quot;\\, \\&quot;&quot;&quot; : 문단 위 아래로 의도치 않은... 문자열이 %s안에 순서대로 출력됨 자료형만 앞에 잘 표기한다면, % 뒤에 변수를 그대로...\n- 링크: https://blog.naver.com/youngirl411/222179366574\n- 키워드: <위 문자열 그대로>"
+}

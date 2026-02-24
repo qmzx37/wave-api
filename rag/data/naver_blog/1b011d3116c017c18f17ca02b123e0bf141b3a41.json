@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1b011d3116c017c18f17ca02b123e0bf141b3a41",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sipzirala/222227349742",
+    "title": "[JS] 한글도 지원하는 퍼지 문자열 검색",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "[JS] 한글도 지원하는 퍼지 문자열 검색\n- 요약: // false 위 예시에서 createFuzzyMatcher는 /c.*?t/라는 정규표현식을 반환하고 그 결과 fact와 cats가 일치하는 문자열이 된다. 단순하고 이해하기에도 어렵지 않다. 심지어 이 함수는...\n- 링크: https://blog.naver.com/sipzirala/222227349742\n- 키워드: <위 문자열 그대로>"
+}

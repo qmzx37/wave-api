@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_37ca8fa752a7d0678230dfe41bc3039594d28dd7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/techshare/222494124421",
+    "title": "C# 10 - (13) 문자열 보간 성능 개선",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "C# 10 - (13) 문자열 보간 성능 개선\n- 요약: 자, 그럼 왜 문자열 보간에 대한 개선을 해야만 했는지, 기존 문자열 보간이... 있다면 그대로 사용할 수 있습니다. 일례로 아래의 예제 코드는 실행해 보면...\n- 링크: https://blog.naver.com/techshare/222494124421\n- 키워드: <위 문자열 그대로>"
+}

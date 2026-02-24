@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_da599ee1aa38ffef2014ae063673738669c3771b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hyeonni1907/222775656543",
+    "title": "7일_Javascript 기초, 주석, 자료형(문자열,숫자형,불리언)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:34",
+    "ok": true
+  },
+  "text": "7일_Javascript 기초, 주석, 자료형(문자열,숫자형,불리언)\n- 요약: 문자열 자료형 alert(&quot;abcd&quot;) //&quot;&quot;이나 ''이나 상관없음. 반드시 &quot;'으로 묶어줘야 문자형으로... 는 그대로 연산이 됨 : -4444 alert('12'==12) ture ( == 두개는 type까지 고려 안함 ) 위과 다른...\n- 링크: https://blog.naver.com/hyeonni1907/222775656543\n- 키워드: <위 문자열 그대로>"
+}

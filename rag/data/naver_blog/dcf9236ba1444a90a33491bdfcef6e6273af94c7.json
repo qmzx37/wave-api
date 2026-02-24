@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dcf9236ba1444a90a33491bdfcef6e6273af94c7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://acdongpgm.tistory.com/284",
+    "title": "임베딩 벡터(embedding vector)를 문자열로 저장하는...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "임베딩 벡터(embedding vector)를 문자열로 저장하는...\n- 요약: vector to bytes byte 형식으로 변경하면 위 문자로 변경되는데 위 문자를 그대로 문자열로 변경하여 저장해도 좋을 것 같지만 byte를 str로 변경하는 과정에서 '\\' 문자가 '\\\\'로 변경되어...\n- 링크: https://acdongpgm.tistory.com/284\n- 키워드: <위 문자열 그대로>"
+}

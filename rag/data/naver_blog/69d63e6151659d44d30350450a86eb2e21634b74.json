@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_69d63e6151659d44d30350450a86eb2e21634b74",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/parksdatalab/223481377414",
+    "title": "파이썬 기초 문법! - 문자열 데이터 타입",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "파이썬 기초 문법! - 문자열 데이터 타입\n- 요약: 단순히 수치형 변수들처럼 수학적 사칙연산이 그대로 적용되는 것은 아니고, 아래처럼 문자열을 &quot;연결&quot;하는 의미입니다. a 변수는 &quot;This is string&quot;인데, a+a는 단순히 이 a를 이어서 두 번 반복한 것이죠. 위...\n- 링크: https://blog.naver.com/parksdatalab/223481377414\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3c0194ef3acad09dab84449ac1a3d47cb4930c19",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yyk0413/40002067433",
+    "title": "[펌]날짜 문자열 편집방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "[펌]날짜 문자열 편집방법\n- 요약: 그 기본값 그대로 두시구요.. ^^ 코드 비하인드 페이지로 이동해서 Page_Load 이벤트 처리기에... ToString() 메서드의 첫 번째 인자로 쓰인 문자열이 바로 포맷 문자열인데, 위 코드의 경우는...\n- 링크: https://blog.naver.com/yyk0413/40002067433\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b0f0a7c83205a18cf8e37b9bf96b552a2a5444f6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/msepty6587/221327361618",
+    "title": "문자와 문자열 처리 함수 (getchar,putchar,fgets,fputs...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "문자와 문자열 처리 함수 (getchar,putchar,fgets,fputs...\n- 요약: stream에 그대로 남게 된다. 따라서 따로 입력을 하지 않더라도 getchar()명령어가 스트림에 남아있는 문자열을 받아와 진행이 되는 것이다. - int fflush(File * stream) 명령어를...\n- 링크: https://blog.naver.com/msepty6587/221327361618\n- 키워드: <위 문자열 그대로>"
+}

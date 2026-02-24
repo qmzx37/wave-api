@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3171ec66642aa755c448b68d805cd5faed4e6210",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jjys9047/221573610579",
+    "title": "문자열 카운팅",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "문자열 카운팅\n- 요약: count()는 명령어의 의미 그대로 문자열에 포함된 특정 문자의 개수를 출력합니다. 따라서 사진의 코드와 같이 count('hi')를 입력하면 주어진 문자열에서 'hi' 문자열의 개수를 찾아 숫자로 출력합니다....\n- 링크: https://blog.naver.com/jjys9047/221573610579\n- 키워드: <위 문자열 그대로>"
+}

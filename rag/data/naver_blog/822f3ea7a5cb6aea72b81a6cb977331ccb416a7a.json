@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_822f3ea7a5cb6aea72b81a6cb977331ccb416a7a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/imsavior114/221791234485",
+    "title": "엑셀 isnumber, find, sumproduct 찾는 문자열만 골라 더하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "엑셀 isnumber, find, sumproduct 찾는 문자열만 골라 더하기\n- 요약: ⭐ TITLE : 찾는 문자열이 포함된 값만 더하기 =SUMPRODUCT(ISNUMBER(FIND(A11,$A$2:$A$8))*$B$2:$B$8) 결과부터... 주소줄을 보면 기본 식 그대로 작성되어 있음을 알 수 있다. 하지만 isnumber 덕분에 E열에서 한번 더...\n- 링크: https://blog.naver.com/imsavior114/221791234485\n- 키워드: <위 문자열 그대로>"
+}

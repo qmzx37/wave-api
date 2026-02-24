@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_78d92431e4c5aaee489fd41901b34739b6a85adb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ipromiseu1123/222843013635",
+    "title": "[programmers/C] Level 1 문자열 내림차순으로 배치하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "[programmers/C] Level 1 문자열 내림차순으로 배치하기\n- 요약: 않다면 그대로 두는 방식을 통해 while 무한루프 문을 돌렸다. &lt;&gt; &lt;&gt; &lt;&gt; &lt; &lt; 2 5 4 3 1이라는 배열이 있다고 치자. a[0] = 2, a[1] = 5, a[2] = 4, a[3] = 3, a[4] = 1 이고, 문자열의 길이는 5이다. 하나하나씩...\n- 링크: https://blog.naver.com/ipromiseu1123/222843013635\n- 키워드: <위 문자열 그대로>"
+}

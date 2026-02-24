@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d2bba762ced2a0cd6bb10ba2f96a6cd2af7b9ad7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/walk_along/221962557021",
+    "title": "[코알못 Python] 1강-2. print의 문자열 포매팅",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[코알못 Python] 1강-2. print의 문자열 포매팅\n- 요약: 그래서 아래처럼 실행을 시켜보면 &quot;A&quot;처럼 하나의 글자로 이루어진 문자열은 그대로 출력을 해줍니다. 그런데 120이라는 숫자를 주었더니 x라는 글자가 출력이 되었죠? 그 이유는 우리에게 x라는 글자는...\n- 링크: https://blog.naver.com/walk_along/221962557021\n- 키워드: <위 문자열 그대로>"
+}

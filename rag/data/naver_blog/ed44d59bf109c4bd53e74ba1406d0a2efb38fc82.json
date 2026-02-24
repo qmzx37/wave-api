@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ed44d59bf109c4bd53e74ba1406d0a2efb38fc82",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chul_94/223038655177",
+    "title": "[Python][코딩 테스트] 문자열 뒤집기, 거꾸로 출력하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "[Python][코딩 테스트] 문자열 뒤집기, 거꾸로 출력하기\n- 요약: 문자열을 뒤집는다는 것은 &quot; &quot; &quot; &quot; 위와 같이 말 그대로 문자열을 거꾸로 재 배열한다는... Slice 를 이용한 방법 slice를 이용하면 문자열을 뒤집을 수 있다. 사용 방법은 아래와 같다. &quot; &quot; &quot; &quot; 위...\n- 링크: https://blog.naver.com/chul_94/223038655177\n- 키워드: <위 문자열 그대로>"
+}

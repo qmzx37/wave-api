@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_38c6e9aa9c4817a4b237d1cb62c2374c5ec07fae",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://devjhs.tistory.com/431",
+    "title": "[php] printf() - 형식화를 하여 문자열 표시",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "[php] printf() - 형식화를 하여 문자열 표시\n- 요약: printf() - 개념 echo(),print()는 문자열에 표현하고자 하는 변수의 값을 표시할 때 이용되지만 이것들은 있는 그대로 표시하는 것이고 printf()는 형식을 갖춰서 문자열을 표시할 수 있음...\n- 링크: https://devjhs.tistory.com/431\n- 키워드: <위 문자열 그대로>"
+}

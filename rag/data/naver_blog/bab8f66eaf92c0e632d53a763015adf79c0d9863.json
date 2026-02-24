@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bab8f66eaf92c0e632d53a763015adf79c0d9863",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bhbr92/223683455264",
+    "title": "[파이썬 코딩도장] UNIT 24. 문자열 응용하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "[파이썬 코딩도장] UNIT 24. 문자열 응용하기\n- 요약: 5' [문자열 포매팅에 변수를 그대로 사용하기] ex) &gt;&gt;&gt;language='Python' &gt;&gt;&gt;version =3.5 &gt;&gt;&gt;f'Hello,{language} {version}' # f. 아님 그냥 f 붙임 'Hello,Python 3.5' [format 메서드로 문자열 정렬하기]...\n- 링크: https://blog.naver.com/bhbr92/223683455264\n- 키워드: <위 문자열 그대로>"
+}

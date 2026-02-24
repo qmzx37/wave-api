@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ce26d51915da1bae68ffe6972ad8f6db3474ad41",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/freeegg/222901941263",
+    "title": "[구글 스프레드 시트 vs 엑셀] 문자열 다루기1 - [LEN...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "[구글 스프레드 시트 vs 엑셀] 문자열 다루기1 - [LEN...\n- 요약: 말 그대로 왼쪽 그리고 오른쪽에서 몇번째 문자들을 리턴하라는 의미죠. LEFT(&quot;문자열&quot;, 리턴할 문자 수) 예를 들어 12345 라는 문자열이 있다고 가정하고 이를 LEFT 함수를 이용하여 123을 리턴한다면 아래와...\n- 링크: https://blog.naver.com/freeegg/222901941263\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f0fa435f6dfbf95f197fb8f458a4b03b7affc89d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nadyddns/222922719471",
+    "title": "Python - Day 1 변수, 자료형, 문자열자료형, List...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "Python - Day 1 변수, 자료형, 문자열자료형, List...\n- 요약: 정수형(Integer) 문자열 자료형 문자열을 문자, 단어 등으로 구성된 글자들의 파이썬에서... 요소들을 그대로 뒤집는 기능 clist = [1,2,3] clist.reverse() print(clist) print(&quot;원래 리스트를 그대로...\n- 링크: https://blog.naver.com/nadyddns/222922719471\n- 키워드: <위 문자열 그대로>"
+}

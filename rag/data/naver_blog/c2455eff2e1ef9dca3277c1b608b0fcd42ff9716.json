@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c2455eff2e1ef9dca3277c1b608b0fcd42ff9716",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wlsdml1103/221246069541",
+    "title": "[Python] 문자열 좀 더 살펴보기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "[Python] 문자열 좀 더 살펴보기\n- 요약: print(' &quot;배고프다&quot; ', '라고 아들이 말했다.')print(&quot;그러자 엄마는&quot;, &quot; '이제 밥할때가 되었구나' &quot;, &quot;라고 생각했다.&quot;) 위 코드 처럼 작은 따옴표는 문자열안에 큰 따옴표를 그대로 포함할 수 있고 큰...\n- 링크: https://blog.naver.com/wlsdml1103/221246069541\n- 키워드: <위 문자열 그대로>"
+}

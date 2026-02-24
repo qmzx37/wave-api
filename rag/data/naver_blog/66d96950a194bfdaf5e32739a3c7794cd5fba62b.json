@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_66d96950a194bfdaf5e32739a3c7794cd5fba62b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ehdus85/130098898981",
+    "title": "변수&amp;문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "변수&amp;문자열\n- 요약: (사용법은 C 와 유사) 문자열(String) &quot;&quot;(더블쿼터)안에 있는 변수는 값으로 변환 ''(싱글쿼터)안에 있는 escape 문자는 그대로 문자열로 취급 연산자(항이 2개) .(피리어드)를 사용시 문자 합침 ( C에서의...\n- 링크: https://blog.naver.com/ehdus85/130098898981\n- 키워드: <위 문자열 그대로>"
+}

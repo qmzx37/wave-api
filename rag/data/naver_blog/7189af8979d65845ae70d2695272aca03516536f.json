@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7189af8979d65845ae70d2695272aca03516536f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/whopperkim94/223044685163",
+    "title": "[파이썬] - 5.문자열 기초",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "[파이썬] - 5.문자열 기초\n- 요약: 문자열은 String 이라고 하는데 말그대로 문자라고 생각하면 된다. 파이썬에서 문자열로 인식 하기 위해서는 &quot; &quot;에 둘러 싸여 있어야 한다. &quot;안녕하세요 김와퍼의 블로그입니다.&quot; &quot;78 + 4 = 82&quot; &quot;My name is Whopper...\n- 링크: https://blog.naver.com/whopperkim94/223044685163\n- 키워드: <위 문자열 그대로>"
+}

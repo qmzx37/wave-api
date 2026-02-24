@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_072dbc8e575fa58613c9ea311f5e04cbe5dc0a21",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://korbillgates.tistory.com/44",
+    "title": "2.2 문자열 (Srtings)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "2.2 문자열 (Srtings)\n- 요약: 0이시작이었던것처럼-0을하면좋지만0의음수는그대로0이기에-1로문자열의끝부분을가리킵니다. ‘n’ &gt;&gt;&gt; word[-3] #그러므로뒤에서세번째문자는n입니다. ‘h’ &gt;&gt;&gt; word [0:2]...\n- 링크: https://korbillgates.tistory.com/44\n- 키워드: <위 문자열 그대로>"
+}

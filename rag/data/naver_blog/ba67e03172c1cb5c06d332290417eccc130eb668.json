@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ba67e03172c1cb5c06d332290417eccc130eb668",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wkdghcjf1234/220024002158",
+    "title": "C 프로그래밍 활용 - P5. 무한 버퍼를 이용한 문자열 함수 만들기.",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "C 프로그래밍 활용 - P5. 무한 버퍼를 이용한 문자열 함수 만들기.\n- 요약: 문자열은 프로그래밍 중 상당히 많이 사용됩니다. 이러한 문자열들을 무한 버퍼를... 말 그대로 Push(밀다). 3. EraseStringObject함수. Push의 반대 개념으로 지정된 공간에 문자...\n- 링크: https://blog.naver.com/wkdghcjf1234/220024002158\n- 키워드: <위 문자열 그대로>"
+}

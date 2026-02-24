@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e308b67fe0ced476e6ab9f8ec99b2caa5ab30d9e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jadoo-/223825497259",
+    "title": "프로그래밍 수업 정리 string(문자열), enum(열거형)...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "프로그래밍 수업 정리 string(문자열), enum(열거형)...\n- 요약: - string클래스는 문자열을 다룰 때 자주 사용되며 유용한 메서드와 기능을 제공한다.... 인덱스는 그대로고 컴퓨터가 찾는걸 뒤에서부터 찾는다는 뜻이었다 뒤에서부터 찾아도 어짜피...\n- 링크: https://blog.naver.com/jadoo-/223825497259\n- 키워드: <위 문자열 그대로>"
+}

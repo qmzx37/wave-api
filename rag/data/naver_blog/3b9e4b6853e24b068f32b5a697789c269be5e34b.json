@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3b9e4b6853e24b068f32b5a697789c269be5e34b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/techshare/221378335705",
+    "title": "Bootstrap의 dl/dt/dd 조합에서 문자열이 잘리지 않도록...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "Bootstrap의 dl/dt/dd 조합에서 문자열이 잘리지 않도록...\n- 요약: 이것을 그냥 문자열 그대로 나오게 하려면, How to force Twitter Bootstrap .dl-horizontal DT content to wrap instead of truncate? ; https://stackoverflow.com/questions/12764332/how-to-force...\n- 링크: https://blog.naver.com/techshare/221378335705\n- 키워드: <위 문자열 그대로>"
+}

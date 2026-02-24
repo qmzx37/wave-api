@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ce8f0ec9c4a2628e39667c97997b8689207572a5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ardimento22/222148303081",
+    "title": "(JAVA)[LEVEL 2] JadenCase 문자열 만들기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:34",
+    "ok": true
+  },
+  "text": "(JAVA)[LEVEL 2] JadenCase 문자열 만들기\n- 요약: 소문자인 문자열입니다. 문자열 s가 주어졌을 때, s를 JadenCase로 바꾼 문자열을 리턴하는 함수... 때문에 그대로 asnwer에 추가시켜준다. - 9번째 줄 : 이번 문자가 공백일 경우 true를 공백이 아닌 경우...\n- 링크: https://blog.naver.com/ardimento22/222148303081\n- 키워드: <위 문자열 그대로>"
+}

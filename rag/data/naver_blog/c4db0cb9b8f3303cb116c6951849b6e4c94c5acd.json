@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c4db0cb9b8f3303cb116c6951849b6e4c94c5acd",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/micrmm/220522663347",
+    "title": "함수를 사용하여 텍스트 문자열 참조를 반환하는 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "함수를 사용하여 텍스트 문자열 참조를 반환하는 방법\n- 요약: 문군의 전투엑셀 함수 56강 엑셀 INDIRECT 함수를 사용하여 텍스트 문자열을 참조하여 반환하는... ☞ =INDIRECT(&quot;A2&quot;) → A2에 입력된 값을 참조하여 → 해당 값을 그대로 가져와 &lt;B2&gt;를 반환합니다. ②항에...\n- 링크: https://blog.naver.com/micrmm/220522663347\n- 키워드: <위 문자열 그대로>"
+}

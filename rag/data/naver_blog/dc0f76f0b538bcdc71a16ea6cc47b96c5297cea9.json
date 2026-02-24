@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dc0f76f0b538bcdc71a16ea6cc47b96c5297cea9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wndgndi/222635058408",
+    "title": "7단계 문자열 6번 문제풀기 (백준 1152번 문제)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:29",
+    "ok": true
+  },
+  "text": "7단계 문자열 6번 문제풀기 (백준 1152번 문제)\n- 요약: 1152번 문제 영어 대소문자와 공백으로 이루어진 문자열이 주어진다. 이 문자열에는 몇 개의... (4) Nice to meet you 를 입력한 경우, 첫번째 문자와 마지막 문자가 공백이 아니므로 그대로 count+1을...\n- 링크: https://blog.naver.com/wndgndi/222635058408\n- 키워드: <위 문자열 그대로>"
+}

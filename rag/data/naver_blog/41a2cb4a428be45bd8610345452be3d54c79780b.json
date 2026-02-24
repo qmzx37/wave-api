@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_41a2cb4a428be45bd8610345452be3d54c79780b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gunwoo669/222880340165",
+    "title": "자료형 : 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "자료형 : 문자열\n- 요약: 그리고 따음표 세개를 연속으로 사용해서 출력하는 것은 소스코드 그대로 출력된다 &quot;&quot;&quot; &quot;&quot;&quot; 문자열 끼리 연결할때에는 '+'를 사용하고 문자열을 반복하고 싶을 때에는 '*'을 이용한다. 문자열의 원하는 부분만...\n- 링크: https://blog.naver.com/gunwoo669/222880340165\n- 키워드: <위 문자열 그대로>"
+}

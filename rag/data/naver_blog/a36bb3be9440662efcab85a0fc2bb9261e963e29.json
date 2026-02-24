@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a36bb3be9440662efcab85a0fc2bb9261e963e29",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ahyun020402/223037875828",
+    "title": "문자열 포매팅 응용하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "문자열 포매팅 응용하기\n- 요약: * {또는} 문자로 표현하기 &gt;&gt;&gt; &quot;&quot; format함수를 사용해 문자열 포매팅을 할 경우 { }와 같은 중괄호 문자를 포매팅 문자가 아닌 문자 그대로 사용하고 싶은 경우에는 위 예시처럼 {{ }}처럼 2개를 연속해서...\n- 링크: https://blog.naver.com/ahyun020402/223037875828\n- 키워드: <위 문자열 그대로>"
+}

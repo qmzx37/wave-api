@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3b65f0f40e1e015d4f6b19fc76d99b1578b3b77d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/bsbs0126/150033271756",
+    "title": "'벌레소트(worm sort)'로 문자열 가나다순 정렬(^^;)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "'벌레소트(worm sort)'로 문자열 가나다순 정렬(^^;)\n- 요약: 문자열을 가나다 순으로 정렬하는 소스다. #include &lt;stdio.h&gt; #include &lt;stdlib.h&gt; int main() { int i... 알고리즘을 그대로 소트에 적용해 본 것이다. 결과는 만족 100점이었다. 속도는 아래의...\n- 링크: https://blog.naver.com/bsbs0126/150033271756\n- 키워드: <위 문자열 그대로>"
+}

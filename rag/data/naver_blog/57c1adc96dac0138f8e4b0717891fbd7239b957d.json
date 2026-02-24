@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_57c1adc96dac0138f8e4b0717891fbd7239b957d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gonow001/223183217444",
+    "title": "파이썬 독학 2편(2) - 문자열 만들기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "파이썬 독학 2편(2) - 문자열 만들기\n- 요약: 안의 문자열을 표현하고자 할 때는 어떻게 해야될까? 예를 들면 인용하는 말을 출력할 경우이다. 옆 사람이 &quot;파이썬을 알아두면 좋다&quot;고 말했다. 위 문장을 그대로 print()함수에 넣어보자 SyntaxError라는 문법...\n- 링크: https://blog.naver.com/gonow001/223183217444\n- 키워드: <위 문자열 그대로>"
+}

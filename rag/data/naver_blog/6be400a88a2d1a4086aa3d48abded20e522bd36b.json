@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6be400a88a2d1a4086aa3d48abded20e522bd36b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ccimadiary/223305861478",
+    "title": "[Unreal/#3]Unreal C++ 기본 타입과 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "[Unreal/#3]Unreal C++ 기본 타입과 문자열\n- 요약: uint8: binary data를 주고받는 경우 3: TCHAR: 문자열 4: float(4 바이트), double(8 바이트) 은 기본... FString을 그대로 사용하게 되면 TCHAR 포인터가 반환되지 않으므로 포인터 연산자를...\n- 링크: https://blog.naver.com/ccimadiary/223305861478\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_01995469cd0692e22ce7133d49246421beca14d9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dreamish1/220851883596",
+    "title": "2. 문자열과 콘솔출력",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "2. 문자열과 콘솔출력\n- 요약: string - 문자형 리터럴은 따옴표 부포 ( ' 또는 &quot; ) 사이에 문자그대로(literally) 작성하여 만든 문자열. escaped 특별한 문자는 백슬래쉬 \\ 이후에 써 줘야합니다 ^^ 문자열에 작은따옴표가 들어갔다면...\n- 링크: https://blog.naver.com/dreamish1/220851883596\n- 키워드: <위 문자열 그대로>"
+}

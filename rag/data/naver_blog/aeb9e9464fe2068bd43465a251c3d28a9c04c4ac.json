@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_aeb9e9464fe2068bd43465a251c3d28a9c04c4ac",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wille5852/221266011968",
+    "title": "2-3. 자료형(3): 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:29",
+    "ok": true
+  },
+  "text": "2-3. 자료형(3): 문자열\n- 요약: 이건 %를 그대로 출력할때 씁니다. 탈출문자열 같은 개념입니다. 예시를 보여드리겠습니다. (a='apple... str.upper() str.lower() 위 두 함수는 매우 간단합니다. upper의 경우 소문자를 대문자로, lower의 경우...\n- 링크: https://blog.naver.com/wille5852/221266011968\n- 키워드: <위 문자열 그대로>"
+}

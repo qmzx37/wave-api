@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0be051a449af2894be7727ebe7f4175dbd1aeaf0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/above-the-orbit/222259049997",
+    "title": "[파이썬 강의] UNIT 24 문자열 응용하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "[파이썬 강의] UNIT 24 문자열 응용하기\n- 요약: · 여기서도 공백을 넣지 않았으므로 공백은 그대로 둠 14. 문자열을 왼쪽 정렬하기 · ljust(길이)는 문자열을 지정된 길이로 만든 뒤 왼쪽으로 정렬하며 남는 공간을 공백으로 채움(l은 왼쪽(left)를 의미)...\n- 링크: https://blog.naver.com/above-the-orbit/222259049997\n- 키워드: <위 문자열 그대로>"
+}

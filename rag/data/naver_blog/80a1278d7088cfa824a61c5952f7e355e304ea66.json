@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_80a1278d7088cfa824a61c5952f7e355e304ea66",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/apple8718/222084970407",
+    "title": "C++ - 문자열(string 클래스)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "C++ - 문자열(string 클래스)\n- 요약: C++는 C언어를 기반으로 두고 있기 때문에 C언어에서의 문자열 처리방법을 그대로 사용할 수 있다. 기존의 C언어에서 우리는 문자열을 '문자형 배열'로 처리했었다. C++은 문자열을 예전의 C언어...\n- 링크: https://blog.naver.com/apple8718/222084970407\n- 키워드: <위 문자열 그대로>"
+}

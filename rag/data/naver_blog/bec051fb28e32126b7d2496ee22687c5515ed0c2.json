@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bec051fb28e32126b7d2496ee22687c5515ed0c2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youseon97/223130876311",
+    "title": "Java 문자열에서 특정 문자 갖고 오기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "Java 문자열에서 특정 문자 갖고 오기\n- 요약: 그럼 위와 같이 해당 변수에 담긴 &quot;안녕하세요&quot; 문자열이 그대로 출력이 되는 걸 확인하실 수... 그럴 때 바로 사용하실 수 있으신 게, 현재 위 소스에서 가장 마지막에 추가가 된 소스와 같이 charAt...\n- 링크: https://blog.naver.com/youseon97/223130876311\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7ce1537520c8e1a9f2d992db5fab8d3ce7009d0e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/study-1stclass/222894044421",
+    "title": "프로그래머스 C언어 #8 문자열을 정수로 바꾸기 문제풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "프로그래머스 C언어 #8 문자열을 정수로 바꾸기 문제풀이\n- 요약: 문자열을 정수로 바꾸는 calculation 함수의 연산을 s[1]부터 시작하도록 세팅합니다. 부호는 숫자에 해당하지 않기 때문에 부호의 다음 번째 방(1번 방)부터 변환하는 거죠. 부호가 없다면 그대로...\n- 링크: https://blog.naver.com/study-1stclass/222894044421\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_77dd4ebebbf7f6fbe730f7c00ed0a8209eafd407",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hweetae/220847837653",
+    "title": "[C] 18-4 - 문자열(4) - 문자열 함수 - strlen(), strcmp()",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "[C] 18-4 - 문자열(4) - 문자열 함수 - strlen(), strcmp()\n- 요약: string length의 약자로 생각할 수 있고, 말그대로 문자열의 길이를 반환해주는 함수입니다. #include &lt;stdio.h&gt; #include &lt;string.h&gt; #define STR_LEN 30 int main() { char str1[STR_LEN] = &quot;Chicken&quot;; char *str2 = &quot;Pizza...\n- 링크: https://blog.naver.com/hweetae/220847837653\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cabe6cb93c783ef33e8fd6ead4e7876304c1fcb8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/adamdoha/221826022163",
+    "title": "Python 프로그래밍 - 변수와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "Python 프로그래밍 - 변수와 문자열\n- 요약: -작성자가 입력하고자 한 그대로 입력하거나 줄을 바꿔서 문자열을 입력하고 싶은 경우에는 삼중 작은따옴표나 삼중 큰따옴표를 이용하면 된다. - 문자열은 더하기와 곱하기를 사용할 수...\n- 링크: https://blog.naver.com/adamdoha/221826022163\n- 키워드: <위 문자열 그대로>"
+}

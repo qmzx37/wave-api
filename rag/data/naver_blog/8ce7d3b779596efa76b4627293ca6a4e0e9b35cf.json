@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8ce7d3b779596efa76b4627293ca6a4e0e9b35cf",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/newhaneul/222976356393",
+    "title": "[Chapter 21] 문자와 문자열 관련 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "[Chapter 21] 문자와 문자열 관련 함수\n- 요약: 물론 반환되는 값을 그대로 유지하기 위해서 우리도 int형 변수에 반환 값을 저장해야 한다. 문제... 문자열의 길이를 5로 제한해서, 다음과 같이 키보드를 통한 입력이 총 3회 이뤄지도록 하자. 위...\n- 링크: https://blog.naver.com/newhaneul/222976356393\n- 키워드: <위 문자열 그대로>"
+}

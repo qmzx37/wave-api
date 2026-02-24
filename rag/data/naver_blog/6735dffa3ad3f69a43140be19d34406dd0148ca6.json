@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6735dffa3ad3f69a43140be19d34406dd0148ca6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pomoc153/222425061126",
+    "title": "프로그래머스[코테 Level 1]_숫자 문자열과 영단어(c++)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "프로그래머스[코테 Level 1]_숫자 문자열과 영단어(c++)\n- 요약: 않고 그대로인 문자열 s가 매개변수로 주어집니다. s가 의미하는 원래 숫자를 return... 패턴의 문자열을 검색할 때 주어진 문자열에서 원하는 패턴의 문자열로 치환할 때 (위 문제에...\n- 링크: https://blog.naver.com/pomoc153/222425061126\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0425f9510d98c6a610899d96504346d8fded0715",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/codud3321/224024016334",
+    "title": "Day 3 - Python 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "Day 3 - Python 문자열 자료형\n- 요약: 사용 \\t : 문자열 사이에 탭 간격을 줄 때 사용 \\\\ : 문자 \\(＼) 그대로 표현할 때 사용... &gt;&gt;&gt;a = &quot;Life is too short, You need Python&quot; 위 소스 코드에서 변수 a에 저장한 문자열의 각...\n- 링크: https://blog.naver.com/codud3321/224024016334\n- 키워드: <위 문자열 그대로>"
+}

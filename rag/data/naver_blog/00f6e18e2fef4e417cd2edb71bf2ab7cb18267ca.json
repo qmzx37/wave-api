@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_00f6e18e2fef4e417cd2edb71bf2ab7cb18267ca",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/whynot4337/222127983306",
+    "title": "jQuery_ 변수, 문자열, 숫자, 연산자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "jQuery_ 변수, 문자열, 숫자, 연산자\n- 요약: 앞의 문자와 연산을 할 수 없기에 앞의 문자와 숫자2가 &quot;결합&quot;되어 그대로 노출 된 것으로 보임 전환되었다고 보기는 어려움 아래의 예제 참고 &quot;&quot; &quot;&quot; 연산자 _ 문자열과 숫자등의 값을 계산하거나 비교하는...\n- 링크: https://blog.naver.com/whynot4337/222127983306\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c7d06635962e495e5dccb2888e4fa4a91a47fab1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/lswhh/223029610223",
+    "title": "sed를 이용한 문자열 치환 및 파일 내용 바꾸기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "sed를 이용한 문자열 치환 및 파일 내용 바꾸기\n- 요약: Happy 처럼 대문자가 포함된 문자열은 치환되지 않았는데, 이는 i 부속명령(subcommand)을 통해서 대소문자 구분없이 치환할 수 있습니다. 여기서 주의할 점은 원본 파일을 그대로 남아있다는...\n- 링크: https://blog.naver.com/lswhh/223029610223\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4c914edab3e8d820734b5f0ff0f934fcb3d9aa10",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yenuzzang/222093118439",
+    "title": "[Python] 문자열과 함수들",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[Python] 문자열과 함수들\n- 요약: 원본 그대로 출력을 한 번 더 하자. 문제2) 우리나라의 주민등록번호는 다음과 같은 구조이다. &quot;070609-2011xxx&quot; &quot;090716-1012xxx&quot; 이 중에서 앞의 여섯 자리는 생년월일 정보이다. 따라서 문자열로...\n- 링크: https://blog.naver.com/yenuzzang/222093118439\n- 키워드: <위 문자열 그대로>"
+}

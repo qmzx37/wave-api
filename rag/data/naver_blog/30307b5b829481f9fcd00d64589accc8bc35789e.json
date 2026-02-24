@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_30307b5b829481f9fcd00d64589accc8bc35789e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kji9653/222328245748",
+    "title": "c 언어 2021 중급 :문자열상수 strcpy 함수 strcpy(strarr...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "c 언어 2021 중급 :문자열상수 strcpy 함수 strcpy(strarr...\n- 요약: strcpy 함수 strcpy(strarr,arr),주소값 확인( &amp;arr) 문자열상수 복사한 후 내용 수정하기 문자열 상수(*arr)를 그대로 변경할 수 없기 때문에 다른 배열(strarr)에 복사를 한 다음에 문자열...\n- 링크: https://blog.naver.com/kji9653/222328245748\n- 키워드: <위 문자열 그대로>"
+}

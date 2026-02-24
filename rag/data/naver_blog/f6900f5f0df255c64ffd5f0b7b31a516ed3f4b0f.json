@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f6900f5f0df255c64ffd5f0b7b31a516ed3f4b0f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rlagkstn1426/220884526482",
+    "title": "Python - 리스트, 튜플, 문자열, 함수, 프로시져, 메소드",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "Python - 리스트, 튜플, 문자열, 함수, 프로시져, 메소드\n- 요약: (점) 문자 후 바로 숫자 ) 이러한 문자열들을 구분할 수 없을까? 먼저, str.isdigit() 함수에서는... 파이썬에서의 함수 정의 ex) f(x) = 2x + 10 정의 이 함수를 파이썬에서 그대로 표현한다면 def f(x): return 2* x...\n- 링크: https://blog.naver.com/rlagkstn1426/220884526482\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_da5b0e0c60fc0ba184fcdb8b2c0c559572edb8ff",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youseon97/223093635667",
+    "title": "Java 문자열 양쪽 끝 공백 제거하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "Java 문자열 양쪽 끝 공백 제거하기\n- 요약: 어쨌든 그래서 해당 소스를 실행하게 되면, 이처럼 당연히 담긴 문자열 데이터 그대로 출력이 되는 걸 확인하실 수 있는데요. 여기서 맨 앞과 맨 뒤에 있는 공백을 제거하시고 싶으실 수 있습니다. 그럴 때...\n- 링크: https://blog.naver.com/youseon97/223093635667\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_575bf6d5139de163b1cfe4be57e8c1c849cca730",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hexahedron74/222053462781",
+    "title": "Python 3강 문자열 자료형1편",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "Python 3강 문자열 자료형1편\n- 요약: 코드 설명 \\n 문자열 안에서 줄을 바꿀 때 사용 \\t 문자열 사이에 탭 간격을 줄 때 사용 \\\\ 문자 \\를 그대로 표현할 때 사용 \\' 작은따옴표(')를 그대로 표현할 때 사용 \\&quot; 큰따옴표(&quot;)를 그대로...\n- 링크: https://blog.naver.com/hexahedron74/222053462781\n- 키워드: <위 문자열 그대로>"
+}

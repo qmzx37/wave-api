@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a853227dae5c81aaced130d10fdd109fcfa5b686",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/judy6647/222219839466",
+    "title": "PART 03 [Q 03] 그리디_문자열 뒤집기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "PART 03 [Q 03] 그리디_문자열 뒤집기\n- 요약: 이루어진 문자열 S를 가지고 있습니다. 다솜이는 이 문자열 S에 있는 모든 숫자를 전부 같게... 경우로, 그대로이기 때문에 0번 계산이 된다. 이렇게 모든 숫자가 같을 경우가 있기 때문에, 첫번째...\n- 링크: https://blog.naver.com/judy6647/222219839466\n- 키워드: <위 문자열 그대로>"
+}

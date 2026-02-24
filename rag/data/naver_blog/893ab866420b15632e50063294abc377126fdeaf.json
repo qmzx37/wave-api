@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_893ab866420b15632e50063294abc377126fdeaf",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ruvendix/221625349380",
+    "title": "문자와 문자열을 표현하는 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "문자와 문자열을 표현하는 방법\n- 요약: 말 그대로 전체 문자열에서 일부를 뽑은 다음, 그걸 문자열로 만들면 그게 부분 문자열인 거죠. replace와 비슷한데, 인자의 의미가 좀 달라요. substr은 첫번째 인자값부터 두번째 인자값까지 전부...\n- 링크: https://blog.naver.com/ruvendix/221625349380\n- 키워드: <위 문자열 그대로>"
+}

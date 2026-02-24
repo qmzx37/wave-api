@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fa0d97bc4ec7225567a229de0e2756413a0948b6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/uidux/223188026183",
+    "title": "파이썬 쿠키 문자열을 딕셔너리 형태로 변환",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "파이썬 쿠키 문자열을 딕셔너리 형태로 변환\n- 요약: 피하기 위한 코드를 이미 누군가 작성해두었다. SimpleCookie는 파이썬의 기본 라이브러리이다. 위의 rawdata에 Set-Cookie 문자열을 그대로 입력하면, 딕셔너리 형태로 변환하여 cookies에 저장된다.\n- 링크: https://blog.naver.com/uidux/223188026183\n- 키워드: <위 문자열 그대로>"
+}

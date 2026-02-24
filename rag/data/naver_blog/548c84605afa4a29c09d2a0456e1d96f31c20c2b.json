@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_548c84605afa4a29c09d2a0456e1d96f31c20c2b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/vjhh0712v/221477946760",
+    "title": "C언어 문자와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "C언어 문자와 문자열\n- 요약: &lt;&gt; &quot;&quot; &quot;&quot; &quot;&quot; &quot; &quot; 또한, 문자열은 말 그대로 char 배열이기 때문에 각 원소에 접근이 가능합니다. 아래 예제를 보시면 이해가 쉽습니다. &lt;&gt; &quot;&quot; &quot;&quot; &quot;&quot; 결과값 : 또한, 문자열은 끝에 \\0, 즉 널값이 있다는 것을 이용해서...\n- 링크: https://blog.naver.com/vjhh0712v/221477946760\n- 키워드: <위 문자열 그대로>"
+}

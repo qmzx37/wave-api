@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6114cd82bb94f480e4edf47b5b8a7e34a27f62a7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tk2rush90/221241367558",
+    "title": "자바스크립트 문자열(String), 글자를 담는 자료형에 대해",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "자바스크립트 문자열(String), 글자를 담는 자료형에 대해\n- 요약: String String은 '문자열'을 의미합니다. 말 그대로 문자를 담을 수 있는 자료형입니다. 작은 따옴표... 위 변수는 과연 어떻게 출력 될까요? 에러가 발생합니다. 저는 줄이 바꿔진 시가 보고 싶은데...\n- 링크: https://blog.naver.com/tk2rush90/221241367558\n- 키워드: <위 문자열 그대로>"
+}

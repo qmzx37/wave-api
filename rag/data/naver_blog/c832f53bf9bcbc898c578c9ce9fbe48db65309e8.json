@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c832f53bf9bcbc898c578c9ce9fbe48db65309e8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221326391483",
+    "title": "fgets 함수로 표준 입력 문자열 처리하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "fgets 함수로 표준 입력 문자열 처리하기\n- 요약: // 표준 입력 버퍼에서 문자열을 가져온다. printf(&quot;str = %s\\n&quot;, str); return 0;} 위 예제의 실행... 그리고 나머지 '6789'의 문자열은 표준 입력 버퍼에 그대로 남아있기 때문에 다음 표준 입력 함수에...\n- 링크: https://blog.naver.com/tipsware/221326391483\n- 키워드: <위 문자열 그대로>"
+}

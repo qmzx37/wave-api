@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_62495849c1ae33e38cf2ab7c0a2ff28a2365d90b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/seungho1216/222488756324",
+    "title": "6. Random 모듈, 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "6. Random 모듈, 문자열\n- 요약: 위 예제에서 볼 수 있듯이 import random 을 입력해주어야 random 함수를 사용할 수 있다.... 슬라이싱 슬라이스라는 영어뜻 그대로 문자열의 부분 부분을 인덱스를 활용하여...\n- 링크: https://blog.naver.com/seungho1216/222488756324\n- 키워드: <위 문자열 그대로>"
+}

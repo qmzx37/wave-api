@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4100ce27e45965616f44305fe57c8d7e9d9d8b38",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ichanseo90/224095723081",
+    "title": "파이썬 Day+4(02-4 숫자와 문자열의 다양한 기능(1))",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "파이썬 Day+4(02-4 숫자와 문자열의 다양한 기능(1))\n- 요약: &quot; &quot;&quot;&quot; &gt; &quot; &quot; 위 코드처럼 문자열 속 {}가 뒤쪽 ()안의 요소보다 많을 경우 오류가 발생한다.... f-문자열은 말 그대로 문자열이며 문자열은 &quot;&quot;로 포장될 때 문자열이게 된다. 따라서 {} 내부에 &quot;&quot;로...\n- 링크: https://blog.naver.com/ichanseo90/224095723081\n- 키워드: <위 문자열 그대로>"
+}

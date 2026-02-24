@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3469a8391c42e6310b1d11c216a5e2b1a93169fa",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dlawhdghdi/221341000664",
+    "title": "엑셀 문자열의 길이 구하기, Len 함수 사용 (+ Left, Right)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "엑셀 문자열의 길이 구하기, Len 함수 사용 (+ Left, Right)\n- 요약: 종호 입니다 :) 이번 포스팅은 문자열의 길이를 구하는 Len 함수에 대해서 알아보려고 합니다.... 그대로 엔터를 누르시면 #VALUE! 값이 출력 됩니다. 왜냐하면, =Len(E6) 의 값이 9 잖아요. =Left(E6,4) 의...\n- 링크: https://blog.naver.com/dlawhdghdi/221341000664\n- 키워드: <위 문자열 그대로>"
+}

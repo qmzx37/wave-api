@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f580339b98d5f31aec513cba5ce1da7b84b56402",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/leesohh/223176352009",
+    "title": "[모두를 위한 파이썬 PY4E] 코칭스터디 4주차 - 6강 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "[모두를 위한 파이썬 PY4E] 코칭스터디 4주차 - 6강 문자열...\n- 요약: 슬라이싱은 문자열을 말그대로 슬라이스(잘라냄) 하는 것인데, 영어 표현법도 설명해주셔서 참... host = data[atpos+1 : sppos] &gt; 슬라이싱을 통해서 골뱅이 다음부터 공백까지 값을 반환 위 코딩을...\n- 링크: https://blog.naver.com/leesohh/223176352009\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6fb5377df2a6599b399feca15a19932f9e1259ef",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ijoos/220857422204",
+    "title": "(PHP) 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "(PHP) 문자열\n- 요약: 또한 만약에 array형태로 문자열이 들어있다면 한번에 처리하는 함수는 array_map을... 이름 그대로 new line을 br로 변경해준다고 생각하면 되겠다. 3. printf Output a formatted...\n- 링크: https://blog.naver.com/ijoos/220857422204\n- 키워드: <위 문자열 그대로>"
+}

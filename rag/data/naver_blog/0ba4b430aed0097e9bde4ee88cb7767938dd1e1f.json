@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0ba4b430aed0097e9bde4ee88cb7767938dd1e1f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jeff_jks/20198787688",
+    "title": "05. [초급] 게임메이커 강좌 - 드로우의 활용과 문자열/실수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "05. [초급] 게임메이커 강좌 - 드로우의 활용과 문자열/실수\n- 요약: 문자열(string)은 말 그대로 문자를 의미하고, 실수(real)은 숫자를 의미합니다. 지금까지 다뤘던건... 그런데 'ABC' 글자를 드로우하고 싶다고 위 그림처럼 그냥 ABC라고만 적으면.. 안됩니다. 위 액션은...\n- 링크: https://blog.naver.com/jeff_jks/20198787688\n- 키워드: <위 문자열 그대로>"
+}

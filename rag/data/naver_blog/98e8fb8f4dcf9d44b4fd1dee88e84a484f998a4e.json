@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_98e8fb8f4dcf9d44b4fd1dee88e84a484f998a4e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://harryp.tistory.com/155",
+    "title": "Park's Life :: [Python] 문자열에서 반복되는 문자열 및 횟수...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "Park's Life :: [Python] 문자열에서 반복되는 문자열 및 횟수...\n- 요약: 위 코드에는, 만약 반복되는 문자열이 없을 경우, 입력한 문자열을 그대로 출력하는 부분이 없습니다. 그래서 반복되는 문자열이 있는 예제 1과 예제 2는 제대로 출력이 되는 반면...\n- 링크: https://harryp.tistory.com/155\n- 키워드: <위 문자열 그대로>"
+}

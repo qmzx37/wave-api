@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bb40e6f778bdc53fff4262343cad28f594d1666b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/mtjeaids/70044331957",
+    "title": "[ORACLE] 전화번호 문자열에서 숫자만 추출하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "[ORACLE] 전화번호 문자열에서 숫자만 추출하기\n- 요약: -, ) 등 숫자 이외의 문자가 포함된 전화번호 문자열에서 숫자만 추출 하는 방법 입니다. SELECT... 위의 경우 PhoneNumber 에서 ( '0123456789' || PhoneNumber ) 와 매칭하여 숫자는 숫자로 그대로...\n- 링크: https://blog.naver.com/mtjeaids/70044331957\n- 키워드: <위 문자열 그대로>"
+}

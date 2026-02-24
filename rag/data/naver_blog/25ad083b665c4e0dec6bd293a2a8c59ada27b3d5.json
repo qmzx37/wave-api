@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_25ad083b665c4e0dec6bd293a2a8c59ada27b3d5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/mknj990/221102451745",
+    "title": "문자열을 정의하는 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:17",
+    "ok": true
+  },
+  "text": "문자열을 정의하는 방법\n- 요약: 물론 문자열 포인터는 말 그대로 포인터이므로, 문자열 상수가 아닌 문자열 배열을... printf(&quot;[변경 후] charArr : %8s, charVar : %8s\\n&quot;, charArr, charVar);} 위 코드는 문자열 포인터가 문자열 배열을...\n- 링크: https://blog.naver.com/mknj990/221102451745\n- 키워드: <위 문자열 그대로>"
+}

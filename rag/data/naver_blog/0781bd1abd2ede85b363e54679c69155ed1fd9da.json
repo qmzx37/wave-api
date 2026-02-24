@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0781bd1abd2ede85b363e54679c69155ed1fd9da",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/oioois/150025224832",
+    "title": "MBCS환경에서 UNICODE 문자열 사용하기!",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "MBCS환경에서 UNICODE 문자열 사용하기!\n- 요약: 인코딩방식은 - 유니코드 - 코드 페이지 1200 줄 끝값은 그대로 현재 설정으로 두고... 위 방법으로 하면 해당 컨트롤(m_hWnd-&gt;컨트롤 핸들)에 문자열 항목을 추가할 수 있으실겁니다. 이렇게...\n- 링크: https://blog.naver.com/oioois/150025224832\n- 키워드: <위 문자열 그대로>"
+}

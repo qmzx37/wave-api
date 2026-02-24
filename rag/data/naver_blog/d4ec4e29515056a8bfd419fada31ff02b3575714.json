@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d4ec4e29515056a8bfd419fada31ff02b3575714",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kimpro82/222900961709",
+    "title": "[SystemVerilog] 문자열 인덱싱 &amp; 형변환",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[SystemVerilog] 문자열 인덱싱 &amp; 형변환\n- 요약: &quot;&quot; 아래 코드들은 공부하다 문자열 인덱싱 &amp; 형변환에서 막혀 차근차근 문제를 여러 단계로 쪼개어... 둘째, 메모리 영역의 값을 액면 그대로 불러오므로, 엔디언 개념을 이해하여야 한다. 빅 엔디언인지...\n- 링크: https://blog.naver.com/kimpro82/222900961709\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9e31419d1c6bf480b5717679d29dc69ac6a6c254",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hw96312/223256565558",
+    "title": "[Web+AI] 파이썬 3-1, 수치형과 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "[Web+AI] 파이썬 3-1, 수치형과 문자열\n- 요약: *ex) 2자리수 까지 출력 : %.2f 값이 없음을 의미하는 None None은 문가 그대로 값이 없음을 나타낸다.... 있으면true 문자열을 연결해주는 문자열 함수 '+' +는 더하기의 의미다. 그래서 문자열 함수로 +를...\n- 링크: https://blog.naver.com/hw96312/223256565558\n- 키워드: <위 문자열 그대로>"
+}

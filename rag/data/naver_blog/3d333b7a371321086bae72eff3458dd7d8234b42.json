@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3d333b7a371321086bae72eff3458dd7d8234b42",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/twonkang00/222977622357",
+    "title": "[Python] 파이썬 기초 300제 풀이 (2) (문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "[Python] 파이썬 기초 300제 풀이 (2) (문자열)\n- 요약: 또 보기 좋게 틀렸다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ abcd가 그대로 출력된다. 문자열은 변경할 수 없는... 일단 위 코드처럼 짜봤다. 근데, 결과는 잘 나오더라. 근데 해설을 보니 사용법이 다르다...\n- 링크: https://blog.naver.com/twonkang00/222977622357\n- 키워드: <위 문자열 그대로>"
+}

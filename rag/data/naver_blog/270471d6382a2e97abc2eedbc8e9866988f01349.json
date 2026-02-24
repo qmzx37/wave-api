@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_270471d6382a2e97abc2eedbc8e9866988f01349",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pa3424/223083674681",
+    "title": "[Effective C#] 아이템 4: string.Format()을 보간 문자열로...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "[Effective C#] 아이템 4: string.Format()을 보간 문자열로...\n- 요약: C#에도 C에서 널리 사용되던 API를 그대로 수용하여 동일한 방법으로 문자열을 만들 수 있었다. 이제는 이러한 방법에서 벗어나 C# 6.0에 새롭게 도입된 문자열 보간 기능을 사용해 보자. 아이템 3까지는 전부...\n- 링크: https://blog.naver.com/pa3424/223083674681\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_10523b2d6f9d14daed93c64ed9a60e92b2217afb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/comfae/221480839795",
+    "title": "[CB210] RS232로 수신받은 문자열 데이터로 LED 제어하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "[CB210] RS232로 수신받은 문자열 데이터로 LED 제어하기\n- 요약: ^^ 위 동영상을 보시면 CB210으로 보내는 문자열 데이터에따라 CB210이 CF-TERM와 CLCD에... i값을 그대로 유지할 것이에요. Select Case i Case index_spacebar recv_val = Val(Mid(recv_str,index...\n- 링크: https://blog.naver.com/comfae/221480839795\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_72181f4e9fbec681e8470b1e42d8e347b2eefed4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tribepop735433/222656503640",
+    "title": "동일한 문자열에서 여러 Perl 검색/바꾸기 작업을 효율적으로...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "동일한 문자열에서 여러 Perl 검색/바꾸기 작업을 효율적으로...\n- 요약: 따라서 내 Perl 스크립트는 기본적으로 문자열을 취한 다음 다음과 같이 여러 검색 및 대체를 수행하여... &quot;&quot; 하지만 &quot;$1&quot; 부분을 정규식에 문자 그대로 전달할 수 없는 것 같습니다. 그리고 그것은 작동하지...\n- 링크: https://blog.naver.com/tribepop735433/222656503640\n- 키워드: <위 문자열 그대로>"
+}

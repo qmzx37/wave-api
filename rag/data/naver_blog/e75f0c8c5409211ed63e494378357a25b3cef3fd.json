@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e75f0c8c5409211ed63e494378357a25b3cef3fd",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rjseorl95/222966912236",
+    "title": "[C/C++] 문자열에 포함된 소문자를 대문자로 바꿔주는 strupr...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:08",
+    "ok": true
+  },
+  "text": "[C/C++] 문자열에 포함된 소문자를 대문자로 바꿔주는 strupr...\n- 요약: 이번 포스팅에서는 문자열에 포함된 소문자를 대문자로 바꿔주는 strupr 함수를 구현해 보는... 주소를 그대로 반환하면 됩니다. &gt; &amp;&amp; &lt; &quot; &quot; &quot;&quot; &quot;&quot; &quot; &quot; 위 예제 실행 결과입니다. 제가 포스팅한 내용 중...\n- 링크: https://blog.naver.com/rjseorl95/222966912236\n- 키워드: <위 문자열 그대로>"
+}

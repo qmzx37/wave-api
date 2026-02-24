@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d6f83652909967f3c873f939196aa9c833fd844d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/222189084716",
+    "title": "[Q&amp;A] 문자열에서 좌표 정보만 정숫값으로 얻기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "[Q&amp;A] 문자열에서 좌표 정보만 정숫값으로 얻기\n- 요약: 없는 문자열은 형식 지정자와 함께 그대로 적어야 한다는 것입니다. 즉, sscanf_s 함수를 사용할... &lt;&gt; &quot; &quot; &quot; &quot; &amp; &amp; &quot; &quot; 위 예제는 아래와 같이 출력됩니다. 그리고 sscanf 함수와 관련해서 아래에 링크한...\n- 링크: https://blog.naver.com/tipsware/222189084716\n- 키워드: <위 문자열 그대로>"
+}

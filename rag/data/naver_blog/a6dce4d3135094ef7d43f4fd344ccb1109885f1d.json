@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a6dce4d3135094ef7d43f4fd344ccb1109885f1d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/and_lamyland/221201653074",
+    "title": "자료형까지 - raw 문자열 사용 이유, 문자열 인덱싱, 슬라이싱",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "자료형까지 - raw 문자열 사용 이유, 문자열 인덱싱, 슬라이싱\n- 요약: 파이썬에서는 다량의 문자열을 쉽게 넣도록 하기 위해 &quot;&quot;&quot;를 제공하는데요, 줄 바꿈이나 탭과 같은 이스케이프 문자를 문자열 내부에 그대로 적용시킬 수 있습니다. 그리고 이스케이프 문자가...\n- 링크: https://blog.naver.com/and_lamyland/221201653074\n- 키워드: <위 문자열 그대로>"
+}

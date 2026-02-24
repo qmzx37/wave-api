@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_7e03283b0b1db1d9c39076f9921bef57bfd9bfe5",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://arvigoes.tistory.com/26",
+    "title": "4. 파이썬 자료형 - 문자열 이란?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "4. 파이썬 자료형 - 문자열 이란?\n- 요약: 123&quot;) # 둘다사용 print('문자열...아무글자나..english 도 역시..123&quot;) 위 코드 처럼 작은따옴표... 그리고\\n줄도바꿔요&quot;) img 7-6 결과 이스케이프키를 무시하고 문자열그대로 사용하고 싶다면 문자열 앞에 r 을...\n- 링크: https://arvigoes.tistory.com/26\n- 키워드: <위 문자열 그대로>"
+}

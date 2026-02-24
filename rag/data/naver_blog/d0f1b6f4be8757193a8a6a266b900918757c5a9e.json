@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d0f1b6f4be8757193a8a6a266b900918757c5a9e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/spaceship00/120195367256",
+    "title": "찡이형의 JAVA 강좌 4. 문자열 합치기와 주석",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "찡이형의 JAVA 강좌 4. 문자열 합치기와 주석\n- 요약: /* * println() : 자동으로 개행이 이루어짐 * printf() : 출력 형식을 지정해서 출력할 수 있음 * printf() : 주어진 문자열을 그대로 출력함 */ System.out.println(&quot;name : &quot;+first_name+&quot; &quot;+last_name); }}\n- 링크: https://blog.naver.com/spaceship00/120195367256\n- 키워드: <위 문자열 그대로>"
+}

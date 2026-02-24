@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d1c64427d99fcc3e31b39eb702f73085a0a3f4fb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/popqser2/220487702407",
+    "title": "리눅스 - 리눅스에 ^M 문자열 [CTRL+V] 이 생기는 이유?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "리눅스 - 리눅스에 ^M 문자열 [CTRL+V] 이 생기는 이유?\n- 요약: 복잡한 정규식은 아니고, 각행의 끝($)에 있는 ^M 기호를, 모두(g) 공백(//)으로 바꾸는(%s) 것입니다.(:%s/^M$//g) 위의 정규식에서 빨간색으로 된 ^M 이라는 문자열을 직접 글자 그대로 타이핑하면...\n- 링크: https://blog.naver.com/popqser2/220487702407\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2a28e307f87595b263b6d1c2fcbcadaf448c1e6a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://andjjip.tistory.com/197",
+    "title": "취준생 일지 :: [C#] 문자열(String) 처리 - 2",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "취준생 일지 :: [C#] 문자열(String) 처리 - 2\n- 요약: 그 상태에서 ToLower 메서드를 호출하면 txt 변수에 담긴 문자열이 소문자로 변경되는 것이... 이렇게 문자 데이터 자체는 그대로지만 그것을 어떤 코드에 대응시키느냐에 따라 'A...\n- 링크: https://andjjip.tistory.com/197\n- 키워드: <위 문자열 그대로>"
+}

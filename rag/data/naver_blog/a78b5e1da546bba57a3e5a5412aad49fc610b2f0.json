@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a78b5e1da546bba57a3e5a5412aad49fc610b2f0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/xxxter/30123754571",
+    "title": "문자열 복사함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "문자열 복사함수\n- 요약: // p에 새로운 문자열 복사 // 교재 그대로 작성하였을 경우 위 부분에서 p를 변경할 수 없기에 오류가 발생 // 포인터 p가 변경할 수 있는 값(문자배열 w)을 참조하도록 하여...\n- 링크: https://blog.naver.com/xxxter/30123754571\n- 키워드: <위 문자열 그대로>"
+}

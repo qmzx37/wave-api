@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fd90e0038b6de3f1068526742156cb8d572fa09d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ldy__0202/222632552665",
+    "title": "[Python] 문자열 포매팅 /스마트인재개발원",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "[Python] 문자열 포매팅 /스마트인재개발원\n- 요약: s 문자열(string) %c 문자 1개(char) %d 정수(integer) %f 부동 소수(float) %o 8진수 %x 16진수 %% 문자 그대로... 위 함수들은 파이썬에서 문자열을 처리할 때 자주 쓰이는 함수들 입니다. 코딩을 하다보면...\n- 링크: https://blog.naver.com/ldy__0202/222632552665\n- 키워드: <위 문자열 그대로>"
+}

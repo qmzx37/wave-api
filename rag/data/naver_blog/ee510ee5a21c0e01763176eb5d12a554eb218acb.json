@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ee510ee5a21c0e01763176eb5d12a554eb218acb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/topmountain2001/223525443645",
+    "title": "c++ 기초(4) [포인터, new &amp; delete 연산자, 포인터와 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "c++ 기초(4) [포인터, new &amp; delete 연산자, 포인터와 문자열...\n- 요약: &lt;&lt; &quot; &quot; &lt;&lt; &lt;&lt; &quot; &quot; &lt;&lt; &lt;&lt; &quot; &quot; &lt;&lt; &lt;&lt; &quot; &quot; &lt;&lt; &lt;&lt; &quot; &quot; &lt;&lt; &lt;&lt; &quot; &quot; &lt;&lt; &lt;&lt; &quot; &quot; &lt;&lt; *위 코드에서 사용자 입력 함수를 이용해... 않고 그대로 출력되는 것을 봤다. 이러한 이유? /* chat gpt C++에서 cin을 사용하여 char 배열에 문자열을...\n- 링크: https://blog.naver.com/topmountain2001/223525443645\n- 키워드: <위 문자열 그대로>"
+}

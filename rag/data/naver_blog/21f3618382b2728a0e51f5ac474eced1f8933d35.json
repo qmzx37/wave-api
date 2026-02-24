@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_21f3618382b2728a0e51f5ac474eced1f8933d35",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/forb300/223407910779",
+    "title": "홀수(Lv1), 문자열 내 마음대로 정렬하기(Lv1) | python풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "홀수(Lv1), 문자열 내 마음대로 정렬하기(Lv1) | python풀이\n- 요약: 문제는 '문자열 내 마음대로 정렬하기'입니다 짝수와 홀수 &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; 주어진 숫자가 홀수라면 'Odd', 짝수라면 'Even'을 반환하는 문제입니다 위에 했던 말을 그대로 코드로 옮겨주면 됩니다 answer를 odd와 even...\n- 링크: https://blog.naver.com/forb300/223407910779\n- 키워드: <위 문자열 그대로>"
+}

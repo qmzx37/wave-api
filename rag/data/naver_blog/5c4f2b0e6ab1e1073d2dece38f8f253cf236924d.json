@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5c4f2b0e6ab1e1073d2dece38f8f253cf236924d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://deepdata.tistory.com/1528",
+    "title": "올바른 괄호 문자열을 만드는 알고리즘",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "올바른 괄호 문자열을 만드는 알고리즘\n- 요약: 올바른 괄호 문자열 1) 모든 k = 1,2,3,..,n에 대하여 S 1 ,S 2 ,...,S 2k−1 S에 대하여 적어도 k개의... 선택을 그대로 둔다면, A[y]에서 A[x]로 바뀌어야 하므로, 반드시 전체 점수가 A[x] - A[y]만큼...\n- 링크: https://deepdata.tistory.com/1528\n- 키워드: <위 문자열 그대로>"
+}

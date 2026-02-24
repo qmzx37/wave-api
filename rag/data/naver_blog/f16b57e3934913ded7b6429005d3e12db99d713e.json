@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f16b57e3934913ded7b6429005d3e12db99d713e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ordinary-frontend/224078184236",
+    "title": "[Nuxt4] useAsyncData, useFetch",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "[Nuxt4] useAsyncData, useFetch\n- 요약: data: API 응답 데이터 status: idle | pending | success | error 네 가지 문자열 상태 값을 나타냄... app/pages/use-fetch-test/index.vue(위 코드 내용 그대로 유지)...\n- 링크: https://blog.naver.com/ordinary-frontend/224078184236\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e8c471770dd97e264719849fb631586a987ccc0a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sampoo00/30052660429",
+    "title": "리눅스 환경에서의 C 프로그래밍 9장 배열과 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "리눅스 환경에서의 C 프로그래밍 9장 배열과 문자열\n- 요약: C 에서 제공하는 원시 데이터 타입이란 것은 말그대로 최소한의 데이터 타입일 뿐으로, 좀... 문자열 hello world을 구조적으로 쉽게 표현할 수 있는 방법은 바로 배열을 이용하는 것이다....\n- 링크: https://blog.naver.com/sampoo00/30052660429\n- 키워드: <위 문자열 그대로>"
+}

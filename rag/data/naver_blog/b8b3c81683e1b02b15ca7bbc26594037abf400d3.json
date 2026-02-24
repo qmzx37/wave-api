@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b8b3c81683e1b02b15ca7bbc26594037abf400d3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kkkids20/223460138694",
+    "title": "연습 - 문자열2",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "연습 - 문자열2\n- 요약: 어떤 문자열과 더하더라도 더하기 이전과 같은 값을 반환해요. &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; 위 내용과... 실습 결과 해설 만약 함수에 주어진 인수들을 그대로 연결시켜 출력한다면 어떻게 될까요? &quot;&quot; &quot;&quot; &quot;&quot; 위와 같이...\n- 링크: https://blog.naver.com/kkkids20/223460138694\n- 키워드: <위 문자열 그대로>"
+}

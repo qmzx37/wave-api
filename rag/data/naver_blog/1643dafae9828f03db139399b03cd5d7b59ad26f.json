@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1643dafae9828f03db139399b03cd5d7b59ad26f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://whyprogrammer.tistory.com/563",
+    "title": "[코틀린] 문자열 String 이해하는 가장 쉬운 방법 (초보...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:08",
+    "ok": true
+  },
+  "text": "[코틀린] 문자열 String 이해하는 가장 쉬운 방법 (초보...\n- 요약: t Hello Kotlin!53 K Process finished with exit code 0 코드 해설 그러면 위 코드를 바탕으로 한 줄씩 코드... 문자열은 말 그대로 문자를 여러 개 합쳐놓은 것입니다. 코틀린에서는 Char 형식이 문자...\n- 링크: https://whyprogrammer.tistory.com/563\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8a3eb671346170ec56d1927464ff3b9aa346f9f2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dlrhkdgh3333/222576890849",
+    "title": "프로그래머스 - 숫자 문자열과 영단어 -replace()",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "프로그래머스 - 숫자 문자열과 영단어 -replace()\n- 요약: 코드 그대로 'one' 이라는 문자를 -&gt; 1로 치환하는 것이다. 3. 그렇게되면 아래와 같이 one =&gt;1로... 문제 확인 &quot;&quot; &quot;&quot; &quot;&quot; 이 처럼 숫자 영어 단어와, 진짜 숫자가 섞여있는 문자열을 오른쪽의 숫자만으로...\n- 링크: https://blog.naver.com/dlrhkdgh3333/222576890849\n- 키워드: <위 문자열 그대로>"
+}

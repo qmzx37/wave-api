@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6d80b4b89f6cdc5899be8b83964c6212616b58e8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/eunoia_0-0/222607934780",
+    "title": "[코뮤니티] 파이썬 기초문법 2일차 - 문자열과 출력",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "[코뮤니티] 파이썬 기초문법 2일차 - 문자열과 출력\n- 요약: &quot;&quot; 따라서 위 코드와 같이 따옴표를 올바르게 사용해야 한다. 실행하면 위와 같은 실행 결과가 나온다.... 문구는 그대로 출력된다. 여러 줄을 한 번에 출력하기 위해선 print(&quot;&quot;&quot;여러 줄 출력&quot;&quot;&quot;) 출력할 문자열...\n- 링크: https://blog.naver.com/eunoia_0-0/222607934780\n- 키워드: <위 문자열 그대로>"
+}

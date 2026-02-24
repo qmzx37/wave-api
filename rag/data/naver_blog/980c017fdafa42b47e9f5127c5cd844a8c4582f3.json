@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_980c017fdafa42b47e9f5127c5cd844a8c4582f3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/vnemftnsska2/223025990729",
+    "title": "[프로그래머스] LV0. 문자열 밀기 - Java Script",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:57",
+    "ok": true
+  },
+  "text": "[프로그래머스] LV0. 문자열 밀기 - Java Script\n- 요약: 문자열 사이즈만큼 해도 안되면 최솟값은 없다는 것이다. 그대로 -1 반환하면 된다. 반복문 내에서 A의 배열 맨끝 값을 구하기 위해 pop()함수를 사용하여 end 변수에 저장한다. end 변수에 저장된 값을...\n- 링크: https://blog.naver.com/vnemftnsska2/223025990729\n- 키워드: <위 문자열 그대로>"
+}

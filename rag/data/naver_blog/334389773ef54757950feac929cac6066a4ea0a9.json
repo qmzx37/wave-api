@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_334389773ef54757950feac929cac6066a4ea0a9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://comfun.tistory.com/entry/%EB%AC%B8%EC%9E%90%EC%97%B4c%EC%96%B8%EC%96%B4?category=298066",
+    "title": "문자열 (c언어)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "문자열 (c언어)\n- 요약: FILE *) 문자열을 그대로 출력 getchar() enter키를 누르기 전까지의 내용을 버퍼를 이용하여 문자열을 저장 int getchar( void ); 반환 값 Returns the character read. To indicate a read error or end-of...\n- 링크: https://comfun.tistory.com/entry/%EB%AC%B8%EC%9E%90%EC%97%B4c%EC%96%B8%EC%96%B4?category=298066\n- 키워드: <위 문자열 그대로>"
+}

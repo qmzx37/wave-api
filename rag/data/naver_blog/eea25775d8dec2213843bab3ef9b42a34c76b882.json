@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_eea25775d8dec2213843bab3ef9b42a34c76b882",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://qteveryday.tistory.com/464",
+    "title": "[C언어 문제연습] 3일차 - 문자열 주소만 소유하고 있다는 의미는?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "[C언어 문제연습] 3일차 - 문자열 주소만 소유하고 있다는 의미는?\n- 요약: &quot; ( malloc을 사용하여 새 메모리 공간 할당) &quot;그리고 외부 이름표에 쓰인 '다현'이라는 글자를 새 이름표에 그대로 베껴 적자!&quot; ( strcpy를 사용하여 문자열 내용 복사) &quot;이제 이 새 이름표를 내...\n- 링크: https://qteveryday.tistory.com/464\n- 키워드: <위 문자열 그대로>"
+}

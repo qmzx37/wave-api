@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_800c20ce5c0979f1a00c6c6cd3b3eff36db0d09a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kjp7355/223274950246",
+    "title": "엑셀의 concat 함수와 textjoin 함수 비교: 문자열 연결...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "엑셀의 concat 함수와 textjoin 함수 비교: 문자열 연결...\n- 요약: 엑셀의 concat 함수와 textjoin 함수는 모두 문자열을 연결하는 기능을 제공하지만, 몇 가지 차이점이... 공백 문자 유지 방식 (Preserve whitespace) - 공백 문자를 그대로 유지하는 방식입니다. - 일반적으로 파일의...\n- 링크: https://blog.naver.com/kjp7355/223274950246\n- 키워드: <위 문자열 그대로>"
+}

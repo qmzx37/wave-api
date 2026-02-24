@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_84b2480085b42bb3df2bf80f057ff39297c7aa00",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yzcheong94/221234800345",
+    "title": "python1. 숫자형, 문자열 연산자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "python1. 숫자형, 문자열 연산자\n- 요약: 따옴표를 그대로 표현할 때 사용 3) 문자열 연산하기 더해서 연결하기 곱하기 4) 인덱싱 - 무엇인가를 '가리킨다'란 의미 a의 3번째 문자열이 'e'라는 뜻이다. python은 0부터 세기 때문에 4번째 자리에...\n- 링크: https://blog.naver.com/yzcheong94/221234800345\n- 키워드: <위 문자열 그대로>"
+}

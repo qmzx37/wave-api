@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d7e7f05378263075a2f00727cd728ab889b9ac32",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://choseongho93.tistory.com/254",
+    "title": "[Python] str 문자열 클래스 &amp; 이스케이프 문자 (print, type)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "[Python] str 문자열 클래스 &amp; 이스케이프 문자 (print, type)\n- 요약: 만일 이스케이프 문자를 사용하지 않고 문자 그대로 표시하고 싶다면 문자열의 앞에 r을 추가해주면 됩니다. 문자열 내부에서 작은따옴표나 큰따옴표를 표시해야 하는 경우에는 이스케이프 문자 형식(\\' or...\n- 링크: https://choseongho93.tistory.com/254\n- 키워드: <위 문자열 그대로>"
+}

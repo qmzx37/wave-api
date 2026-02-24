@@ -1,0 +1,18 @@
+sources:
+  naver_news:
+    enabled: true
+    type: naver_news_api
+    query: ["동기부여", "우울", "불안", "공부", "습관", "성장", "집중", "번아웃"]
+    display_name: "Naver News OpenAPI"
+    max_items: 200
+    sort: "date"   # date|sim
+    dedupe_key: "link"
+    out_path: "C:/llm/train/wave/rag/storage/raw/naver_news.jsonl"
+
+  instagram_graph:
+    enabled: false   # ✅ 토큰/권한 세팅 전까진 OFF
+    type: instagram_graph_api
+    user_id: ""      # 예: "1784xxxxxxxxxxxx"
+    fields: "id,caption,media_type,media_url,permalink,timestamp,like_count,comments_count"
+    max_items: 100
+    out_path: "C:/llm/train/wave/rag/storage/raw/instagram.jsonl"

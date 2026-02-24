@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_96e960c8f558eb6c2317db4d79268a4d95c49916",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chlrkfka949/224084318626",
+    "title": "LangChain: Ollama Tool Calling",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "LangChain: Ollama Tool Calling\n- 요약: 예를 들면, 아래 두 문장이 있다고 치면 A: 안녕하세요 B: こんにちは 위 두 글자는 문자열 측면에서는... 가장 근접한 의미를 가진 출력 이 말을 그대로 해석하면 즉, 선택지가 주어지고, 그 선택지 중 가장...\n- 링크: https://blog.naver.com/chlrkfka949/224084318626\n- 키워드: <위 문자열 그대로>"
+}

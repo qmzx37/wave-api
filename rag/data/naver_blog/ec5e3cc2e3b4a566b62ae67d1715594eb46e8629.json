@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ec5e3cc2e3b4a566b62ae67d1715594eb46e8629",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/shizzo58526/222942142263",
+    "title": "문자열의 외부 인덱스를 효율적으로 저장",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "문자열의 외부 인덱스를 효율적으로 저장\n- 요약: 디스크에 n개의 개체가 있는 큰 컬렉션이 있고 각 개체에 가변 크기 문자열이 있다고 가정합니다.... 항목이 그대로 있을 수 있습니다. 정말로 정렬하고 싶다면 Knuth의 &quot;The Art of Computer Programming&quot; 3권에서는...\n- 링크: https://blog.naver.com/shizzo58526/222942142263\n- 키워드: <위 문자열 그대로>"
+}

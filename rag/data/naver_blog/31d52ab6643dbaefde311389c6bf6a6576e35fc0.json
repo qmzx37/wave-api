@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_31d52ab6643dbaefde311389c6bf6a6576e35fc0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tygk1/223050627785",
+    "title": "Trie(트라이) 문자열 검색알고리즘 구현",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "Trie(트라이) 문자열 검색알고리즘 구현\n- 요약: 삽입할때, 문자열의 각 문자의 인덱스넘버를 확인하고 해당 엘리먼트는 null 이 아닌 새로운 트라이 노드를 추가하게 끔 만들었다. &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &lt; &lt; 문자의 아스키코드 번호를 인덱스 번호 그대로 쓰면...\n- 링크: https://blog.naver.com/tygk1/223050627785\n- 키워드: <위 문자열 그대로>"
+}

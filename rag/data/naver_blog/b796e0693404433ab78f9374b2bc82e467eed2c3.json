@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b796e0693404433ab78f9374b2bc82e467eed2c3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/siyang6/30081408011",
+    "title": "문자열(STRING) 처리 및 관련함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "문자열(STRING) 처리 및 관련함수\n- 요약: htmlspecialchars HTML 코드를 문자열 소스 그대로 출력한다. nl2br 문자열의 개행문자(n)를 태그로 치환한다. echo 문자열을 출력한다. sprintf 문자열을 지정해준 포맷으로 바꾸어 반환한다....\n- 링크: https://blog.naver.com/siyang6/30081408011\n- 키워드: <위 문자열 그대로>"
+}

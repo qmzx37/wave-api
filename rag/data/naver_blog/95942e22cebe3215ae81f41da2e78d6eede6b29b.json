@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_95942e22cebe3215ae81f41da2e78d6eede6b29b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/securelog/224044197633",
+    "title": "CVE-2025-32463: Sudo chroot 로컬 권한 상승",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "CVE-2025-32463: Sudo chroot 로컬 권한 상승\n- 요약: glibc는 이를 문자열 그대로 붙여 libnss_/woot1337.so.2를 찾으려고 시도하게 됩니다. 이후 단계에서 동일한 이름의 .so를 chroot 루트에 배치하면 로드 타깃이 됩니다. 마지막으로, 시스템의 /etc...\n- 링크: https://blog.naver.com/securelog/224044197633\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6d5372af4bf446efa006937d75f4f40983e0134d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pay001/221441988170",
+    "title": "함수와 문자열 함수...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "함수와 문자열 함수...\n- 요약: //strlen(문자열) :문자열의 길이를 측정하는 함수(\\0문자 제외) void strcpyf(char *des, char... //1번에 입력된걸 2번에 그대로 복사하겠다 str2[strlenf(str1)] = '\\0'; printf(&quot;str2 : %s\\n...\n- 링크: https://blog.naver.com/pay001/221441988170\n- 키워드: <위 문자열 그대로>"
+}

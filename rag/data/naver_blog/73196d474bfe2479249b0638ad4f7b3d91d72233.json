@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_73196d474bfe2479249b0638ad4f7b3d91d72233",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ryasdae9186/222869124916",
+    "title": "뷰 nvarchar를 varchar로 변환할 때 특정 문자열 앞의 문자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:29",
+    "ok": true
+  },
+  "text": "뷰 nvarchar를 varchar로 변환할 때 특정 문자열 앞의 문자\n- 요약: 왜 그런 일이 일어나는지 이해할 수 있습니다).SSIS 흐름은 문자 그대로 다음과 같습니다(AllQuotes_View) &gt; (데이터 변환) nvarchar에서 &quot;문자열 [DT_STR]&quot; 100 길이, 해당 열에 대한 코드 페이지(1252 ANSI - 라틴...\n- 링크: https://blog.naver.com/ryasdae9186/222869124916\n- 키워드: <위 문자열 그대로>"
+}

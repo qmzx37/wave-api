@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d4437970afdde738691c7f8c40cda313ae6b9332",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/recordshop_/222874679410",
+    "title": "파이썬(Python)_변수, 숫자형자료형, 문자열자료형(String)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "파이썬(Python)_변수, 숫자형자료형, 문자열자료형(String)\n- 요약: 변수선언방법 위 처럼 변수를 선언 할때는 &quot; = &quot; 기호를 사용한다 (assignment) &gt;&gt;&gt; 변수이름 = 변수에 저장할 값 &lt;자료형&gt; 숫자형 문자열 논리형 nome &lt;숫자형&gt; : 숫자형태로 이루어진 자료형...\n- 링크: https://blog.naver.com/recordshop_/222874679410\n- 키워드: <위 문자열 그대로>"
+}

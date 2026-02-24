@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3d9e481fc0e79f8a72c6069cff5b04178ed9fcec",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://deepdata.tistory.com/25",
+    "title": "문자열 필수 replace 활용",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "문자열 필수 replace 활용\n- 요약: 1478 → &quot;one4seveneight&quot; 234567 → &quot;23four5six7&quot; 10203 → &quot;1zerotwozero3&quot; 이렇게 숫자의 일부 자릿수가 영단어로 바뀌어졌거나 혹은 바뀌지 않고 그대로인 문자열 s가...\n- 링크: https://deepdata.tistory.com/25\n- 키워드: <위 문자열 그대로>"
+}

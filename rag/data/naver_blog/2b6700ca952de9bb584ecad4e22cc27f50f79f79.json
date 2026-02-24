@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2b6700ca952de9bb584ecad4e22cc27f50f79f79",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/shineetm0718/222504829599",
+    "title": "포인트 구조체, 데이터형, 문자열보간, 반복문 foreach",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "포인트 구조체, 데이터형, 문자열보간, 반복문 foreach\n- 요약: 라는 뜻이다 위 Point를 구조체로 선언했을 때의 결과값 위 Point를 클래스로 선언했을 때의 결과값 구조체로 값을 복사했을 때는, 값 형식을 참조했기 때문에 7이 그대로 남아있고...\n- 링크: https://blog.naver.com/shineetm0718/222504829599\n- 키워드: <위 문자열 그대로>"
+}

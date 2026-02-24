@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ee394ab97e8a02b65e7a4e9877c216335e048833",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/runner_252/224055618275",
+    "title": "자료형과 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "자료형과 문자열\n- 요약: hello에 있는 문자열 중 0,1 번째 문자열을 추출해 출력합니다. hello를 입력해 hello라는 저장 공간(변수)에 들어 있는 값을 출력합니다. “안녕하세요”가 그대로 있습니다. 슬라이싱이라는 처리를 해도 원본은...\n- 링크: https://blog.naver.com/runner_252/224055618275\n- 키워드: <위 문자열 그대로>"
+}

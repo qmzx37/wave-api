@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_02d6d0041bbc48c565679179bed2ae0eb13fe7d2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/morath496852/222663623893",
+    "title": "C 소스 코드에서 문자열 제거",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "C 소스 코드에서 문자열 제거\n- 요약: &quot;&quot;&quot;&quot; &quot;&quot;&quot;&quot;&quot;&quot;&quot; &quot;&quot; 본질적으로 우리는 문자열과 문자 리터럴 토큰을 찾은 다음 char 리터럴은 그대로 두고 문자열 리터럴은 제거합니다. char 리터럴 정규식은 문자열 리터럴 정규식과 매우 유사합니다. 루비...\n- 링크: https://blog.naver.com/morath496852/222663623893\n- 키워드: <위 문자열 그대로>"
+}

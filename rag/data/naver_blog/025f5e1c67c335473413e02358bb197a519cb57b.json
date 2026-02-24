@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_025f5e1c67c335473413e02358bb197a519cb57b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ljhwan1997/222670711868",
+    "title": "[CS50/C언어] 2-2. 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "[CS50/C언어] 2-2. 문자열\n- 요약: 문자열 그대로 answer에 할당된 값과는 무관하게 hello, answer이라고 출력될 것이기 때문이다. 대신 형식 지정자를 적어 이곳에 변수를 넣을 것임을 알려주면 된다. answer 변수를 사용하기 위해서는 위...\n- 링크: https://blog.naver.com/ljhwan1997/222670711868\n- 키워드: <위 문자열 그대로>"
+}

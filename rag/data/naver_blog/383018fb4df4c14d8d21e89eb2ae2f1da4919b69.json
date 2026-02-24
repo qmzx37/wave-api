@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_383018fb4df4c14d8d21e89eb2ae2f1da4919b69",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gracekam/223951549398",
+    "title": "문자열 위치 찾기 - INDEX",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "문자열 위치 찾기 - INDEX\n- 요약: INDEX는 문자열에서 특정 부분의 위치를 찾는 함수입니다. 예시를 통해 INDEX 활용 방법에... # 예시1 &gt; sashelp 라이브러리에 데이터셋을 그대로 복사해 test라는 새로운 데이터셋을 생성합니다....\n- 링크: https://blog.naver.com/gracekam/223951549398\n- 키워드: <위 문자열 그대로>"
+}

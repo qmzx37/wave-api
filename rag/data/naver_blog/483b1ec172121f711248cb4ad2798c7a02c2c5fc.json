@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_483b1ec172121f711248cb4ad2798c7a02c2c5fc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/4717010/60211897599",
+    "title": "C언어 - 문자열(string) 입출력 레퍼런스 : fputs...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:55",
+    "ok": true
+  },
+  "text": "C언어 - 문자열(string) 입출력 레퍼런스 : fputs...\n- 요약: 이건 2글자 입력 문자열에만 해당 되는 것이고 일반적으로는 str[strlen(str)-1]='\\0'으로 해주면 됨. 더 쉬운 다른 방법이 있는지 모르겟음.. 위 예에서 Input 처럼 &quot;I am a boy. You are a girl&quot; 같이...\n- 링크: https://blog.naver.com/4717010/60211897599\n- 키워드: <위 문자열 그대로>"
+}

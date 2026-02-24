@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_078feada2146c999e44677626adb4a5ee99f6ea8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://jhkang-tech.tistory.com/106",
+    "title": "[루비] 다양한 문자열 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "[루비] 다양한 문자열 함수\n- 요약: 문자 그대로 출력할 수 있다. 따옴표의 기능에서 백슬래시를 추가하면 Escaping을 하여 문자로 출력된다. 내 다음 시간에는 심화된 문자열 다루기를 공부해보겠습니다....\n- 링크: https://jhkang-tech.tistory.com/106\n- 키워드: <위 문자열 그대로>"
+}

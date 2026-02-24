@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_978231fd56d9ffa14ddc60365f8cc824501ae3ae",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/allbm/222593641485",
+    "title": "파이썬(Python) 정리 2 - 문자열 2",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "파이썬(Python) 정리 2 - 문자열 2\n- 요약: 내가 넣고 싶은 기호 앞에 \\를 넣어주면 그대로 표시 된다. 아래 코드 화면을 참조 해보자. 따옴표로 감싼 문자열 역슬래쉬(\\)로 표시한 화면 2. #이스케이프코드 (#EscapeCode) 이스케이프 코드란 #문자조합 을...\n- 링크: https://blog.naver.com/allbm/222593641485\n- 키워드: <위 문자열 그대로>"
+}

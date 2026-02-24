@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8c0d1581fb53032e6d3ff5372d539e186adfa041",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/balderschwang/224098701944",
+    "title": "[Python #3] 파이썬 기초 3 - if 조건문, 함수, 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "[Python #3] 파이썬 기초 3 - if 조건문, 함수, 문자열\n- 요약: &quot;&quot; &quot; &quot; &quot;&quot; 말 그대로 문자열의 덧셈이에요. 위 y에는 &quot;Hello World&quot;가 들어있습니다. 스트링에서는 곱셈도 정의됩니다. &quot;&quot; &quot;&quot; 스트링의 곱셈은 말 그대로 스트링을 저만큼 덧셈하라, 다시 말해 저만큼 스트링을...\n- 링크: https://blog.naver.com/balderschwang/224098701944\n- 키워드: <위 문자열 그대로>"
+}

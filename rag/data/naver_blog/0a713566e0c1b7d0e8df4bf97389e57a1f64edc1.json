@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0a713566e0c1b7d0e8df4bf97389e57a1f64edc1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://deliciouslearning.tistory.com/288",
+    "title": "044 vim 문자열 바꾸기에서 슬래쉬(/) 및 정규표현식 사용...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "044 vim 문자열 바꾸기에서 슬래쉬(/) 및 정규표현식 사용...\n- 요약: /home/ubuntu/document → /root/document 이를 기본 형식 그대로 :[범위]s/[바꿀 문자열]/[바뀐 문자열]/[바꾸기 옵션]으로 다음과 같이 명령하면 구분자인 슬래쉬(/)가 너무 많아 오류가 발생할 것이다. :%s...\n- 링크: https://deliciouslearning.tistory.com/288\n- 키워드: <위 문자열 그대로>"
+}

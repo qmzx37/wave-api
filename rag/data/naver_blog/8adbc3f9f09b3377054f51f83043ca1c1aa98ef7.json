@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8adbc3f9f09b3377054f51f83043ca1c1aa98ef7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dkrmdu/220198519579",
+    "title": "C언어 - 배열과 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "C언어 - 배열과 문자열\n- 요약: 배열은 저번 포스팅에서 알아봤죠 문자열이란 무엇일까요 ? 말 그대로 문자들로 구성된 열... C언어 - 배열과 문자열 위 소스를 참고하자면, 문자열은 &quot;C Lang&quot; 처럼 쌍따음표를 사용하는 것을 알 수 있습니다....\n- 링크: https://blog.naver.com/dkrmdu/220198519579\n- 키워드: <위 문자열 그대로>"
+}

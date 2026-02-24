@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5e13de2312cab77a8019f5714795418d469e7444",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://devpouch.tistory.com/187",
+    "title": "[linux] sed 명령어를 통한 파일 문자열 치환 예제",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:19",
+    "ok": true
+  },
+  "text": "[linux] sed 명령어를 통한 파일 문자열 치환 예제\n- 요약: sed는 stream editor 이름을 줄인 명령어로, 말그대로 스트림 편집기를 의미한다. 주로 문자열... 위 처럼 lim을 kim으로 변경했다. 하지만 Lim 처럼 대문자가 포함된 문자열은 치환되지...\n- 링크: https://devpouch.tistory.com/187\n- 키워드: <위 문자열 그대로>"
+}

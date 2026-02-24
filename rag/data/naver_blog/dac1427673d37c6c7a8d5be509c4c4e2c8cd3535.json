@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dac1427673d37c6c7a8d5be509c4c4e2c8cd3535",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://foco85.tistory.com/318",
+    "title": "[AI] ChatPromptTemplate.from_messages",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "[AI] ChatPromptTemplate.from_messages\n- 요약: (필수/옵셔널 변수 자동 추론 가능) python.langchain.com 📝 사용한 프롬프트 텍스트 system: SYSTEM 위 문자열 그대로 human: &quot;{input}&quot; 2) 대화 히스토리 포함 from langchain...\n- 링크: https://foco85.tistory.com/318\n- 키워드: <위 문자열 그대로>"
+}

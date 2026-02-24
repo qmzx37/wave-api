@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f9c1b8dedc3ba803317c951db7d9f278fb31a9bc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/vacso82238/222675464856",
+    "title": "Javascript의 두 문자열 간의 네트워크 효율성 차이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "Javascript의 두 문자열 간의 네트워크 효율성 차이\n- 요약: 문자열 비교는 문제가 아닙니다. 서버의 사본이 변경되지 않을 것이라는 것을 알고 있다고 가정하면... 이것은 분명히 귀하의 질문에 대한 액면 그대로의 답변이 아니지만, 텍스트 크기를 제한하기 위해...\n- 링크: https://blog.naver.com/vacso82238/222675464856\n- 키워드: <위 문자열 그대로>"
+}

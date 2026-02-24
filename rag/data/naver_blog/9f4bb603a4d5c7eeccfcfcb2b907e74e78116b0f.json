@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9f4bb603a4d5c7eeccfcfcb2b907e74e78116b0f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chocola_meilleure/222340546328",
+    "title": "[파이썬 기초]7. 문자열 포매팅",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "[파이썬 기초]7. 문자열 포매팅\n- 요약: 분리할 문자열.split(분리자) 분리자가 뭐냐구요?말 그대로! 문자열을 분리할 때 무엇을 기준으로 분리할 것인지를 정해주는 역할을 하는 것이 seperator(분리자)입니다. ,(콤마)를 기준으로 profile이라는 변수에...\n- 링크: https://blog.naver.com/chocola_meilleure/222340546328\n- 키워드: <위 문자열 그대로>"
+}

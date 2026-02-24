@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_658c6206ea2a22f89fab0c66a9e7b46fbd6e1dfa",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gsecurity/10093680152",
+    "title": "변수 &amp; 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:08",
+    "ok": true
+  },
+  "text": "변수 &amp; 문자열\n- 요약: ' '(싱글쿼터)안에 있는 escape문자는 그대로 문자열로 취급한다. 이게 무슨 말인가?? 아래 예제를 보면 된다. .(피리어드)를 사용하면 문자를 연결해 준다. ex) a.b=ab x사용 시 문자열을 지정한 만큼...\n- 링크: https://blog.naver.com/gsecurity/10093680152\n- 키워드: <위 문자열 그대로>"
+}

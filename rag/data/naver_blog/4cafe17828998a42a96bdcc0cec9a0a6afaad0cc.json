@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4cafe17828998a42a96bdcc0cec9a0a6afaad0cc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/wjy0502kr/224048068331",
+    "title": "[우테코] 1. 프리코스 1주차 - 문자열 계산기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "[우테코] 1. 프리코스 1주차 - 문자열 계산기\n- 요약: 관련 글을 찾다가 Pattern.quote라는 메서드를 사용하면 메타문자를 포함하는 문자열을 문자열 그대로 취급하도록 변환해준다는 걸 알게 되었다. 그래서 Pattern.quote를 적용한 customDelimiter로 문자열을...\n- 링크: https://blog.naver.com/wjy0502kr/224048068331\n- 키워드: <위 문자열 그대로>"
+}

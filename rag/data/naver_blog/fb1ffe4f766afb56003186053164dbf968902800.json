@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fb1ffe4f766afb56003186053164dbf968902800",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/reacheternity/222812090949",
+    "title": "[SDL2] 13. 키보드 문자열 입력(한글)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[SDL2] 13. 키보드 문자열 입력(한글)\n- 요약: SDL에서 유저가 직접 문자열을 키보드로 입력하도록 만들 수 있다. 구글이나 네이버의 포털... &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &amp; &quot; &quot; &quot; &quot; &gt; &amp; &amp; &amp; 다음 코드를 그대로 복사 붙혀넣기 한 후에 컴파일하면... 한글도...\n- 링크: https://blog.naver.com/reacheternity/222812090949\n- 키워드: <위 문자열 그대로>"
+}

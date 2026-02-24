@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6b8b0af9bf1cf3a6dac4f59f2e722e792a81dd4c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/thdtkandpf/223851134738",
+    "title": "#2 PHP 데이터 형( 정수, 실수, 문자열, 불리언, 배열, 객체, 널...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "#2 PHP 데이터 형( 정수, 실수, 문자열, 불리언, 배열, 객체, 널...\n- 요약: =&gt; &quot; &quot; 안에 있는 문자열을 화면에 출력하는 기능을 말한다. 스샷에는 안찍혀 있지만 &quot;&lt;br&gt;&quot;이란 것도... 11번째 줄은 말 그대로 $message (변수)에서 내장되어 있는 함수 say_hello()를 실행한 것이다. php번...\n- 링크: https://blog.naver.com/thdtkandpf/223851134738\n- 키워드: <위 문자열 그대로>"
+}

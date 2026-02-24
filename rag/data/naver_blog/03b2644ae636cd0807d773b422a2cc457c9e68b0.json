@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_03b2644ae636cd0807d773b422a2cc457c9e68b0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youseon97/223138414670",
+    "title": "Java 문자열 char 배열로 변환하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "Java 문자열 char 배열로 변환하기\n- 요약: 위와 같은 문자열을 작성해 준 후 해당 변수를 그대로 출력하는 소스를 작성했는데요. 실행을 하게 되면, 이처럼 출력이 되는 걸 확인하실 수 있습니다. 근데 여기서 해당 문자열을 char 타입으로 다...\n- 링크: https://blog.naver.com/youseon97/223138414670\n- 키워드: <위 문자열 그대로>"
+}

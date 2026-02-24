@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e58e28610ae4a2697470c626b3fecc250ecbf2d2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ssi02014/222505489481",
+    "title": "Do it 파이썬 문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "Do it 파이썬 문자열 자료형\n- 요약: - format 함수를 사용해 문자열 포매팅을 할 경우 { } 와 같은 중괄호(brace)문자를 포매팅 문자가 아닌 문자 그대로 사용하고 싶은 경우에는 위 예의 {{ }} 처럼 2개를 연속해서 사용한다. f 문자열 포매팅...\n- 링크: https://blog.naver.com/ssi02014/222505489481\n- 키워드: <위 문자열 그대로>"
+}

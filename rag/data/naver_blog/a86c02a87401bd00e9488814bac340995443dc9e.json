@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a86c02a87401bd00e9488814bac340995443dc9e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/comfae/221316383484",
+    "title": "[HMI] 버튼클릭으로 텍스트 문자열 변환시키려면???",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "[HMI] 버튼클릭으로 텍스트 문자열 변환시키려면???\n- 요약: ^^] 위 조건식에서 작성한 value는 HMI 변수에요. HMI 변수는 변수명 그대로 사용하고, HMI 문자열 변수는 변수명 앞에 $를 붙여 사용하고, HMI변수는 수치값을 취급한다고 하였습니다~!!! 따라서, 'value &amp; 0x01 이란...\n- 링크: https://blog.naver.com/comfae/221316383484\n- 키워드: <위 문자열 그대로>"
+}

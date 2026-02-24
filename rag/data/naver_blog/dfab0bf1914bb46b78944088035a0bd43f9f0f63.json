@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dfab0bf1914bb46b78944088035a0bd43f9f0f63",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kwonwjdqh8564/224147669513",
+    "title": "TypeScript 문자열 함수 Capitalize와 Uncapitalize...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "TypeScript 문자열 함수 Capitalize와 Uncapitalize...\n- 요약: 이 이름 그대로 'Capitalize'는 문자열의 맨 앞 글자를 대문자로 바꾸고 나머지 글자는 그대로... 위 예제처럼 'string' 타입으로만 받도록 하고, 반환값도 'string'으로 지정해서 타입 안정성을...\n- 링크: https://blog.naver.com/kwonwjdqh8564/224147669513\n- 키워드: <위 문자열 그대로>"
+}

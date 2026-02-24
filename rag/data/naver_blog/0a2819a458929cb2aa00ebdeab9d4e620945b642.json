@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0a2819a458929cb2aa00ebdeab9d4e620945b642",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/vect-r/222162411237",
+    "title": "scanf()로 공백을 포함한 문자열 받기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "scanf()로 공백을 포함한 문자열 받기\n- 요약: 서론 일반적으로 scanf, fscanf는 공백문자를 포함한 문자열을 '%s'를 통해서 받지 못한다. 만약 &quot;Hi, World&quot;를 '%s'로 받는다면, &quot;Hi,&quot; 가 받아지고, 중간의 공백문자는 삭제되며 World는 버퍼에 그대로 남는다....\n- 링크: https://blog.naver.com/vect-r/222162411237\n- 키워드: <위 문자열 그대로>"
+}

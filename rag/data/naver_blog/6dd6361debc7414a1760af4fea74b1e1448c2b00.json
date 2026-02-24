@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6dd6361debc7414a1760af4fea74b1e1448c2b00",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://makemethink.tistory.com/87",
+    "title": "[C언어] 입출력 함수-파일에 문자열 쓰기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:08",
+    "ok": true
+  },
+  "text": "[C언어] 입출력 함수-파일에 문자열 쓰기\n- 요약: cs fprintf와 달리, 서식 없이 문자열 그대로 파일에 쓰는 기능이다. 1 fputs( &quot;Hello, world!&quot; , stdout); cs stdout 사용 또한 가능하다. 3) fwrite 1 2 3 4 5 write(버퍼, 쓰기크기, 쓰기횟수...\n- 링크: https://makemethink.tistory.com/87\n- 키워드: <위 문자열 그대로>"
+}

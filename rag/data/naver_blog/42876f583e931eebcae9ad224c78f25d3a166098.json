@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_42876f583e931eebcae9ad224c78f25d3a166098",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/unreal_potato/223800927289",
+    "title": "Unreal C++ 문자열과 문자 - FString, TCHAR",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "Unreal C++ 문자열과 문자 - FString, TCHAR\n- 요약: 이 두 타입은 문자열을 담고 있는 그대로 사용해야 합니다. 변경을 원한다면 통째로 바꾸어야 되죠. 그에 비해 String 은 조작이 가능해 부분만 변경할 수 있습니다. 사용할 수 있는 기능이...\n- 링크: https://blog.naver.com/unreal_potato/223800927289\n- 키워드: <위 문자열 그대로>"
+}

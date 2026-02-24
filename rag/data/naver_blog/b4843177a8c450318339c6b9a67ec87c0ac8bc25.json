@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b4843177a8c450318339c6b9a67ec87c0ac8bc25",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dlawhdghdi/221305833854",
+    "title": "엑셀 문자열 구하기, Left, Right, Mid (+ If, Choose)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:29",
+    "ok": true
+  },
+  "text": "엑셀 문자열 구하기, Left, Right, Mid (+ If, Choose)\n- 요약: =Right(text,[num_chars]) =Right(문자열, 구할 문자수) 다만, Left는 &quot;왼쪽&quot; 에서 부터 구할 문자수, Right는 &quot;오른쪽&quot;에서 구할 문자수 라는것을 &quot;영어&quot; 그대로 생각하시면 됩니다. 위의 예제에서, 우리는 Right...\n- 링크: https://blog.naver.com/dlawhdghdi/221305833854\n- 키워드: <위 문자열 그대로>"
+}

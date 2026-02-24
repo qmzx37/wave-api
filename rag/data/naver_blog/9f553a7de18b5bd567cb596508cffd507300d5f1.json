@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9f553a7de18b5bd567cb596508cffd507300d5f1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/mylittlecactus/224051449126",
+    "title": "3일차_문자열과_리스트",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "3일차_문자열과_리스트\n- 요약: my_string[1:] → 'ello' 인덱스 1부터 끝까지 잘라낸 부분 문자열이고 &quot;h&quot; + my_string[1:] &quot;h&quot; + 'ello' → 'hello' 즉, 'H' 대신 'h'를 붙이고 나머지는 그대로 둔 거다. 그래서 new_string에는 'hello...\n- 링크: https://blog.naver.com/mylittlecactus/224051449126\n- 키워드: <위 문자열 그대로>"
+}

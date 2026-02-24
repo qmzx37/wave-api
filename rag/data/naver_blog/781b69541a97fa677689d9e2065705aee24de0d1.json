@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_781b69541a97fa677689d9e2065705aee24de0d1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cuorej/221661499416",
+    "title": "11.4 문자열을 입력받는 다양한 방법들(scanf, gets, fgets)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "11.4 문자열을 입력받는 다양한 방법들(scanf, gets, fgets)\n- 요약: 포인터를 그대로 반환해준다.( EOF를 만났던(파일을받는)경우 null character 받게된다!!) 6. Repeating short reading 5개의 메모리만 가진 small array로 긴 문자열을 받아보자 &quot; &quot; &amp;&amp; [output] 만약 fputs를...\n- 링크: https://blog.naver.com/cuorej/221661499416\n- 키워드: <위 문자열 그대로>"
+}

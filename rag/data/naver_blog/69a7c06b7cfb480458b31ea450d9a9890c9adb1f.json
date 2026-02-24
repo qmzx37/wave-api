@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_69a7c06b7cfb480458b31ea450d9a9890c9adb1f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/khcwang/224119205608",
+    "title": "모니터 출력”하기 (라인번호 + 문자열 치환까지)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "모니터 출력”하기 (라인번호 + 문자열 치환까지)\n- 요약: 줄에서 &quot;java&quot;라는 문자열을 &quot;자바&quot;로 바꿔서 출력 하는 흐름을 담고 있습니다. 1. 이 예제가... 대상은 그대로 두고, 읽기/쓰기 기능을 더 편하고 강력하게 만들어주는 덧씌우는 스트림”...\n- 링크: https://blog.naver.com/khcwang/224119205608\n- 키워드: <위 문자열 그대로>"
+}

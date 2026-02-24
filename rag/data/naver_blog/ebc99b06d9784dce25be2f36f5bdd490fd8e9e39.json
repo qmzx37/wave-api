@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_ebc99b06d9784dce25be2f36f5bdd490fd8e9e39",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ican_coding/224151172181",
+    "title": "[아두이노] 스마트폰으로 LED 켜고 끄기 (UART 통신 실습)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "[아두이노] 스마트폰으로 LED 켜고 끄기 (UART 통신 실습)\n- 요약: 문자열 명령 제어 방식 이해 이번 실습에서는 숫자나 바이너리 데이터가 아닌 사람이 읽을 수 있는 문자열(String) 을 그대로 사용합니다. 이 방식의 장점은 다음과 같습니다. 스마트폰에서...\n- 링크: https://blog.naver.com/ican_coding/224151172181\n- 키워드: <위 문자열 그대로>"
+}

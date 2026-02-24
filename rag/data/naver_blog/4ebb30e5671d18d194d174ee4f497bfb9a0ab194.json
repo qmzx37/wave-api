@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4ebb30e5671d18d194d174ee4f497bfb9a0ab194",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tipsware/221673784498",
+    "title": "[Q&amp;A] 문자열을 목록화하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "[Q&amp;A] 문자열을 목록화하기\n- 요약: &lt;&gt; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &lt; &quot; &quot; &lt;&gt; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &lt; &quot; &quot; 위 두 예제는 모두 아래와 같이 출력됩니다. 2. 답변 첫... 같이 문자열 상수의 주소를 그대로 목록화하는 것이 더 좋습니다. 이렇게 하면 문자열을 복사해서...\n- 링크: https://blog.naver.com/tipsware/221673784498\n- 키워드: <위 문자열 그대로>"
+}

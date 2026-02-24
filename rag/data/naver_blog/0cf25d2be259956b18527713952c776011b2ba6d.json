@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0cf25d2be259956b18527713952c776011b2ba6d",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/amdshin/223801442786",
+    "title": "C/C++ 기초 정리 (문자열(4))",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "C/C++ 기초 정리 (문자열(4))\n- 요약: 먼저 문자열을 이어붙이기 위한 함수 wcscat_s 함수를 선언하면 컴파일 에러가 먼저 보인다. 위 사진과... 여기서 인자값에 변수가 아닌 문자열을 그대로 넣는 것은 문제가 되지 않는다 왜냐하면 문자열을...\n- 링크: https://blog.naver.com/amdshin/223801442786\n- 키워드: <위 문자열 그대로>"
+}

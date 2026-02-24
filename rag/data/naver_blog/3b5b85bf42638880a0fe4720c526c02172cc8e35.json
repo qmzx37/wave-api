@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3b5b85bf42638880a0fe4720c526c02172cc8e35",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jhjy5369/221545079787",
+    "title": "&lt;part_2&gt;배열의 활용 (문자열 표현)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "&lt;part_2&gt;배열의 활용 (문자열 표현)\n- 요약: 문장을 문자열로 입력해보자 과연 입력한 자기소개 문장이 그대로 출력되는가? 문장을 입력했을 때 실행 결과 결론을 먼저 말하면 그렇지 않다 위 결과를 보고 알 수 있듯이 scanf 함수는...\n- 링크: https://blog.naver.com/jhjy5369/221545079787\n- 키워드: <위 문자열 그대로>"
+}

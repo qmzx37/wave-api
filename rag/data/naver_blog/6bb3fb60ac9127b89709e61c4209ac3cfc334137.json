@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_6bb3fb60ac9127b89709e61c4209ac3cfc334137",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ssery6507/222598807849",
+    "title": "[javascript] 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[javascript] 문자열\n- 요약: 따옴표를 문자열 만들 때 사용하는 것이 아니라 문자 그대로 사용하고 싶을 때는?! ▶ &quot; '' &quot; 혹은... 아무튼 문자열이므로 문제가 전혀 없다!! 위 코드의 실행 결과는 다음과 같다. 부끄럽지만 처음엔 헷갈려서...\n- 링크: https://blog.naver.com/ssery6507/222598807849\n- 키워드: <위 문자열 그대로>"
+}

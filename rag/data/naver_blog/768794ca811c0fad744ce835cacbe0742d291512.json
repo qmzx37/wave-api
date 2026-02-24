@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_768794ca811c0fad744ce835cacbe0742d291512",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ash1823/221906218669",
+    "title": "[C언어] 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "[C언어] 문자열\n- 요약: 위 코드를 찬찬히 읽다 보면 isalpha()라고 적힌 부분이 보일 것이다.( if(isalpha(c) ) isalpha() 또한... 형식 %s가 문자열 name을 출력하기 위해 사용되었다. &gt; 위의 예를 그대로 들어보자. Alice B. Carole을...\n- 링크: https://blog.naver.com/ash1823/221906218669\n- 키워드: <위 문자열 그대로>"
+}

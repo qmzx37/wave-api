@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cbd972dc18c372ec9cc064031e63598b5bfdd827",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nkj2001/222641493875",
+    "title": "파이썬 기초 강좌 - 8강#문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "파이썬 기초 강좌 - 8강#문자열 자료형\n- 요약: 문자열 자료형 문자열은 말그대로 글자의 모임이라고 보시면 됩니다. 보통 C++ 언어에서는 문자와... 위해서 문자열 포맷팅을 해야 합니다. &quot; &quot; &quot; &quot; &quot; &quot; int 형 변수 old 를 문자열로 표현하기 위해선 위 코드 처럼...\n- 링크: https://blog.naver.com/nkj2001/222641493875\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b637d1fde73159e1c7fd897edc4272fb07ee4225",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dominicm/221360991842",
+    "title": "문자열 자료형 1-2",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "문자열 자료형 1-2\n- 요약: 이는 다른 언어에서는 쉽게 찾아볼 수 없는 재미있는 기능으로, 우리의 생각을 그대로... 2) 문자열 곱하기 a = &quot;python&quot; a * 2 &gt;&gt;&gt; 'pythonpython' 위 소스 코드에서 *의 의미는 우리가 일반적으로...\n- 링크: https://blog.naver.com/dominicm/221360991842\n- 키워드: <위 문자열 그대로>"
+}

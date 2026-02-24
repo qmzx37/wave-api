@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_15a1d1b0c20e36129062f71f5a19b9619b885e12",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cafe_library/223006125491",
+    "title": "[자바스크립트 48강] 문자열입니다.(3)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "[자바스크립트 48강] 문자열입니다.(3)\n- 요약: 예문 : 위 예시에서 본바와 같이 부호가 있는 32비트 정수 n 중, ~n 을 0 으로 만드는 경우는 n... &quot;&quot;&quot;&quot; &quot;&quot;&quot;&quot; &quot;&quot; 메서드 str.startsWith 와 str.endsWith 는 메서드 이름 그대로 문자열 str 이 특정 문자열로...\n- 링크: https://blog.naver.com/cafe_library/223006125491\n- 키워드: <위 문자열 그대로>"
+}

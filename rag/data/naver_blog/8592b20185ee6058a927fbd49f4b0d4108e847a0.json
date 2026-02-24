@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8592b20185ee6058a927fbd49f4b0d4108e847a0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/openengmath/220367890085",
+    "title": "파이썬의 문자열 개요",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "파이썬의 문자열 개요\n- 요약: “He sais \\”How are you?\\””“Hi.\\nHello.”‘He\\’s finished.’ 단 문자열의 중간에 줄바꿈 기호 ‘\\n’이 들어가면 가독성이 떨어지므로 파이썬에서는 줄바꿈 기호를 타이핑하지 않고 그대로 입력할...\n- 링크: https://blog.naver.com/openengmath/220367890085\n- 키워드: <위 문자열 그대로>"
+}

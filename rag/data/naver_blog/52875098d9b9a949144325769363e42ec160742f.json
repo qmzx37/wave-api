@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_52875098d9b9a949144325769363e42ec160742f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://choidev-1.tistory.com/143",
+    "title": "[프로그래머스 Lv2] 문자열 압축",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[프로그래머스 Lv2] 문자열 압축\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로...\n- 링크: https://choidev-1.tistory.com/143\n- 키워드: <위 문자열 그대로>"
+}

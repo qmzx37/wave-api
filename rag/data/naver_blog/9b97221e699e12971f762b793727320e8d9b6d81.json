@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9b97221e699e12971f762b793727320e8d9b6d81",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/lhw970405/222258224564",
+    "title": "[BOJ] [7단계 : 문자열] [10809] 알파벳 찾기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "[BOJ] [7단계 : 문자열] [10809] 알파벳 찾기\n- 요약: - 즉, 결과적으로 알파벳 문자열은 입력받은 문자열에 해당 알파벳이 존재할 경우, 처음 나온 위치로 값이 바뀌고 나머지는 알파벳 문자 그대로이다.(예제 입력의 경우 abcdefghijklmnopqrstuvwxyz에서...\n- 링크: https://blog.naver.com/lhw970405/222258224564\n- 키워드: <위 문자열 그대로>"
+}

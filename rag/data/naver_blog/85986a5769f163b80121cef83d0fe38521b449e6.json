@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_85986a5769f163b80121cef83d0fe38521b449e6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/statp_r/222235689299",
+    "title": "[Notepad++] 문자열 특정 패턴 부분 치환(정규표현식 응용)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "[Notepad++] 문자열 특정 패턴 부분 치환(정규표현식 응용)\n- 요약: 정규표현식 문자열 치환 중 부분 일치부상환에 대해서 끄적여볼까 합니다:) 보통 'A'를 'B'로 치환하는 방식을 많이 사용하지만, 'A.abc'를 'A.def'로 일정 문자열을 그대로 두되 부분 문자열만 치환이 필요할 때도...\n- 링크: https://blog.naver.com/statp_r/222235689299\n- 키워드: <위 문자열 그대로>"
+}

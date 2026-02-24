@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d976b310260099b36cb13263a8ac726d9632e3d9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://romantech.tistory.com/1230",
+    "title": "[JS] 문장, 단어, 자소별로 문자열 분리하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[JS] 문장, 단어, 자소별로 문자열 분리하기\n- 요약: 활용하면 위 같은 문제를 말끔하게 해결할 수 있다. Intl.Segmenter Intl.Segmenter... 유니코드 문자열이 아닌 시각적 이모지를 그대로 표시하고 싶다면 Intl.Segmenter 메서드를...\n- 링크: https://romantech.tistory.com/1230\n- 키워드: <위 문자열 그대로>"
+}

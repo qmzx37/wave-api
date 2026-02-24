@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_dbcdc28fc3a909a14abb8c356107966b5fe442c6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/easyygoinigirl/223746596867",
+    "title": "모두의 코드 C언어 15-2강 문자열 2차복습",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:13",
+    "ok": true
+  },
+  "text": "모두의 코드 C언어 15-2강 문자열 2차복습\n- 요약: 버퍼에는 hellomysocks\\n문자가 하나도 안 읽히고 그대로 있고, 두번재 scanf함수부터는 버퍼안에 의미있는 값들이 존재해서 사용자 입력처리를 받지 않고, hellomysocks를 읽어와서 str_b 문자열 안에...\n- 링크: https://blog.naver.com/easyygoinigirl/223746596867\n- 키워드: <위 문자열 그대로>"
+}

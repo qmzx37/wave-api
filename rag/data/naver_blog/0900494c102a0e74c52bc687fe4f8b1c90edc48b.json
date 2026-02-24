@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0900494c102a0e74c52bc687fe4f8b1c90edc48b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kjca4599/221378628782",
+    "title": "문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "문자열\n- 요약: return 0; } 자 %s는 스트링의 약자로써 스트링자료형은 없으나 문자열을 출력할때는 사용하므로 %s를 해주게되면 입력받은 문자를 그대로 출력하게 됩니다. 이번에는 문자열을 다루는...\n- 링크: https://blog.naver.com/kjca4599/221378628782\n- 키워드: <위 문자열 그대로>"
+}

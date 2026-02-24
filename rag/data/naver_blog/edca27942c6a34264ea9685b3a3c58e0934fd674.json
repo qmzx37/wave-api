@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_edca27942c6a34264ea9685b3a3c58e0934fd674",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nataemin117/223353718119",
+    "title": "C (문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:18",
+    "ok": true
+  },
+  "text": "C (문자열)\n- 요약: 대입했던 그대로 apple과 melon이 나온다. strcpy를 사용하면 copyText의 melon이 사라지고 apple이 복사되어 출력된 것을 확인할 수 있다. strcat_s strcat : string + concatenate(연결) 문자열 두 개를 연결하는...\n- 링크: https://blog.naver.com/nataemin117/223353718119\n- 키워드: <위 문자열 그대로>"
+}

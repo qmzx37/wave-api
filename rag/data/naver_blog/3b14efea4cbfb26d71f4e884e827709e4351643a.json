@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3b14efea4cbfb26d71f4e884e827709e4351643a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ohchangjun_1/223428608860",
+    "title": "cs50x 파이썬(c와 다른 점, f 문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:17",
+    "ok": true
+  },
+  "text": "cs50x 파이썬(c와 다른 점, f 문자열)\n- 요약: f를 치지 않으면 이렇게 그대로 나온다. 즉 f의 역할은 컴파일러에게 이 문자열은 f-string이고 따라서 { } 안에 있는 것을 그 변수의 값이나 표현식의 결과로 대체하라는 것을 지시한다.\n- 링크: https://blog.naver.com/ohchangjun_1/223428608860\n- 키워드: <위 문자열 그대로>"
+}

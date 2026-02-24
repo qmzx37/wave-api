@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d651e2b9585f4646d692710415055653cad21b4a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/p_yubi/222152207717",
+    "title": "C# 문자열 자르기 Split (char, 단어 단위)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:24",
+    "ok": true
+  },
+  "text": "C# 문자열 자르기 Split (char, 단어 단위)\n- 요약: 말 그대로 ,(쉼표) 단위로 문자열을 잘라서 result라는 배열에 넣어줍니다. result[0] == &quot;자주 찾고&quot; result[1] == &quot;까먹는 그런 이야기&quot; 이렇게 ,(쉼표) 단위로 잘라서 배열에 순서대로 들어갑니다. 그런데, Split...\n- 링크: https://blog.naver.com/p_yubi/222152207717\n- 키워드: <위 문자열 그대로>"
+}

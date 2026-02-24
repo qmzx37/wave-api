@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1b63a00ec017deb20e78f09a772cd154fe646ed7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/blayan/220533519113",
+    "title": "문자열 관련 클래스(2)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:36",
+    "ok": true
+  },
+  "text": "문자열 관련 클래스(2)\n- 요약: 다른 문자열을 입력해야지만 변경이 가능하다. 하지만, StringBulilder와 StringBuffer의 경우 특정 메소드로 인해 변경된 결과가 해당 참조변수에 그대로 저장되는 것을 볼 수...\n- 링크: https://blog.naver.com/blayan/220533519113\n- 키워드: <위 문자열 그대로>"
+}

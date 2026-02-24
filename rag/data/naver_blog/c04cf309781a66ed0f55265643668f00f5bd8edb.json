@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c04cf309781a66ed0f55265643668f00f5bd8edb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://nossodia.tistory.com/114",
+    "title": "데이터타입-문자열과 숫자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "데이터타입-문자열과 숫자\n- 요약: 숫자(Number) 숫자(Number) 데이터의 경우 숫자를 입력하면 숫자 그대로 인식되며 연산작업도... trim() : 공백을 없애고 출력 위 예제의 경우 숫자와 문자열의 데이터타입별로 완전히 다른...\n- 링크: https://nossodia.tistory.com/114\n- 키워드: <위 문자열 그대로>"
+}

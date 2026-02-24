@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fca46b5d0dae37d76bf1e8225ae870b15c5db4c8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ruvendix/220953553497",
+    "title": "C++언어 정리하기 - 문자열 클래스 string",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "C++언어 정리하기 - 문자열 클래스 string\n- 요약: 이번 포스팅에서는 문자열 클래스인 string을 알아볼 거예요. 저번 포스팅과는 다르게... basic_string의 템플릿 인자를 건드릴 일은 거의 없을 테니까 그냥 그대로 두시면...\n- 링크: https://blog.naver.com/ruvendix/220953553497\n- 키워드: <위 문자열 그대로>"
+}

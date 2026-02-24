@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c7b78bbab1cbdbebecf2efc71dba3be64ecc1fb1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hackingteach/152218743",
+    "title": "C언어 printf 함수가 지니는 문자열 구성",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "C언어 printf 함수가 지니는 문자열 구성\n- 요약: 문자열을 차례대로 출력해 나가다가 %d를 만나면 %d를 그대로 출력하는 것이 아닌, 다른 곳에 표현되어 있는 데이터를 부호 있는 10진수 정수의 형태로 출력하는 겁니다. [서식문자 %d에 대한 예제] 위...\n- 링크: https://blog.naver.com/hackingteach/152218743\n- 키워드: <위 문자열 그대로>"
+}

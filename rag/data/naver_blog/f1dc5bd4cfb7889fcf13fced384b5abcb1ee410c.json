@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f1dc5bd4cfb7889fcf13fced384b5abcb1ee410c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sopheruge/223190504881",
+    "title": "[구름톤 챌린지] 6일차 - 6. 문자열 나누기 (python3)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "[구름톤 챌린지] 6일차 - 6. 문자열 나누기 (python3)\n- 요약: 문자열 S를 위 조건에 따라 나눴을 때, 등장하는 모든 부분문자열을 중복 제거하고 사전순으로... 줄에 문자열 S가 주어지므로 문자열 그대로 입력받았다. 문자열을 3등분 한다는 뜻은, 입력받은 문자열...\n- 링크: https://blog.naver.com/sopheruge/223190504881\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_67788a9ec47e59e1c7cb9f67871dc250a18d5527",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/zxwnstn/221524103914",
+    "title": "78. AAA를 이용한 문자열 더하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "78. AAA를 이용한 문자열 더하기\n- 요약: REPNE SCAS BYTE PTR ES:[EDI] //SCAS로 문자열 끝 찾기 SUB EDI, 2 //마찬가지로 2빼주기 두번째 문자열의 주소는 EDI 그대로 사용할것이기 때문에 피신시키거나 다른 조치를 취하지 않는다. 2. STEP2...\n- 링크: https://blog.naver.com/zxwnstn/221524103914\n- 키워드: <위 문자열 그대로>"
+}

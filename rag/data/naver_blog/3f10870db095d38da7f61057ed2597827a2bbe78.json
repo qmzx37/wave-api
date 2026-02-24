@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3f10870db095d38da7f61057ed2597827a2bbe78",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/koreanraichu/223130142274",
+    "title": "백준 2745번 풀이",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "백준 2745번 풀이\n- 요약: 다음 위 그림처럼 쓰면 된다. 10진수 이상일 경우 나머지가 10 이상일 때도 있는데 그건 알파벳... 문자열 그대로 계산하면 컴퓨터가 미쳤습니까 휴먼? 한다. 그런데 숫자가 아닌 알파벳을 int로...\n- 링크: https://blog.naver.com/koreanraichu/223130142274\n- 키워드: <위 문자열 그대로>"
+}

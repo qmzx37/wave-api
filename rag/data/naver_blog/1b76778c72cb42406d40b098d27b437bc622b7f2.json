@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1b76778c72cb42406d40b098d27b437bc622b7f2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://lottogame.tistory.com/3115",
+    "title": "문자열에서 임의의 네이티브 명령을 어떻게 실행합니까?",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "문자열에서 임의의 네이티브 명령을 어떻게 실행합니까?\n- 요약: iex $command exe가 따옴표 안에 있기 때문에 예제 # 1과 같은 일부 문자열은 그대로 실행되지 않습니다. 문자열의 내용이 Powershell 명령 프롬프트에서 바로 실행하는 방식이기...\n- 링크: https://lottogame.tistory.com/3115\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a8b46f59b7704e7c5d10939a638ab7e0f5b19e3c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://hydroponicglass.tistory.com/181",
+    "title": "[C, C++] 포인터 문자열의 수정이 안되는 이유(포인터, 배열)...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[C, C++] 포인터 문자열의 수정이 안되는 이유(포인터, 배열)...\n- 요약: 문자열을 포인터로 선언했다. 그리고 위와 마찬가지로 첫글자를 k로 바꿔서 출력했더니 printf문을 실행하지 않았다. 컴파일러에 따라 에러를 출력하거나 &quot;code&quot;를 그대로...\n- 링크: https://hydroponicglass.tistory.com/181\n- 키워드: <위 문자열 그대로>"
+}

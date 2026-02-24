@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_85f5fe388292c3a83ed410bb8baca8bc7c822854",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/letsreadbook27/223711950419",
+    "title": "C++ string 클래스를 공부하자 (문자열 insert, append)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "C++ string 클래스를 공부하자 (문자열 insert, append)\n- 요약: &lt;&lt; 문자열 str의 첫 번째 요소를 출력하는 코드이다. 첫 번째 요소는 'H' 이므로 그대로 출력되었다. 여기서 'H'는 char형 데이터이다. 그러므로 string은 char형 데이터의 집합이라고 볼 수 있는데...\n- 링크: https://blog.naver.com/letsreadbook27/223711950419\n- 키워드: <위 문자열 그대로>"
+}

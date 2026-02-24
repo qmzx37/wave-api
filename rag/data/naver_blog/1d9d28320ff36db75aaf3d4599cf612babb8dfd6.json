@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1d9d28320ff36db75aaf3d4599cf612babb8dfd6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tteongi/220645006028",
+    "title": "[php] str_replace 함수 이용하여 문자열 치환하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "[php] str_replace 함수 이용하여 문자열 치환하기\n- 요약: 치환한 문자열이나 배열을 반환합니다. 글로보면 괜찮은데 소리내어 읽어보면 앙선생님... ㅎㅎ 위의 말그대로 검색할단어 또는 문장, 치환할단어 또는 문장, 원문 원문에서...\n- 링크: https://blog.naver.com/tteongi/220645006028\n- 키워드: <위 문자열 그대로>"
+}

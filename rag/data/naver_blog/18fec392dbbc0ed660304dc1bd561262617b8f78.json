@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_18fec392dbbc0ed660304dc1bd561262617b8f78",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/21ccad/224004062395",
+    "title": "예제로 배우는 파이썬 시퀀스 자료형(리스트, 문자열, range)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "예제로 배우는 파이썬 시퀀스 자료형(리스트, 문자열, range)\n- 요약: 뜻 그대로 순서가 있는 자료형을 말합니다 예제로 배우는 파이썬 시퀀스 자료형 쉽게 이해할 수... 있어요 &quot;&quot; 위 코드에서 &quot;ABC&quot;는 문자열 시퀀스 자료형이에요 내부적으로 'A', 'B', 'C' 라는 세 개의 문자...\n- 링크: https://blog.naver.com/21ccad/224004062395\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9a96472cfb9a695ac1c7011305e7c4041ec91257",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/himini80/110001262641",
+    "title": "02~03. 문자열 포맷팅",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:05",
+    "ok": true
+  },
+  "text": "02~03. 문자열 포맷팅\n- 요약: snprintf sprintf의 길이 안전성에 대한 보완책으로 나온 snprintf 장점 sprintf의 장점 그대로 수용 길이 안전성이 있다.(함수 사용시 문자열 최대 길이를 인자로 넘김) 단점 형식 안전성이 없다(%d...\n- 링크: https://blog.naver.com/himini80/110001262641\n- 키워드: <위 문자열 그대로>"
+}

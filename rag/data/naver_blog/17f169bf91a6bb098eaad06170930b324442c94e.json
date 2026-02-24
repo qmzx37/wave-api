@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_17f169bf91a6bb098eaad06170930b324442c94e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/higher1307/222879545363",
+    "title": "[Spring Mybatis] 문자열로 날짜 비교하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "[Spring Mybatis] 문자열로 날짜 비교하기\n- 요약: 쿼리문에 해당 문자열 그대로 비교해도 비교가 되는것이었다! ex) 입력받은 날짜 String fromDate = &quot;2022-09-19&quot; String toDate = &quot;2022-09-20&quot; *쿼리문* SELECT * FROM 테이블명 WHERE 조건 &lt;if test=&quot;fromDate...\n- 링크: https://blog.naver.com/higher1307/222879545363\n- 키워드: <위 문자열 그대로>"
+}

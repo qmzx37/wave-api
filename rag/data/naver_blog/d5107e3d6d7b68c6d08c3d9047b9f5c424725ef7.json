@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d5107e3d6d7b68c6d08c3d9047b9f5c424725ef7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/smbo112/221503983295",
+    "title": "&lt;string.h&gt;문자열을 다루는 함수들 (strlen, strcpy...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "&lt;string.h&gt;문자열을 다루는 함수들 (strlen, strcpy...\n- 요약: h&gt; 형태 고정, 필수 strcpy 문자열을 복사할 때 사용 문자열 변수가 2개 있을 때 하나의 문자열의 내용을 그대로 다른 문자열에 복사한다. strcpy(aa1,aa2) aa2를 aa1에 복사 strlen null 을 제외한 문자열...\n- 링크: https://blog.naver.com/smbo112/221503983295\n- 키워드: <위 문자열 그대로>"
+}

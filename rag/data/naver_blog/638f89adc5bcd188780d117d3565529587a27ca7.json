@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_638f89adc5bcd188780d117d3565529587a27ca7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://karuru1007.tistory.com/52",
+    "title": "[ Basic ] 파이썬 문자열(Python String Data Type)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:33",
+    "ok": true
+  },
+  "text": "[ Basic ] 파이썬 문자열(Python String Data Type)\n- 요약: 위 코드를 실행하면 아래와 같이 SyntaxError가 발생합니다. 길이가 긴 문자열을 입력할 때에는... 세개의 큰따옴표(또는 세개의 작은따옴표)를 사용하면 입력한 그대로 출력이 됩니다. str1...\n- 링크: https://karuru1007.tistory.com/52\n- 키워드: <위 문자열 그대로>"
+}

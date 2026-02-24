@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_14b713e10d9e435fa9c5971e7546120eb61f38c7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/novanoid2172/222660515005",
+    "title": "C#의 여러 줄 문자열 리터럴",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:04",
+    "ok": true
+  },
+  "text": "C#의 여러 줄 문자열 리터럴\n- 요약: string 앞에 @ 기호를 사용하여 그대로 문자열 리터럴 을 형성할 수 있습니다. &quot; &quot; 또한 Jon Skeet의 답변에 표시된 것처럼 큰따옴표를 제외하고 이 방법을 사용할 때 특수 문자를 이스케이프할 필요가 없습니다 . C...\n- 링크: https://blog.naver.com/novanoid2172/222660515005\n- 키워드: <위 문자열 그대로>"
+}

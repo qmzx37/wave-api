@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_9c6900f97a824015984aead167f58cd122138629",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/aqua_3/40181555276",
+    "title": "문자열 관련함수(1) (중복)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:23",
+    "ok": true
+  },
+  "text": "문자열 관련함수(1) (중복)\n- 요약: 위 사진은 개수 n개만큼 채우기 전에 NULL을 만나 채우기를 중지하고 NULL값을 리턴함 char... 나머지 문자열이 그대로 출력되는 것 이다.) 만약 같은 문자가 2개 이상 있다면 가장...\n- 링크: https://blog.naver.com/aqua_3/40181555276\n- 키워드: <위 문자열 그대로>"
+}

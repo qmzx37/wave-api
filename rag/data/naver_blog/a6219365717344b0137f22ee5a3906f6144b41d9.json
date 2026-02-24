@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a6219365717344b0137f22ee5a3906f6144b41d9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/1914zmxn/222482487747",
+    "title": "[python] 문자열처리함수 (8월 27일 수정)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:35",
+    "ok": true
+  },
+  "text": "[python] 문자열처리함수 (8월 27일 수정)\n- 요약: islower / isupper &quot; &quot; isupper 와 islower 는 말 그대로 이 값이 대문자인지 소문자인지 True 와 False 의 값으로 알려주는 함수이다. 예를들어 위 예시에서 python[0] == &quot;P&quot; 이므로 각각 위에서부터 True , False...\n- 링크: https://blog.naver.com/1914zmxn/222482487747\n- 키워드: <위 문자열 그대로>"
+}

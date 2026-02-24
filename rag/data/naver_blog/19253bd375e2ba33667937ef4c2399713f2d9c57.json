@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_19253bd375e2ba33667937ef4c2399713f2d9c57",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/gi_balja/221123375586",
+    "title": "6. 자바스크립트 : String (문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:22",
+    "ok": true
+  },
+  "text": "6. 자바스크립트 : String (문자열)\n- 요약: ( 문자열 ) 의 length ( 길이 ) 는 어떻게 알 수 있을까? String 길이는 단어 그대로 length 라는... 위 코드의 length 는 띄어쓰기를 포함해서 11이 출력됩니다. 변수 안의 데이터 타입을 문자열로...\n- 링크: https://blog.naver.com/gi_balja/221123375586\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bc29e06eb55ccf399b0601f901ebdb37c8fe9cd6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://mine-it-record.tistory.com/483",
+    "title": "[JavaScript] str.(trim/trimStart/trimEnd) - 문자열의 앞뒤...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "[JavaScript] str.(trim/trimStart/trimEnd) - 문자열의 앞뒤...\n- 요약: // 'trim test' 위에서 그대로 설명한 것 처럼 trim()메서드는 문자열의 앞뒤 공백을 제거해준다. (앞뒤 공백이 없다고 하여도 에러가 발생하지는 않는다.) 여기서...\n- 링크: https://mine-it-record.tistory.com/483\n- 키워드: <위 문자열 그대로>"
+}

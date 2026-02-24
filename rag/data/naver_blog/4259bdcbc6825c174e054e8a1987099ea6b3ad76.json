@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4259bdcbc6825c174e054e8a1987099ea6b3ad76",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/jihoon0729/222739820512",
+    "title": "Programmers / 문자열 / 문자열 압축 (level2, python3)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "Programmers / 문자열 / 문자열 압축 (level2, python3)\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 제한: 제한사항 입출력: 입출력 예시 해설: 일단 문자열을 자르긴 할 건데 하나씩 자르는 것부터 최대 언제까지 자를 수...\n- 링크: https://blog.naver.com/jihoon0729/222739820512\n- 키워드: <위 문자열 그대로>"
+}

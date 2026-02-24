@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2600b7735d04feeac16c9a28e4d56131330953e2",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/13_11_16a/224105832070",
+    "title": "파이썬 형변환(Type Conversion/Casting) 방법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "파이썬 형변환(Type Conversion/Casting) 방법\n- 요약: 역시, 위에서 봤던 방식이 그대로 들어온다. 다만, 세트(set)효과가 발동해 중복된 값인 2가... 예를 들어서, 문자열이라 하더라도 비어있다면 False. 리스트라 하더라도 비어있으면 False이다. 즉, 어떤...\n- 링크: https://blog.naver.com/13_11_16a/224105832070\n- 키워드: <위 문자열 그대로>"
+}

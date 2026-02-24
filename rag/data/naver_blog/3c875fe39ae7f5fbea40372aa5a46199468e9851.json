@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3c875fe39ae7f5fbea40372aa5a46199468e9851",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://0urtrees.tistory.com/95",
+    "title": "swift 문자열 처리 메서드, split과 components 간단 비교",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "swift 문자열 처리 메서드, split과 components 간단 비교\n- 요약: split은 말 그대로 문자열을 특정 문자 기준으로 쪼갤 수 있습니다. 반환형은 String타입을 [Substring]으로 반환하게 됩니다. 배열을 반환받게 되는 것이죠. split은 또한 swift 표준...\n- 링크: https://0urtrees.tistory.com/95\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_1b64517c522e3027d0774b168bd156920f79ca92",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/flowerofmay0114/223987783486",
+    "title": "[백준 알고리즘 문자열][11718][C언어] 그대로 출력하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "[백준 알고리즘 문자열][11718][C언어] 그대로 출력하기\n- 요약: https://www.acmicpc.net/problem/11718 입력된 문자열 그대로 출력하기 이번 문제는 문자열을 입력받아, 입력된 그대로 출력하는 문제입니다. 각 줄은 100글자를 넘지 않으며, 알파벳 소문자, 대문자, 숫자...\n- 링크: https://blog.naver.com/flowerofmay0114/223987783486\n- 키워드: <위 문자열 그대로>"
+}

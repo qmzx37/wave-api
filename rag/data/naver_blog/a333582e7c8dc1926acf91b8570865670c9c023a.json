@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a333582e7c8dc1926acf91b8570865670c9c023a",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/speedprinse/221352074176",
+    "title": "[Processing] 텍스트 파일에 한글 문자열 검색하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:56",
+    "ok": true
+  },
+  "text": "[Processing] 텍스트 파일에 한글 문자열 검색하기\n- 요약: 위 포스팅 내용에서 한글 문자열을 텍스트파일(.txt)에 추가하는것은 아무런... 한글 문자열을 못읽어온다는것... 이것때문에 하루 밤을 그대로 투자했다. 내스스로...\n- 링크: https://blog.naver.com/speedprinse/221352074176\n- 키워드: <위 문자열 그대로>"
+}

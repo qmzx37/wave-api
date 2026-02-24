@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0ba7e837bd789581938c1281f86b4d9c403931b1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pistachio_-/222960384299",
+    "title": "[Java] 코테용 자바 문자열 정리",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "[Java] 코테용 자바 문자열 정리\n- 요약: 글 문자열 다루기 , array와 List 그리고 다른 자료구조들, Stream과 람다식 정도인 것 같다.. 더... charAt(idx) : 말 그대로 idx에 위치한 char을 가져온다. char 형태로 가져오기 때문에 String처럼...\n- 링크: https://blog.naver.com/pistachio_-/222960384299\n- 키워드: <위 문자열 그대로>"
+}

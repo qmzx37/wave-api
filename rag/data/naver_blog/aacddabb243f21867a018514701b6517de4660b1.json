@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_aacddabb243f21867a018514701b6517de4660b1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/rlaeogh9311/220932509126",
+    "title": "#문자열 입출력 함수",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "#문자열 입출력 함수\n- 요약: 코드를 그대로 따라해본것이다. 코드를 쓰다가 기본적으로 든 생각이, gets함수는 scanf와 그성격이... 어려운데, 위 코드를 보면 쉽게 이해가 될것 같다. 별로 쓰이진 않는 함수일듯. 이상 문자열 입출력과...\n- 링크: https://blog.naver.com/rlaeogh9311/220932509126\n- 키워드: <위 문자열 그대로>"
+}

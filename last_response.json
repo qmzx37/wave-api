@@ -1,0 +1,131 @@
+﻿{
+    "ok":  true,
+    "axes":  {
+                 "F":  0.05,
+                 "A":  0.0,
+                 "D":  0.0,
+                 "J":  0.2,
+                 "C":  0.15,
+                 "G":  0.05,
+                 "T":  0.1,
+                 "R":  0.7
+             },
+    "wave":  {
+                 "n":  10,
+                 "dominant":  "J",
+                 "dominant_name":  "ê¸°ì¨",
+                 "trend":  "flat",
+                 "drift":  0.09472222222222221,
+                 "pace":  "low",
+                 "delta":  {
+                               "F":  0.05,
+                               "A":  0.0,
+                               "D":  0.0,
+                               "J":  0.0,
+                               "C":  -0.7,
+                               "G":  0.0,
+                               "T":  0.0,
+                               "R":  0.35
+                           },
+                 "loop":  {
+                              "score":  0.955000002682209
+                          },
+                 "topic":  "general",
+                 "feats14":  {
+                                 "dom_axis":  "R",
+                                 "dom_value":  0.699999988079071,
+                                 "dom_delta":  0.0,
+                                 "trend_sign":  0.0,
+                                 "rt_gap":  0.5999999642372131,
+                                 "drift":  0.01875000074505806,
+                                 "loop_score":  0.955000002682209
+                             },
+                 "rag":  [
+                             {
+                                 "url":  "https://n.news.naver.com/mnews/article/079/0004107326",
+                                 "score":  0.3042522072792053
+                             },
+                             {
+                                 "url":  "",
+                                 "score":  0.2562443017959595
+                             },
+                             {
+                                 "url":  "https://n.news.naver.com/mnews/ranking/article/656/0000163820",
+                                 "score":  0.22292497754096985
+                             },
+                             {
+                                 "url":  "https://n.news.naver.com/mnews/ranking/article/640/0000083332",
+                                 "score":  0.21973854303359985
+                             }
+                         ]
+             },
+    "action_id":  9,
+    "goal":  "AMPLIFY",
+    "style":  "NORMAL",
+    "reply":  "ì¤ ì¢ìë°? (ëµë³ì \u0027êµ¬ì²´ì  í ë¬¸ì¥ ê·¼ê±°â¦)\nì¢ì. ì§ê¸ ë¡ê¸°ë ê±° 1ê°ë§ ê³¨ë¼ë´.",
+    "debug":  {
+                  "attempt":  0,
+                  "safe":  "{\"F\": 0.05, \"A\": 0.0, \"D\": 0.0, \"J\": 0.2, \"C\": 0.15, \"G\": 0.05, \"T\": 0.1, \"R\": 0.7}",
+                  "rl":  {
+                             "rl_ready":  true,
+                             "used_ppo":  true,
+                             "error":  null,
+                             "mode":  "compute_single_action(explore=True)",
+                             "obs14_shape":  [
+                                                 14
+                                             ],
+                             "eps_greedy":  0.25,
+                             "temperature":  1.6,
+                             "sample_from_logits":  true,
+                             "force_rlmodule":  false,
+                             "anti_collapse":  true,
+                             "anti_k":  6,
+                             "anti_eps":  0.6,
+                             "rlmodule_error":  "AttributeError(\"\u0027RolloutWorker\u0027 object has no attribute \u0027module\u0027\")",
+                             "action_pair":  {
+                                                 "goal":  "AMPLIFY",
+                                                 "style":  "NORMAL"
+                                             },
+                             "action_id":  9
+                         },
+                  "rag":  {
+                              "rag_on":  true,
+                              "index_ready":  true,
+                              "store_dir":  "C:\\llm\\train\\wave\\rag\\store\\amplify",
+                              "store_name":  "amplify",
+                              "index_path":  "C:\\llm\\train\\wave\\rag\\store\\amplify\\index.faiss",
+                              "meta_path":  "C:\\llm\\train\\wave\\rag\\store\\amplify\\meta.jsonl",
+                              "used":  true,
+                              "k":  4,
+                              "hits":  [
+                                           {
+                                               "url":  "https://n.news.naver.com/mnews/article/079/0004107326",
+                                               "source":  "naver_news",
+                                               "title":  "ì¥ëí ì°¾ì ì´ì¤ìâ¦ê³µë ë¨ìì \"ê²í  ì¤\" ì¦ëµ í¼í´",
+                                               "score":  0.3042522072792053
+                                           },
+                                           {
+                                               "url":  "",
+                                               "source":  "manual",
+                                               "title":  "amplify_prompts.md",
+                                               "score":  0.2562443017959595
+                                           },
+                                           {
+                                               "url":  "https://n.news.naver.com/mnews/ranking/article/656/0000163820",
+                                               "source":  "naver_news",
+                                               "title":  "ì¥ëí \"1ë¶ 1ì´ë¼ë êµ­ë¯¼ê» ë í¸ìâ¦ì°ë¬ì§ ëê¹ì§ ë¨ì\"",
+                                               "score":  0.22292497754096985
+                                           },
+                                           {
+                                               "url":  "https://n.news.naver.com/mnews/ranking/article/640/0000083332",
+                                               "source":  "naver_news",
+                                               "title":  "Foreigners caught in crossfire as bill aims to unmask user nationalities on online platforms",
+                                               "score":  0.21973854303359985
+                                           }
+                                       ],
+                              "ctx_len":  1170,
+                              "ctx_preview":  "ëë ìë ê·¼ê±°ë¥¼ ì°¸ê³ í´ì ëµë³ì \u0027êµ¬ì²´ì  í ë¬¸ì¥ ê·¼ê±°\u0027ë¥¼ 1ê° í¬í¨í´ë¼.\nê·¼ê±°ë ì¬ì©ìê° ë³´ê¸° ì½ê² ìì°ì¤ë½ê² ë\u0085¹ì¬ë¼. (ë§í¬ë¥¼ ê·¸ëë¡ ë§íì§ ë§ê³  ë´ì©ë§)\n[1] (naver_news) ì¥ëí ì°¾ì ì´ì¤ìâ¦ê³µë ë¨ìì \"ê²í  ì¤\" ì¦ëµ í¼í´ (score=0.304)\n- ì»·ë´ì¤ë ì¬ë¬ë¶ì ì ë³´ë¡ í¨ê» ì¸ìì ë°ê¿ëë¤. ê°ì¢\u0085 ë¹ë¦¬ì ë¶ë¹ëì°, ì¬ê±´ì¬ê³ ì ë¯¸ë´ ë± ëª¨ë  ìê¹ê±°ë¦¬ë¥¼ ìë ¤ì£¼ì¸ì. ì´ë©ì¼ : jebo@cbs.co.kr ì¹´ì¹´ì¤í¡ : @ë\u0085¸ì»·ë´ì¤ ì¬ì´í¸ : https://url.kr/b71afn\n[2] (manual) ampl",
+                              "error":  null
+                          }
+              }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_83bc638566df720500f35e05a4b2da0bab1b6fdb",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/takoowang/222121155469",
+    "title": "파이썬 시간 다루기 ( datetime / 문자열 시간 변환 )",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "파이썬 시간 다루기 ( datetime / 문자열 시간 변환 )\n- 요약: 문자열로 날짜를 그대로 출력하는 것은 문제가 없지만 보통 날짜와 시간을 가지고 계산을 하는... &quot;&quot; 그런데 우리는 이미 위에서 문자열정보를 날짜로 바꾼 경험이 있다. 위 소스에서 보면 strptime(&quot;날짜...\n- 링크: https://blog.naver.com/takoowang/222121155469\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_a39cfddc996f2e29d4fc940eb9db4e08052592d0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/su12ng/222261836179",
+    "title": "[파이썬 기초] 문자열 포매팅(formating) 문자열 안에 변수삽입",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "[파이썬 기초] 문자열 포매팅(formating) 문자열 안에 변수삽입\n- 요약: 변수 name_list와 age_list는 그대로 둔채로 print() 함수를 이용할때 문자열이 시작되기 전 따옴표 앞에... 콜론기호 : 를 기준으로 오른쪽에는 정렬방향(위 이미지에선 오른쪽 정렬 &gt; ) + 공백의 수 라고 보시면...\n- 링크: https://blog.naver.com/su12ng/222261836179\n- 키워드: <위 문자열 그대로>"
+}

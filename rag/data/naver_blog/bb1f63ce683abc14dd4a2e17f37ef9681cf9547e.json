@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bb1f63ce683abc14dd4a2e17f37ef9681cf9547e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/nullorempty/220018353008",
+    "title": "문자열 함수 명령어 모음(12장_부록)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "문자열 함수 명령어 모음(12장_부록)\n- 요약: 그 뒤로 &quot;천재다\\0&quot; 대신 &quot;완전 천재\\0&quot; 라는 문자열이 그대로 복사된 것을 알 수 있다. strlen(배열명):문자열의 길이를 바이트 형태로 조사한다. 문자열의 끝에 붙는 NULL값은 제외된다. abcd라는 문자열을...\n- 링크: https://blog.naver.com/nullorempty/220018353008\n- 키워드: <위 문자열 그대로>"
+}

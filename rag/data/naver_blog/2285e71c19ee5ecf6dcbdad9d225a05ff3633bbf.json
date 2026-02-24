@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2285e71c19ee5ecf6dcbdad9d225a05ff3633bbf",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ksh163022/222218831280",
+    "title": "[학원수업] 1주 2일차(1월 20일) 복습 + 변수 + 문자열 + 연산자",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:37",
+    "ok": true
+  },
+  "text": "[학원수업] 1주 2일차(1월 20일) 복습 + 변수 + 문자열 + 연산자\n- 요약: ''를 붙여줘야 글자 그대로 표기가 가능하다. *메모리 사용크기를 줄이고자 데이터 타입을... =&gt; &quot;&quot;가 문자취급을 받아 문자열이 생김. &quot;합계 : &quot; + (kor + eng + math) =&gt; 괄호 안에는 숫자취급이라 합계가...\n- 링크: https://blog.naver.com/ksh163022/222218831280\n- 키워드: <위 문자열 그대로>"
+}

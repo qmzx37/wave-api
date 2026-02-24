@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_5c4eada7d88c76ae68453374ab9965aad62c54b7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://arvigoes.tistory.com/27",
+    "title": "5. 파이썬 자료형 - 문자열 연산",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "5. 파이썬 자료형 - 문자열 연산\n- 요약: 단순하게 문자열을 더했을때 우리가 예상하는 그대로 문자열이 합쳐지는 형태 입니다.... 결과 위 방법으로 해결이 가능하지만 &quot;사과를 먹었다&quot; 를 출력하고 싶다면 # Code 6 # 슬라이싱 text...\n- 링크: https://arvigoes.tistory.com/27\n- 키워드: <위 문자열 그대로>"
+}

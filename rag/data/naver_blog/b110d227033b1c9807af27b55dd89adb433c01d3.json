@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b110d227033b1c9807af27b55dd89adb433c01d3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kawaiiun/223805697560",
+    "title": "Section017. 문자열 안에 '또는&quot;를 넣고 싶을 때",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:16",
+    "ok": true
+  },
+  "text": "Section017. 문자열 안에 '또는&quot;를 넣고 싶을 때\n- 요약: 만약 저 문장 그대로 출력하면 오류가 발생한다. 이를 해결하는 방법 중 하나는 문자열 중간에 원하는 따옴표를 넣고 싶을 때, 그 따옴표가 아닌 따옴표를 문자열로 묶어준다. &quot;라이브(La'eeb)는 2022년 카타르...\n- 링크: https://blog.naver.com/kawaiiun/223805697560\n- 키워드: <위 문자열 그대로>"
+}

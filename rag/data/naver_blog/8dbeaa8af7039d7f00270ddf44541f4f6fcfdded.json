@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8dbeaa8af7039d7f00270ddf44541f4f6fcfdded",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dr7007/223556960177",
+    "title": "문자열(String)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "문자열(String)\n- 요약: 문자열이란? 말 그대로 문자(Character)형으로 만들어진 배열이다. 문자열의 경우 특이하게 문자의... 위 코드의 출력은 size 값을 따로 계산하여 지정하여 출력하는 형태이기에 널 문자가 없어도 문제가...\n- 링크: https://blog.naver.com/dr7007/223556960177\n- 키워드: <위 문자열 그대로>"
+}

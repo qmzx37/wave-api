@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_12865b02d8a4c58ba62ac8a5017b8e81f24e4255",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cocktail74/50044745861",
+    "title": "문자열 패턴",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:31",
+    "ok": true
+  },
+  "text": "문자열 패턴\n- 요약: 그런데 이 식을 그대로 사용할 경우, “Regular Expression” is “powerful”.와 같이 따옴표가 반복되는 문자열에서 정규 표현식의 greedy 특성 탓에 Regular Expression과 powerful이 따로 검색되는 것이 아니라...\n- 링크: https://blog.naver.com/cocktail74/50044745861\n- 키워드: <위 문자열 그대로>"
+}

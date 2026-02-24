@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bd344ee06eaffa44a30b76789b897173d4de3490",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://big-blog.tistory.com/2111",
+    "title": "xml을 사용하여 문자열 배열 리소스에서 문자열 참조",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "xml을 사용하여 문자열 배열 리소스에서 문자열 참조\n- 요약: &lt;/item&gt; &lt;/string-array&gt; DRY는 그대로 유지하면서 동일한 문자열을 다른 XML로 참조 할 수 있습니다. 내가 보는 이점은 단일 값 변경으로 코드의 모든 참조에 영향을 미친다는...\n- 링크: https://big-blog.tistory.com/2111\n- 키워드: <위 문자열 그대로>"
+}

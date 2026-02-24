@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_15409b21940b045ec2e4543d41200cb74efb5d7b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/slave_depelover/223155047279",
+    "title": "문자열 섞기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "문자열 섞기\n- 요약: 하나의 문자열이라도 빈 문자열이면, 두 문자열을 그대로 이어붙여 반환한다. else 부분은 str1, str2 부분이 빈 문자열이 아닌 경우이다. 이 때는 str1 의 첫 번째 문자와 str2 의 첫 번째 문자를...\n- 링크: https://blog.naver.com/slave_depelover/223155047279\n- 키워드: <위 문자열 그대로>"
+}

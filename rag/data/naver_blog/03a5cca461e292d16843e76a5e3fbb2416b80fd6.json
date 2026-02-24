@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_03a5cca461e292d16843e76a5e3fbb2416b80fd6",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://cosmosproject.tistory.com/891",
+    "title": "Presto : substring, substr (문자열 추출하기, 문자열...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:10",
+    "ok": true
+  },
+  "text": "Presto : substring, substr (문자열 추출하기, 문자열...\n- 요약: test_string_1234 , substr('test_string_1234', 1) --&gt; test_string_1234 ; start_position이 1인 경우는 문자열의 가장 첫 글자를 의미하므로 위 예시에서는 주어진 텍스트가 그대로 return됩니다.\n- 링크: https://cosmosproject.tistory.com/891\n- 키워드: <위 문자열 그대로>"
+}

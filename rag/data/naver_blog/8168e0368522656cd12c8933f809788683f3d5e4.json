@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8168e0368522656cd12c8933f809788683f3d5e4",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ahyun020402/222999457078",
+    "title": "문자열 자료형",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:58",
+    "ok": true
+  },
+  "text": "문자열 자료형\n- 요약: &quot; &quot; &quot;&quot; &quot;&quot; 위 문자열 예문을 보면 모두 큰따옴표(&quot; &quot;)로 둘러싸여 있습니다. '123은 숫자인데 왜... 변수에 저장된 문자열이 그대로 출력되는 것을 볼 수 있습니다. &gt;&gt;&gt; &quot; &quot; &gt;&gt;&gt; &quot; &quot; 시험 삼아 다음과 같이 큰따옴표...\n- 링크: https://blog.naver.com/ahyun020402/222999457078\n- 키워드: <위 문자열 그대로>"
+}

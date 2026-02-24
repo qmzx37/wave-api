@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_cba0b8b4f2783b061424c8049b21da60ce1bc927",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/0k00k0/222039665255",
+    "title": "[ Python 기초 ] 문자열 관련 기초",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "[ Python 기초 ] 문자열 관련 기초\n- 요약: 위의 결과 값은 각각 '100', '1.1', 'True'로 인자로 들어간 내용을 그대로 문자열로 변환해준다. 'print()' 함수그리고 문자열 보간을 사용할 때에 내부적으로 사용되는 함수이다. 결합 파이썬에서는...\n- 링크: https://blog.naver.com/0k00k0/222039665255\n- 키워드: <위 문자열 그대로>"
+}

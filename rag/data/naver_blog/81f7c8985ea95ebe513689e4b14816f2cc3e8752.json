@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_81f7c8985ea95ebe513689e4b14816f2cc3e8752",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/xell00/223717703179",
+    "title": "파이썬 텍스트 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "파이썬 텍스트 문자열\n- 요약: 리스트는 다음과 같이 콤마(,)로 구분하고, 양쪽을 대괄호([])로 둘러싼 값들의 시퀀스다 위 예제에서 tasks 문자열과 단일 구분자의 인수로 ','와 함께 split() 함수를 사용했다 구분자를...\n- 링크: https://blog.naver.com/xell00/223717703179\n- 키워드: <위 문자열 그대로>"
+}

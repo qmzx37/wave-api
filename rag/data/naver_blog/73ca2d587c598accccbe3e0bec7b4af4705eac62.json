@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_73ca2d587c598accccbe3e0bec7b4af4705eac62",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/dldvk9999/222626622687",
+    "title": "[프로그래머스] 문자열 압축",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:07",
+    "ok": true
+  },
+  "text": "[프로그래머스] 문자열 압축\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여 표현한...\n- 링크: https://blog.naver.com/dldvk9999/222626622687\n- 키워드: <위 문자열 그대로>"
+}

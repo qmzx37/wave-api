@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8d79b128eafff79a04258da5c11e0f7ab3c87e28",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://ldg119.tistory.com/667",
+    "title": "10.변수연산 문자형 / 문자열 보간",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:01",
+    "ok": true
+  },
+  "text": "10.변수연산 문자형 / 문자열 보간\n- 요약: 말그대로 문자를 연결하는것이다. int a = 2; int b = 3; a+b 를 출력하면 5 가나오고 string a = &quot;2&quot;; string b... 위 예제1이 전통적인 문자열을 + 로 표시해주는 방법이고 예제2는 문자열보간을 사용한 방식이다....\n- 링크: https://ldg119.tistory.com/667\n- 키워드: <위 문자열 그대로>"
+}

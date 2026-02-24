@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_059fa1f5dd350c58b9a780a124a8a09045a4d56f",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yeajinny/221876625233",
+    "title": "프로그래머스 문자열 다루기 기본(C언어)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:38",
+    "ok": true
+  },
+  "text": "프로그래머스 문자열 다루기 기본(C언어)\n- 요약: 포인터로 문자열 받으면 어떻게 해야하지...?하면서 일단 scanf지워야 했고 배열도 지워버려야 했고 s를 그대로 가져오는 방법을 써야했다. 그냥 그대로 가져와서 배열로 취급해주면 되더라...여기는...\n- 링크: https://blog.naver.com/yeajinny/221876625233\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_63be8016703ea4d59073a061c7cdc469f4950fb9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/shm98/50015490107",
+    "title": "&quot;종결되지 않은 문자열 상수&quot;",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:54",
+    "ok": true
+  },
+  "text": "&quot;종결되지 않은 문자열 상수&quot;\n- 요약: 일단 이러한 오류의 원인 말 그대로다 문자열 상수가 종결 안됐단다. 예를 들어 jsp의 변수중... 요부분이 위 처럼 개행된다면 servlet 오류가 발생하겠지만, 스크립트 내의 alert('가나다라 마바사...\n- 링크: https://blog.naver.com/shm98/50015490107\n- 키워드: <위 문자열 그대로>"
+}

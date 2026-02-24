@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_106116662b7f9d153666ce6acbdb89dec94ab5bc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/ywlee48/223989784820",
+    "title": "Java List 속 null과 빈 문자열을 우아하게 다루는 법",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "Java List 속 null과 빈 문자열을 우아하게 다루는 법\n- 요약: 비어있는 문자열(&quot;&quot;)이 숨어있을 수 있습니다. &quot;설마 비어있는 값이 들어오겠어?&quot;라는 안일한... 수많은 프로젝트에서 검증된 안정적인 로직을 그대로 사용할 수 있습니다. 단점: 외부...\n- 링크: https://blog.naver.com/ywlee48/223989784820\n- 키워드: <위 문자열 그대로>"
+}

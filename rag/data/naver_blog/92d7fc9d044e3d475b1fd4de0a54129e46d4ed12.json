@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_92d7fc9d044e3d475b1fd4de0a54129e46d4ed12",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/no_spell_compile/223603196812",
+    "title": "[DAY24] 문자열 탐색 : 라빈 카프 (Rabin-Karp) 알고리즘",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "[DAY24] 문자열 탐색 : 라빈 카프 (Rabin-Karp) 알고리즘\n- 요약: 위 수식에서 mi는 문자열의 i번째 문자의 아스키 코드값을 의미하고, x는 임의의 수이다. x 값은... target 문자열의 첫 번째 부분문자열에 대해 1번으로 총 2번만 호출하면 된다, ...엥? 식 보고 그대로...\n- 링크: https://blog.naver.com/no_spell_compile/223603196812\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_c9449fa24c9eeeba78242a852e47228816eb7b9b",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/otipkorea/221932990025",
+    "title": "엑셀 LEFT 함수 - 문자열 자르기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "엑셀 LEFT 함수 - 문자열 자르기\n- 요약: =LEFT(A1, 5) 위 수식의 의미는 'A1셀의 문자열을 왼쪽에서 5개 잘라서 표시하라' 입니다. 엔터를 치고... 앞에서 사용했던 LEFT 함수의 수식을 그대로 사용해 보겠습니다. 엔터를 치고 결과를 확인해 보면...\n- 링크: https://blog.naver.com/otipkorea/221932990025\n- 키워드: <위 문자열 그대로>"
+}

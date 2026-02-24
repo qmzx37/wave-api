@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b76dca71f68834bf00e1d94d943eb05dc393bf59",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/kjk_lokr/221790342651",
+    "title": "[python]replace 함수 이용 문자(문자열) 변경",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:32",
+    "ok": true
+  },
+  "text": "[python]replace 함수 이용 문자(문자열) 변경\n- 요약: 위처럼 하게 되면, tmp_str이라는 변수에 저장된 문자열에서 , 를 없애는 것입니다. &quot;&quot; &quot;&quot; &quot;&quot; 위처럼... 위처럼 3개의 콤마(,)만 삭제가 되고, 나머지는 그대로 있는 것을 볼 수 있습니다. 그리고 한 글자만 삭제가...\n- 링크: https://blog.naver.com/kjk_lokr/221790342651\n- 키워드: <위 문자열 그대로>"
+}

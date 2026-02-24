@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_8c3b846698fcc6a8f7f62f74944898879ae66943",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/koys007/220923667098",
+    "title": "[PHP] 문자열 연산과 정규 표현식(1)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:20",
+    "ok": true
+  },
+  "text": "[PHP] 문자열 연산과 정규 표현식(1)\n- 요약: 그러면 그 문자열을 그대로 사용하면 된다. 반면, 기능이 꺼져있는경우 사용자가 직접 함수 addslashes()를 이용하여 역슬래시를 추가해 주어야한다.*/ // DB에서 값을 가져올...\n- 링크: https://blog.naver.com/koys007/220923667098\n- 키워드: <위 문자열 그대로>"
+}

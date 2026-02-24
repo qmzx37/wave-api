@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_25ccbb9f9d4e668c61ea7149e38c593fad578e64",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/selfdevelopement_10/223057477166",
+    "title": "처음부터시작하는 C(문자열3)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:11",
+    "ok": true
+  },
+  "text": "처음부터시작하는 C(문자열3)\n- 요약: 그렇다면 위 3 개의 문장에서 문자열 리터럴은 무엇일까요? 물론, 짐작하였던 대로 goodbye... 이 경우 우리는 말그대로 문자열을 복사하는 함수, 즉 a 라는 문자열이 있다면 a 문자열의...\n- 링크: https://blog.naver.com/selfdevelopement_10/223057477166\n- 키워드: <위 문자열 그대로>"
+}

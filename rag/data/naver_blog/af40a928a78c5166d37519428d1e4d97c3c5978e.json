@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_af40a928a78c5166d37519428d1e4d97c3c5978e",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://crazykim2.tistory.com/549",
+    "title": "[JAVA] 문자열을 배열로 자르는 메서드 split에 대해서...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "[JAVA] 문자열을 배열로 자르는 메서드 split에 대해서...\n- 요약: 3개의 배열로 나눈 것을 확인할 수 있습니다 나머지 문자열은 마지막 배열에 그대로 표기해줍니다 2. String[] LimitExceed = str.split(&quot; &quot;, 10); Limit이 나눈 값의 범위를...\n- 링크: https://crazykim2.tistory.com/549\n- 키워드: <위 문자열 그대로>"
+}

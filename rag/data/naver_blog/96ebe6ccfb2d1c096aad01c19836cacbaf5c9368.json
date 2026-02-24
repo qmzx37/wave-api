@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_96ebe6ccfb2d1c096aad01c19836cacbaf5c9368",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/boxcj/140013288674",
+    "title": "23. 문자열 클래스",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "23. 문자열 클래스\n- 요약: 그러나, BASIC에서 2개의 문자열을 병합할 때는 이들의 병합 결과를 포함하는 임시 문자열이 생성되고, 원래 문자열들은 수정되지 않고 그대로 남아 있게 되는 것이다. BASIC에서 문자열...\n- 링크: https://blog.naver.com/boxcj/140013288674\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_85a3e9e05d9b464dce505d2f10334343fbff23b9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youngman1636/222188900627",
+    "title": "Python-3. 시퀀스 데이터 타입(1. 문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:14",
+    "ok": true
+  },
+  "text": "Python-3. 시퀀스 데이터 타입(1. 문자열)\n- 요약: 덧셈 기호 없이 문자열을 그대로 이어 붙여서 만들 수도 있습니다. x = 'Life is short. ' 'You need python' print(x) 결과) Life is short. You need python 파이썬은 기본적으로 문자열을 이어붙일 때...\n- 링크: https://blog.naver.com/youngman1636/222188900627\n- 키워드: <위 문자열 그대로>"
+}

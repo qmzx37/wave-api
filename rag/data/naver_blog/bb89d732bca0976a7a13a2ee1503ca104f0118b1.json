@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_bb89d732bca0976a7a13a2ee1503ca104f0118b1",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/entipglobal/223293782342",
+    "title": "23.12.15 If (else if) / Switch / 문자열 / While...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:26",
+    "ok": true
+  },
+  "text": "23.12.15 If (else if) / Switch / 문자열 / While...\n- 요약: 'a'와 'A'값 둘중에 어느것이라도 해당된다면 이라는 조건은, if문으로 쉽게 대체됨 문자열 이란?... inline 컴파일러의 판단하에 이걸 그대로 복사해서 넣을수 있다면 이 함수가 실행된 위치를 이 함수의...\n- 링크: https://blog.naver.com/entipglobal/223293782342\n- 키워드: <위 문자열 그대로>"
+}

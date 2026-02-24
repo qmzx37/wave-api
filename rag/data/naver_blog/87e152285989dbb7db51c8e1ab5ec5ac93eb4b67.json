@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_87e152285989dbb7db51c8e1ab5ec5ac93eb4b67",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/skyvvv624/221460295969",
+    "title": "[C/C++] 16진수 문자열을 Double 값으로 변환(Hex String...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:06",
+    "ok": true
+  },
+  "text": "[C/C++] 16진수 문자열을 Double 값으로 변환(Hex String...\n- 요약: (0일때 양수, 1일때 음수) Exponent 비트는 말 그대로 지수인데 2^n에서 n에... return nReturn; } /** * 16진수 문자열 -&gt; float 변환 함수 * @param str 16진수 문자열 * @return...\n- 링크: https://blog.naver.com/skyvvv624/221460295969\n- 키워드: <위 문자열 그대로>"
+}

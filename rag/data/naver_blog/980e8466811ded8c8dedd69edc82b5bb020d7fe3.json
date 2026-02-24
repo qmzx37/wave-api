@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_980e8466811ded8c8dedd69edc82b5bb020d7fe3",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/yokovich8979/222656266768",
+    "title": "다른 문자열 내에서 따옴표 붙은 문자열 확장",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:25",
+    "ok": true
+  },
+  "text": "다른 문자열 내에서 따옴표 붙은 문자열 확장\n- 요약: 팝업 기능을 그대로 유지해야 하는 경우 &quot; onClick 핸들러 내부에서 javascript 내부 문자열을 어떻게 이스케이프 처리합니까? &quot;에 대한 이 답변 의 도움으로 솔루션을 찾았습니다....\n- 링크: https://blog.naver.com/yokovich8979/222656266768\n- 키워드: <위 문자열 그대로>"
+}

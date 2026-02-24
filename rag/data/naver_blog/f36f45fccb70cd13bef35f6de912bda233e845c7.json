@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f36f45fccb70cd13bef35f6de912bda233e845c7",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/moon-over/222083127915",
+    "title": "[Python] 파이썬 자료형 (숫자형, 문자열, 불린, 리스트, 튜플...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "[Python] 파이썬 자료형 (숫자형, 문자열, 불린, 리스트, 튜플...\n- 요약: (2) :: 문자열 자료형 String 알파벳 A, B 등 문자, 단어로 구성된 집합이다 큰 따옴표나 작은... 의미 그대로 리스트에 요소를 추가할 때 사용한다 students 라는 리스트에 append() 함수를 사용하면 리스트의...\n- 링크: https://blog.naver.com/moon-over/222083127915\n- 키워드: <위 문자열 그대로>"
+}

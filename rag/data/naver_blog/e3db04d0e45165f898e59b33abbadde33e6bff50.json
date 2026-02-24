@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_e3db04d0e45165f898e59b33abbadde33e6bff50",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sharonichoya/220513447408",
+    "title": "C언어 문자열 붙이기( strcat )",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:59",
+    "ok": true
+  },
+  "text": "C언어 문자열 붙이기( strcat )\n- 요약: 붙여지는 문자열 반환값(return) 성공시 dest, 실패시 NULL - strcat는 위 원형에서 보는 것처럼, dest의... 코드의 결과를 보면 알겠지만 You는 원본 그대로 유지된다. 결국 You를 복사해서 Love의 뒤에...\n- 링크: https://blog.naver.com/sharonichoya/220513447408\n- 키워드: <위 문자열 그대로>"
+}

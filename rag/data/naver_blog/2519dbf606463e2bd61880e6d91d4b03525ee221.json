@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2519dbf606463e2bd61880e6d91d4b03525ee221",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/lliuhe/222316455314",
+    "title": "[파이썬 공부] list와 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:21",
+    "ok": true
+  },
+  "text": "[파이썬 공부] list와 문자열\n- 요약: 문자열이 상당히 중요하다고 한다. 한 번 같이 알아보자. 1. 크롤링 2. 텍스트 분석 3. 파일... 대신 a가 그대로 있진 않으니 새로운 공간을 만들어주자. a나 a2에 넣어서 출력하면 바뀐 값이 나온다....\n- 링크: https://blog.naver.com/lliuhe/222316455314\n- 키워드: <위 문자열 그대로>"
+}

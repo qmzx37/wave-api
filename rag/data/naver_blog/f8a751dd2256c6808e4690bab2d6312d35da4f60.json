@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f8a751dd2256c6808e4690bab2d6312d35da4f60",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/tbdtbd1208/223340711225",
+    "title": "백준 11718번 문제|C언어 문자열 그대로 출력하기",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T12:59:53",
+    "ok": true
+  },
+  "text": "백준 11718번 문제|C언어 문자열 그대로 출력하기\n- 요약: 이 에러 때문에 scanf 함수를 이용하여 띄어쓰기를 포함한 한 줄을 그대로 입력받는 방법에 대해 잠깐 알아보았는데 &quot; 이런 식으로 scanf를 이용하면 size 100 이내의 입력된 문자열을 띄어쓰기 포함하여...\n- 링크: https://blog.naver.com/tbdtbd1208/223340711225\n- 키워드: <위 문자열 그대로>"
+}

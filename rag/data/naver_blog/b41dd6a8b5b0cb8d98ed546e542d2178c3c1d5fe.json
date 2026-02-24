@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_b41dd6a8b5b0cb8d98ed546e542d2178c3c1d5fe",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/weepeggle63320/222659081826",
+    "title": "주사위 굴림 표기법 문자열 평가",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:30",
+    "ok": true
+  },
+  "text": "주사위 굴림 표기법 문자열 평가\n- 요약: 규칙 문자열을 매개변수로 받아들이는 함수를 작성하고 다음을 반환합니다. 주사위 표기법... 있는 그대로, 412자 축소 &quot;(roll-dice &quot; input-string &quot;)&quot;을 실행하기만 하면 됩니다....\n- 링크: https://blog.naver.com/weepeggle63320/222659081826\n- 키워드: <위 문자열 그대로>"
+}

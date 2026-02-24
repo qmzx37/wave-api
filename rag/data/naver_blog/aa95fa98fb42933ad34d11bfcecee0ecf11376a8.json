@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_aa95fa98fb42933ad34d11bfcecee0ecf11376a8",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/zmmm777/222898491572",
+    "title": "C언어_09 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:02",
+    "ok": true
+  },
+  "text": "C언어_09 문자열\n- 요약: 문자열(string) 문자열은 &quot;Hello&quot;와 같이 문자들의 모임이고, 문자는 말 그대로 'h', 'e' 와 같은... 변환 &lt;&gt; &lt;&gt; &quot; &quot; &quot;&quot; &amp; &amp; &quot; &quot; &quot;&quot; &lt; &quot; &quot; &quot; &quot; &quot; &quot; &quot;&quot; &quot;&quot; &quot; &quot; &quot;&quot; &quot; &quot;&quot; &amp; &quot;&quot; &quot; &quot; &quot;&quot; &quot;&quot; &quot; &quot; 위 코드 실행 결과 &gt;&gt;문자열 비교...\n- 링크: https://blog.naver.com/zmmm777/222898491572\n- 키워드: <위 문자열 그대로>"
+}

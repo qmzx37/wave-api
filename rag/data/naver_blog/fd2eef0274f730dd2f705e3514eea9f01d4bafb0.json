@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_fd2eef0274f730dd2f705e3514eea9f01d4bafb0",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/sjy263942/222079084759",
+    "title": "Level2 (kakao)문자열 압축",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:34",
+    "ok": true
+  },
+  "text": "Level2 (kakao)문자열 압축\n- 요약: 문자열의 길이가 1일 때 ans = len(s) ans를 무턱대고 1001로 설정하면, s의 길이가 1일 때 그대로 1001이 반환된다. 최대값은 check 함수를 호출하지 않아도, 그대로 답으로 쓸 수...\n- 링크: https://blog.naver.com/sjy263942/222079084759\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_d9dfb054d99d98ed3cc63617bbf7182a20d6cbcc",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/pbonggab/223253638207",
+    "title": "[Array] 7. 문자열의 활용",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:15",
+    "ok": true
+  },
+  "text": "[Array] 7. 문자열의 활용\n- 요약: 문자를 입력하고, 그 문자를 그대로 출력하되, 그 문자의 각 알파벳이 메모리에 한자리씩 차지하고... 위 코딩은 s[i]!='\\0' 문자열의 알파벳이 없고 Null(널)상태이기 전까지만 반복문을 실행하도록 코딩함....\n- 링크: https://blog.naver.com/pbonggab/223253638207\n- 키워드: <위 문자열 그대로>"
+}

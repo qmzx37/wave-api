@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_12958894c083c7cf38c2809c979074b3dd814462",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/youji4ever/222183458506",
+    "title": "시계열(TimeSeries) : 문자열을 날짜/시간(datetime) 데이터...",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:27",
+    "ok": true
+  },
+  "text": "시계열(TimeSeries) : 문자열을 날짜/시간(datetime) 데이터...\n- 요약: # 문자열을 날짜 데이터타입으로 변경하기 먼저 날짜 문자들이 포함되어 있는 데이터를... head() &gt;&gt; 에러를 무시하고 변경을 하라고 시켰더니 보이는 건 아주 그대로이다. data.dtypes...\n- 링크: https://blog.naver.com/youji4ever/222183458506\n- 키워드: <위 문자열 그대로>"
+}

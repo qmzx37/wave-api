@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_f51fb9fe5efa9d3500c4aa2d6847b6b3b5ea32ed",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/liccorob/10151920378",
+    "title": "8_8 [배열 예제] 사용자에게 문자열을 입력받는 프로그램",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "8_8 [배열 예제] 사용자에게 문자열을 입력받는 프로그램\n- 요약: 이전에 변수를 입력받고 출력하는 방식을 그대로 적용하면 이렇게 됩니다. 하지만 문자열 변수는 조금 달라요 바로 scanf(&quot;%s&quot;, &amp;c); 이곳의 &amp;c부분이 그냥 c로 바뀝니다. 이전에는 그냥 &amp; 무조건...\n- 링크: https://blog.naver.com/liccorob/10151920378\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_0b8bdbcece75276a8a07e7f2008c408ad4e9d642",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/hyebin8118/222189220101",
+    "title": "C, C++ Step08 - 문자, 문자열",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:00",
+    "ok": true
+  },
+  "text": "C, C++ Step08 - 문자, 문자열\n- 요약: 위 코드를 실행하면 위의 실행 결과와는 달리 변수 a를 입력 및 출력 후에도 프로그램이 종료되지 않고 문자형 c 변수를 입력받을 수 있게 된다. 3. 문자열 * 문자열은 말 그대로 문자들의 배열이다....\n- 링크: https://blog.naver.com/hyebin8118/222189220101\n- 키워드: <위 문자열 그대로>"
+}

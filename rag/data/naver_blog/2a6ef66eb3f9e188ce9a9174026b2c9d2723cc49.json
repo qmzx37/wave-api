@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_2a6ef66eb3f9e188ce9a9174026b2c9d2723cc49",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/cjy3449/222896660667",
+    "title": "파이썬 1일차 - 변수와 자료형, print 함수, 문자열, 시퀀스",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:09",
+    "ok": true
+  },
+  "text": "파이썬 1일차 - 변수와 자료형, print 함수, 문자열, 시퀀스\n- 요약: sep 옵션은 separation으로 말 그대로 분리하는 역할을 한다. 그래서 , 으로 구분된 값 사이로 입력된 것이 들어간다. ⭐ 문자열 (str) &gt; &gt; &quot;&quot; &quot;&quot; &quot;&quot; ⭐ Doc String 위 처럼 중복되는 따옴표마다 일일이...\n- 링크: https://blog.naver.com/cjy3449/222896660667\n- 키워드: <위 문자열 그대로>"
+}

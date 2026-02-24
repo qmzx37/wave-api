@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_4fbb4dd9a9e44225ca1784a16ccf200a8549d0ea",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://seoftware.tistory.com/115",
+    "title": "[Python, 문자열][프로그래머스] 문자열 압축 :: seoftware",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "[Python, 문자열][프로그래머스] 문자열 압축 :: seoftware\n- 요약: 이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여...\n- 링크: https://seoftware.tistory.com/115\n- 키워드: <위 문자열 그대로>"
+}

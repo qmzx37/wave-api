@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_657c98a29ae83f8397b2140f3e2c2ef0d730134c",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/whwoghd1/221226103418",
+    "title": "02. 파이썬의 자료형(문자열 자료형)[2-1]",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:12",
+    "ok": true
+  },
+  "text": "02. 파이썬의 자료형(문자열 자료형)[2-1]\n- 요약: 프롬프트에 love를 입력해서 결과를 확인해보면 변수에 저장된 문자열이 그대로 출력되는 것 을 볼 수 있다. &gt;&gt;&gt; love&quot;hong's favorite food is naengmyeon&quot; 이번에는 큰따옴표가 아닌 작은따옴표로...\n- 링크: https://blog.naver.com/whwoghd1/221226103418\n- 키워드: <위 문자열 그대로>"
+}

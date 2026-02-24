@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_051223d334e7c25e57156aa2555aa7ef8853aea9",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/above-the-orbit/222213951842",
+    "title": "C언어 기초 프로그래밍 강좌 14강 - 문자열 (String)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:28",
+    "ok": true
+  },
+  "text": "C언어 기초 프로그래밍 강좌 14강 - 문자열 (String)\n- 요약: : 문자관련 포인터를 이렇게 다룸으로써 글자가 더 적다고 하더라도 위 처럼 순식간에 복사가 가능하도록 해줍니다. 이런식으로 ABC라고 해주면 그대로 ABC가 Love 대신에 들어가서 이렇게 문자열...\n- 링크: https://blog.naver.com/above-the-orbit/222213951842\n- 키워드: <위 문자열 그대로>"
+}

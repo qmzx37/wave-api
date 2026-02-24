@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_17529a12aa7a2831acaf8353c787c759cd516b40",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/whywhyhy/221877605919",
+    "title": "파이썬(자료형:문자열)",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:03",
+    "ok": true
+  },
+  "text": "파이썬(자료형:문자열)\n- 요약: 문자 그대로 사용하고 싶은 경우에는 위 예의 {{ }}처럼 2개를 연속해서 사용하면 된다. 7. f 문자열 포매팅 : 파이썬 3.6 버전부터는 f 문자열 포매팅 기능을 사용할 수...\n- 링크: https://blog.naver.com/whywhyhy/221877605919\n- 키워드: <위 문자열 그대로>"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naver_blog_3ca6b360f8a8c74561f2632bcc55f9c176c627da",
+  "meta": {
+    "source": "naver_blog",
+    "url": "https://blog.naver.com/chaos_3d/222378563340",
+    "title": "기본 문법 (4) - 배열, 문자열, 열거형, 구조체, 네임스페이스",
+    "query": "<위 문자열 그대로>",
+    "fetched_at": "2026-01-28T13:00:17",
+    "ok": true
+  },
+  "text": "기본 문법 (4) - 배열, 문자열, 열거형, 구조체, 네임스페이스\n- 요약: @ 를 이용하면 이스케이프 문자들을 무시하고 있는 그대로의 문자열(verbatim string) 도 표현이 가능하다. Code: // \\ 기호가 이스케이프 문자로 처리되지 않고 있는 그대로 출력된다. string s = @&quot;\\n...\n- 링크: https://blog.naver.com/chaos_3d/222378563340\n- 키워드: <위 문자열 그대로>"
+}
