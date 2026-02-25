@@ -1,10 +1,10 @@
 ﻿services:
   - type: web
-    name: noie-api
+    name: wave-api
     env: python
     plan: free
     buildCommand: pip install -r requirements-lite.txt
-    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    startCommand: uvicorn api:app --host 0.0.0.0 --port \
     envVars:
       - key: LITE_MODE
         value: "1"
