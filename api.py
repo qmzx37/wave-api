@@ -172,6 +172,52 @@ def _clean_text(s: str) -> str:
 def normalize_axes(axes: Dict[str, Any]) -> Dict[str, float]:
     return {k: clamp01(axes.get(k, 0.0)) for k in KEYS}
 
+# ============================================================
+# ✅ NEW: LITE fallback (rule-based axes) — 우울/불안 등은 반드시 튀게
+# ============================================================
+_SAD_KEYS = ["우울", "무기력", "공허", "눈물", "슬퍼", "힘들", "괴로", "외로", "버겁", "불안", "공황", "죽고싶", "자살", "의미없", "끝내고"]
+_ANGER_KEYS = ["화나", "짜증", "분노", "열받", "빡치", "억울"]
+_JOY_KEYS = ["행복", "기뻐", "신나", "좋아", "설레", "감사"]
+_TENSION_KEYS = ["긴장", "초조", "불안", "조마조마", "떨려"]
+
+def lite_axes_rules(user_text: str) -> Dict[str, float]:
+    t = (user_text or "").strip().lower()
+
+    # 기본값(너 기존 fixed보다 훨씬 “사람같이”)
+    axes = {"F": 0.15, "A": 0.10, "D": 0.10, "J": 0.10, "C": 0.15, "G": 0.10, "T": 0.15, "R": 0.25}
+
+    sad = any(k in t for k in _SAD_KEYS)
+    ang = any(k in t for k in _ANGER_KEYS)
+    joy = any(k in t for k in _JOY_KEYS)
+    ten = any(k in t for k in _TENSION_KEYS)
+
+    # 우울 문장: D를 강하게 보장 + J/R 낮추기
+    if sad:
+        axes["D"] = max(axes["D"], 0.75)
+        axes["J"] = min(axes["J"], 0.05)
+        axes["R"] = min(axes["R"], 0.10)
+        axes["T"] = max(axes["T"], 0.45)
+        axes["F"] = max(axes["F"], 0.35)
+
+    # 분노 문장
+    if ang:
+        axes["A"] = max(axes["A"], 0.70)
+        axes["R"] = min(axes["R"], 0.15)
+        axes["T"] = max(axes["T"], 0.40)
+
+    # 기쁨 문장
+    if joy and (not sad) and (not ang):
+        axes["J"] = max(axes["J"], 0.70)
+        axes["D"] = min(axes["D"], 0.10)
+        axes["R"] = max(axes["R"], 0.35)
+
+    # 긴장 키워드
+    if ten and (not sad) and (not ang):
+        axes["T"] = max(axes["T"], 0.60)
+        axes["R"] = min(axes["R"], 0.20)
+        axes["F"] = max(axes["F"], 0.35)
+
+    return {k: clamp01(v) for k, v in axes.items()}
 
 def env_float(name: str, default: float) -> float:
     try:
@@ -1325,6 +1371,10 @@ TOK = None
 MODEL = None
 LORA_OK = False
 
+# ✅ NEW: health에서 확인하려고 상태 고정
+MODEL_LOADED = False
+EMOTION_BACKEND = "unknown"  # "lora" | "lite_rules" | "lite_fixed"
+
 RL_ALGO = None
 RL_READY = False
 LAST_ACTIONS: Deque[int] = deque(maxlen=8)
@@ -1338,13 +1388,25 @@ def _startup():
     SERVER_STARTED_AT = datetime.datetime.now().isoformat()
 
     # ✅ LITE_MODE면 LLM 로딩 스킵
+    global MODEL_LOADED, EMOTION_BACKEND
+
     if LITE_MODE:
         print("🚀 LITE_MODE=1: skip LLM/LoRA loading")
         TOK, MODEL, LORA_OK = None, None, False
+        MODEL_LOADED = False
+        EMOTION_BACKEND = "lite_rules"
     else:
-        TOK, MODEL, LORA_OK = load_model()
-
-    # (아래 PPO 부분은 그대로)
+        try:
+            TOK, MODEL, LORA_OK = load_model()
+            MODEL_LOADED = bool(MODEL is not None) and bool(TOK is not None)
+            # LORA_OK는 load_model()이 판단한 값 그대로 사용
+            EMOTION_BACKEND = "lora" if MODEL_LOADED else "lite_rules"
+        except Exception as e:
+            print("⚠️ load_model failed:", repr(e))
+            TOK, MODEL, LORA_OK = None, None, False
+            MODEL_LOADED = False
+            EMOTION_BACKEND = "lite_rules"
+        # (아래 PPO 부분은 그대로)
 
 
     if ray is None or PPOConfig is None or NoiEOfflineEnv is None:
@@ -1443,6 +1505,9 @@ def health():
         "rl_runs_dir_effective": str((RL_CKPT_INFO or {}).get("runs_dir") or ""),
         "num_actions": int(NUM_ACTIONS),
         "lora_ok": bool(LORA_OK),
+        "lite_mode": bool(LITE_MODE),
+        "model_loaded": bool(MODEL_LOADED),
+        "emotion_backend": str(EMOTION_BACKEND),
         "obs_dim": 14,
         "kakao_enabled": bool(KAKAO_REST_API_KEY),
         "kakao_use_bias": bool(env_bool("KAKAO_USE_BIAS", "0")),
@@ -1460,7 +1525,7 @@ def health():
 # ============================================================
 # ✅ RAG Endpoints
 # ============================================================
-@app.post("/rag/crawl")
+@app.post("/rag/crawl") 
 def rag_crawl(req: RagCrawlRequest):
     url = (req.url or "").strip()
     if not (url.startswith("http://") or url.startswith("https://")):
@@ -1520,7 +1585,7 @@ def chat(req: ChatRequest):
     stable_top5_sec = max(0, min(stable_top5_sec, 120))
     avoid_franchise = bool(req.avoid_franchise) if req.avoid_franchise is not None else bool(env_bool("AVOID_FRANCHISE", "0"))
     balance_types = bool(req.balance_types) if req.balance_types is not None else bool(env_bool("BALANCE_TYPES", "1"))
-   # ✅ API에서 강제 필드 제거했으니, 요청 강제값은 사용하지 않음
+    # ✅ API에서 강제 필드 제거했으니, 요청 강제값은 사용하지 않음
     req_area = None
     req_must_area = None
     req_cafe_type = None
@@ -1621,10 +1686,26 @@ def chat(req: ChatRequest):
 
     # 1) 8축 추론
     if LITE_MODE or (MODEL is None):
-        res = {"ok": True, "axes": {"F":0.2,"A":0.2,"D":0.1,"J":0.2,"C":0.1,"G":0.1,"T":0.2,"R":0.2}, "debug": {"lite": True}}
+        #✅ 기존 fixed(0.2/0.1 평탄화) 제거 → 룰 기반으로 우울/불안은 반드시 튀게
+        axes_lite = lite_axes_rules(user_text)
+        res = {
+            "ok": True,
+            "axes": axes_lite,
+            "debug": {
+                "lite": True,
+                "lite_mode": bool(LITE_MODE),
+                "model_loaded": bool(MODEL_LOADED),
+                "backend": "lite_rules",
+            },
+    }
     else:
         res = infer_with_retries(TOK, MODEL, user_text)
-
+        if isinstance(res, dict):
+            res.setdefault("debug", {})
+            if isinstance(res["debug"], dict):
+                res["debug"]["lite_mode"] = bool(LITE_MODE)
+                res["debug"]["model_loaded"] = bool(MODEL_LOADED)
+                res["debug"]["backend"] = "lora"
     axes = normalize_axes(res.get("axes", {}))
     ok = bool(res.get("ok", False))
 
@@ -2191,6 +2272,9 @@ def chat(req: ChatRequest):
         base_debug = {}
 
     debug_out = dict(base_debug)
+    debug_out["backend"] = str(EMOTION_BACKEND)
+    debug_out["lite_mode"] = bool(LITE_MODE)
+    debug_out["model_loaded"] = bool(MODEL_LOADED)
     debug_out["rl"] = debug_rl
     debug_out["rag"] = debug_rag
 
