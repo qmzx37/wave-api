@@ -34,6 +34,12 @@ import numpy as np
 
 from fastapi import FastAPI
 from pydantic import BaseModel
+
+# ✅ Pydantic v2 호환 (extra="ignore" 안정 적용)
+try:
+    from pydantic import ConfigDict  # pydantic v2
+except Exception:
+    ConfigDict = None  # type: ignore
 from fastapi.responses import JSONResponse
 
 # ✅ RAG
@@ -103,12 +109,14 @@ class ChatRequest(BaseModel):
     avoid_franchise: Optional[bool] = None
     stable_top5_sec: Optional[int] = None
     balance_types: Optional[bool] = None
-    # ✅ NEW: 프론트에서 지역/타입 강제 전달
-    area: Optional[str] = None        # 예: "기장"
-    must_area: Optional[str] = None   # 예: "기장" (더 강한 강제)
-    cafe_type: Optional[str] = None   # 예: "뷰카페" | "베이커리" | "디저트" | "대형카페" | "카페"
 
-
+    # ✅ IMPORTANT:
+    # 프론트/Swagger가 실수로 area/must_area/cafe_type 등을 보내도 422 터지지 않고 무시하게 함
+    if ConfigDict is not None:
+        model_config = ConfigDict(extra="ignore")
+    else:
+        class Config:
+            extra = "ignore"
 class ChatResponse(BaseModel):
     ok: bool
     axes: Dict[str, float]
@@ -1512,10 +1520,10 @@ def chat(req: ChatRequest):
     stable_top5_sec = max(0, min(stable_top5_sec, 120))
     avoid_franchise = bool(req.avoid_franchise) if req.avoid_franchise is not None else bool(env_bool("AVOID_FRANCHISE", "0"))
     balance_types = bool(req.balance_types) if req.balance_types is not None else bool(env_bool("BALANCE_TYPES", "1"))
-    req_area = _clean_str(req.area)
-    req_must_area = _clean_str(req.must_area)
-    req_cafe_type = _clean_str(req.cafe_type)
-
+   # ✅ API에서 강제 필드 제거했으니, 요청 강제값은 사용하지 않음
+    req_area = None
+    req_must_area = None
+    req_cafe_type = None
     if not user_text:
         return ChatResponse(
             ok=False,
@@ -1553,9 +1561,8 @@ def chat(req: ChatRequest):
         # area/type 우선순위: must_area > text_area > req_area
         tmp0 = _detect_area_type_from_text(user_text)
         text_area0 = _clean_str(tmp0.get("area"))
-        area0 = (req_must_area or text_area0 or req_area)  # 이미 clean 됨 -> None 가능
-
-        cafe_type0 = (req_cafe_type or _clean_str(tmp0.get("type")) or "카페")
+        area0 = text_area0
+        cafe_type0 = (_clean_str(tmp0.get("type")) or "카페")
         core_q0 = build_kakao_safe_query(area=area0, cafe_type=cafe_type0)
         fallbacks0 = build_kakao_fallback_queries(area=area0, cafe_type=cafe_type0)
 
@@ -2464,4 +2471,5 @@ if __name__ == "__main__":
 
     host = os.environ.get("HOST", "127.0.0.1")
     port = int(os.environ.get("PORT", "8000"))
-    uvicorn.run("api:app", host=host, port=port, reload=False)
+
+    uvicorn.run(app, host=host, port=port, reload=False)
