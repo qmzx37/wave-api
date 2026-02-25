@@ -138,6 +138,18 @@ def clamp01(x: Any) -> float:
         x = 0.0
     return max(0.0, min(1.0, x))
 
+def _clean_str(x: Any) -> Optional[str]:
+    """
+    Swagger/프론트에서 기본값으로 들어오는 'string' 같은 쓰레기 값을 None 처리.
+    """
+    if x is None:
+        return None
+    s = str(x).strip()
+    if not s:
+        return None
+    if s.lower() in {"string", "null", "none", "undefined"}:
+        return None
+    return s
 
 def _clean_text(s: str) -> str:
     s = (s or "").strip()
@@ -1500,9 +1512,9 @@ def chat(req: ChatRequest):
     stable_top5_sec = max(0, min(stable_top5_sec, 120))
     avoid_franchise = bool(req.avoid_franchise) if req.avoid_franchise is not None else bool(env_bool("AVOID_FRANCHISE", "0"))
     balance_types = bool(req.balance_types) if req.balance_types is not None else bool(env_bool("BALANCE_TYPES", "1"))
-    req_area = (req.area or "").strip()
-    req_must_area = (req.must_area or "").strip()
-    req_cafe_type = (req.cafe_type or "").strip()
+    req_area = _clean_str(req.area)
+    req_must_area = _clean_str(req.must_area)
+    req_cafe_type = _clean_str(req.cafe_type)
 
     if not user_text:
         return ChatResponse(
@@ -1540,11 +1552,10 @@ def chat(req: ChatRequest):
     if amp_flag_early and (not _deadline_exceeded()):
         # area/type 우선순위: must_area > text_area > req_area
         tmp0 = _detect_area_type_from_text(user_text)
-        text_area0 = (tmp0.get("area", "") or "").strip()
-        area0 = (req_must_area or text_area0 or req_area or "").strip()
+        text_area0 = _clean_str(tmp0.get("area"))
+        area0 = (req_must_area or text_area0 or req_area)  # 이미 clean 됨 -> None 가능
 
-        cafe_type0 = (req_cafe_type or tmp0.get("type", "") or "카페").strip()
-
+        cafe_type0 = (req_cafe_type or _clean_str(tmp0.get("type")) or "카페")
         core_q0 = build_kakao_safe_query(area=area0, cafe_type=cafe_type0)
         fallbacks0 = build_kakao_fallback_queries(area=area0, cafe_type=cafe_type0)
 
@@ -1849,14 +1860,10 @@ def chat(req: ChatRequest):
             # ✅ 우선순위: must_area > area > 텍스트 추출 (PATCH 4-2)
             _tmp = _detect_area_type_from_text(user_text)
 
-            # ✅ 우선순위 수정:
-            # must_area(강제) > "유저가 문장에 명시한 지역" > 프론트 area(기본값) > ""
-            text_area = (_tmp.get("area", "") or "").strip()
-            area = (req_must_area or text_area or req_area or "").strip()
+            text_area = _clean_str(_tmp.get("area"))
+            area = (req_must_area or text_area or req_area)  # None 가능
 
-            # ✅ 타입 우선순위는 유지(프론트가 준 타입 우선)
-            cafe_type = (req_cafe_type or _tmp.get("type", "") or "카페").strip()
-
+            cafe_type = (req_cafe_type or _clean_str(_tmp.get("type")) or "카페")
             core_q = build_kakao_safe_query(area=area, cafe_type=cafe_type)
             fallbacks = build_kakao_fallback_queries(area=area, cafe_type=cafe_type)
 
@@ -1939,7 +1946,6 @@ def chat(req: ChatRequest):
                     kakao_raw = [p for p in (kakao_raw or []) if _area_match(p, area)]
                     area_drop = before - len(kakao_raw)
                 debug_rag["area_filter"] = {"area": area, "dropped_raw": int(area_drop)}
-
                 
                 debug_rag["diverse_seed_bucket"] = int(seed_bucket)
 
