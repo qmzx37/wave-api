@@ -6,7 +6,7 @@ WORKDIR /app
 RUN pip install --no-cache-dir --upgrade pip
 
 # 의존성 먼저 설치 (캐시 효율)
-COPY requirements.txt /app/requirements.txt
+COPY requirement-lite.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r /app/requirements.txt
 
 # 앱 코드 복사
