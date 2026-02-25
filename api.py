@@ -1943,12 +1943,10 @@ def chat(req: ChatRequest):
                 area_drop = 0
                 if area:
                     before = len(kakao_raw or [])
-                    kakao_raw = [p for p in (kakao_raw or []) if _area_match(p, area)]
-                    area_drop = before - len(kakao_raw)
+                    # 🔥 HOTFIX: area filter temporarily disabled
+                    # kakao_raw = [p for p in (kakao_raw or []) if _area_match(p, area)]
+                    area_drop = before - len(kakao_raw or [])
                 debug_rag["area_filter"] = {"area": area, "dropped_raw": int(area_drop)}
-                
-                debug_rag["diverse_seed_bucket"] = int(seed_bucket)
-
                 if not kakao_places:
                     kakao_places, pick_dbg = pick_top5_diverse(
                     kakao_raw,
@@ -1963,9 +1961,9 @@ def chat(req: ChatRequest):
                 if area:
                     debug_rag.setdefault("area_filter", {"area": area, "dropped_raw": 0})
                     before5 = len(kakao_places or [])
-                    kakao_places = [p for p in (kakao_places or []) if _area_match(p, area)]
-                    debug_rag["area_filter"]["dropped_top5"] = int(before5 - len(kakao_places))
-
+                    # 🔥 HOTFIX: area filter temporarily disabled
+                    # kakao_places = [p for p in (kakao_places or []) if _area_match(p, area)]
+                    debug_rag["area_filter"]["dropped_top5"] = int(before5 - len(kakao_places or []))
                 kakao_places, drop_top = _filter_blocklist(kakao_places)
                 debug_rag["blocklist_dropped_top5"] = int(drop_top)
 
